@@ -4,6 +4,10 @@ Free AAC symbol libraries packaged for download in the [Kamzi Talk](https://gith
 
 These packs are built by `scripts/symbols/` in the Kamzi Talk repo. Do not edit them by hand.
 
+## Word bank
+
+`packs/word-bank/` holds one 128px picture for each of about 11,000 extra words in the app's Word bank and keyboard suggestions. Each picture comes from one of the libraries credited below (Mulberry first, then the PiCom sets, Stellar, Otsimo, Tawasol and OCHA).
+
 ## Credits and licences
 
 The symbols are not owned by Kam Core Pty Ltd. They are redistributed unmodified (resized to 192px PNG) under their original licences. Most come via [Global Symbols](https://globalsymbols.com).
