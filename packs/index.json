@@ -10,9 +10,9 @@
    "url": "https://mulberrysymbols.org",
    "credit": "Mulberry Symbols by Steve Lee, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 1194,
-   "images": 1043,
-   "bytes": 7404602
+   "words": 1171,
+   "images": 1038,
+   "bytes": 7381498
   },
   {
    "id": "openmoji",
@@ -24,9 +24,9 @@
    "url": "https://openmoji.org",
    "credit": "OpenMoji by OpenMoji, HfG Schwäbisch Gmünd, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 3034,
-   "images": 900,
-   "bytes": 4847583
+   "words": 3012,
+   "images": 899,
+   "bytes": 4843695
   },
   {
    "id": "picom-ai-cartoon",
@@ -38,9 +38,9 @@
    "url": "https://globalsymbols.com/symbolsets/ai-cartoon-symbols-picom-core-fringe-set",
    "credit": "PiCom AI Cartoon by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 979,
-   "images": 1316,
-   "bytes": 14460868
+   "words": 957,
+   "images": 1307,
+   "bytes": 14400321
   },
   {
    "id": "picom-ai-cute",
@@ -52,9 +52,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-ai-cute-symbols",
    "credit": "PiCom AI Cute by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 809,
-   "images": 1194,
-   "bytes": 12035988
+   "words": 797,
+   "images": 1186,
+   "bytes": 12002754
   },
   {
    "id": "picom-ai-realistic",
@@ -66,9 +66,9 @@
    "url": "https://globalsymbols.com/symbolsets/ai-realistic-symbols-a-picom-collection",
    "credit": "PiCom AI Realistic by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 1295,
-   "images": 1808,
-   "bytes": 19871547
+   "words": 1277,
+   "images": 1800,
+   "bytes": 19817286
   },
   {
    "id": "picom-ai-curriculum",
@@ -80,9 +80,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-curriculum-symbols",
    "credit": "PiCom AI Curriculum by Sensory App House Ltd, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 301,
-   "images": 213,
-   "bytes": 780336
+   "words": 296,
+   "images": 212,
+   "bytes": 778746
   },
   {
    "id": "picom-ai-sommi-action",
@@ -94,7 +94,7 @@
    "url": "https://globalsymbols.com/symbolsets/picom-ai-sommi-action-symbols",
    "credit": "PiCom AI Sommi Action by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 267,
+   "words": 264,
    "images": 276,
    "bytes": 2039360
   },
@@ -108,9 +108,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-high-contrast-symbols",
    "credit": "PiCom High Contrast by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 396,
-   "images": 696,
-   "bytes": 4574394
+   "words": 391,
+   "images": 695,
+   "bytes": 4560008
   },
   {
    "id": "picom-auxiliary",
@@ -178,9 +178,9 @@
    "url": "https://www.blissymbolics.org",
    "credit": "Parts herein © Blissymbolics Communication International (BCI), distributed under the Creative Commons BY-SA 4.0 licence.",
    "version": "2026-10-23",
-   "words": 816,
-   "images": 647,
-   "bytes": 2377018
+   "words": 808,
+   "images": 644,
+   "bytes": 2364883
   },
   {
    "id": "tawasol",
@@ -192,9 +192,9 @@
    "url": "https://tawasolsymbols.org",
    "credit": "Tawasol by Mada, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 283,
-   "images": 298,
-   "bytes": 1874167
+   "words": 278,
+   "images": 295,
+   "bytes": 1869246
   },
   {
    "id": "stellar",
@@ -206,7 +206,7 @@
    "url": "https://globalsymbols.com/symbolsets/stellar-symbols",
    "credit": "Stellar Symbols by Colin McNamee, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 248,
+   "words": 245,
    "images": 163,
    "bytes": 1202553
   },
