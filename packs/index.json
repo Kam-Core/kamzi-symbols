@@ -1,0 +1,32 @@
+{
+ "packs": [
+  {
+   "id": "mulberry",
+   "name": "Mulberry Symbols",
+   "by": "Steve Lee",
+   "style": "Clean line drawings, good for older children and adults",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "url": "https://mulberrysymbols.org",
+   "credit": "Mulberry Symbols by Steve Lee, CC BY-SA 4.0.",
+   "version": "2026-10-23",
+   "words": 458,
+   "images": 538,
+   "bytes": 3716275
+  },
+  {
+   "id": "openmoji",
+   "name": "OpenMoji",
+   "by": "OpenMoji, HfG Schwäbisch Gmünd",
+   "style": "Hand-drawn emoji with outlines",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "url": "https://openmoji.org",
+   "credit": "OpenMoji by OpenMoji, HfG Schwäbisch Gmünd, CC BY-SA 4.0.",
+   "version": "2026-10-23",
+   "words": 904,
+   "images": 600,
+   "bytes": 3155188
+  }
+ ]
+}
