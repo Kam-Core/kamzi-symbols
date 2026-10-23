@@ -10,9 +10,9 @@
    "url": "https://mulberrysymbols.org",
    "credit": "Mulberry Symbols by Steve Lee, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 694,
-   "images": 689,
-   "bytes": 4774611
+   "words": 1194,
+   "images": 1043,
+   "bytes": 7404602
   },
   {
    "id": "openmoji",
@@ -24,9 +24,9 @@
    "url": "https://openmoji.org",
    "credit": "OpenMoji by OpenMoji, HfG Schwäbisch Gmünd, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 1535,
-   "images": 720,
-   "bytes": 3775812
+   "words": 3034,
+   "images": 900,
+   "bytes": 4847583
   },
   {
    "id": "picom-ai-cartoon",
@@ -38,9 +38,9 @@
    "url": "https://globalsymbols.com/symbolsets/ai-cartoon-symbols-picom-core-fringe-set",
    "credit": "PiCom AI Cartoon by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 608,
-   "images": 990,
-   "bytes": 10754860
+   "words": 979,
+   "images": 1316,
+   "bytes": 14460868
   },
   {
    "id": "picom-ai-cute",
@@ -52,9 +52,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-ai-cute-symbols",
    "credit": "PiCom AI Cute by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 515,
-   "images": 910,
-   "bytes": 9158002
+   "words": 809,
+   "images": 1194,
+   "bytes": 12035988
   },
   {
    "id": "picom-ai-realistic",
@@ -66,9 +66,9 @@
    "url": "https://globalsymbols.com/symbolsets/ai-realistic-symbols-a-picom-collection",
    "credit": "PiCom AI Realistic by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 775,
-   "images": 1271,
-   "bytes": 13684366
+   "words": 1295,
+   "images": 1808,
+   "bytes": 19871547
   },
   {
    "id": "picom-ai-curriculum",
@@ -80,9 +80,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-curriculum-symbols",
    "credit": "PiCom AI Curriculum by Sensory App House Ltd, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 163,
-   "images": 135,
-   "bytes": 486471
+   "words": 301,
+   "images": 213,
+   "bytes": 780336
   },
   {
    "id": "picom-ai-sommi-action",
@@ -94,9 +94,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-ai-sommi-action-symbols",
    "credit": "PiCom AI Sommi Action by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 122,
-   "images": 172,
-   "bytes": 1245329
+   "words": 267,
+   "images": 276,
+   "bytes": 2039360
   },
   {
    "id": "picom-high-contrast",
@@ -108,9 +108,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-high-contrast-symbols",
    "credit": "PiCom High Contrast by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 297,
-   "images": 594,
-   "bytes": 3837536
+   "words": 396,
+   "images": 696,
+   "bytes": 4574394
   },
   {
    "id": "picom-auxiliary",
@@ -122,9 +122,9 @@
    "url": "https://globalsymbols.com/symbolsets/picom-auxiliary-verb-collection",
    "credit": "PiCom Auxiliary Verb & Inflection by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 5,
-   "images": 5,
-   "bytes": 18104
+   "words": 14,
+   "images": 12,
+   "bytes": 48915
   },
   {
    "id": "picom-legal-ai",
@@ -136,9 +136,9 @@
    "url": "https://globalsymbols.com/symbolsets/legal-collection-ai-realistic-symbols",
    "credit": "PiCom Legal AI Realistic by Sensory App House with Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 13,
-   "images": 17,
-   "bytes": 252874
+   "words": 30,
+   "images": 30,
+   "bytes": 467390
   },
   {
    "id": "mulberry-additional",
@@ -150,9 +150,9 @@
    "url": "https://globalsymbols.com/symbolsets/additional-mulberry-symbols",
    "credit": "Mulberry Additional by Verlag Karin Kestner GmbH, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 41,
-   "images": 35,
-   "bytes": 147098
+   "words": 53,
+   "images": 41,
+   "bytes": 173794
   },
   {
    "id": "mulberry-plus",
@@ -164,9 +164,9 @@
    "url": "https://globalsymbols.com/symbolsets/corona-symbols",
    "credit": "Mulberry Plus by Mulberry and Global Symbols, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 5,
-   "images": 5,
-   "bytes": 22373
+   "words": 13,
+   "images": 6,
+   "bytes": 28168
   },
   {
    "id": "blissymbolics",
@@ -178,9 +178,9 @@
    "url": "https://www.blissymbolics.org",
    "credit": "Parts herein © Blissymbolics Communication International (BCI), distributed under the Creative Commons BY-SA 4.0 licence.",
    "version": "2026-10-23",
-   "words": 459,
-   "images": 393,
-   "bytes": 1457228
+   "words": 816,
+   "images": 647,
+   "bytes": 2377018
   },
   {
    "id": "tawasol",
@@ -192,9 +192,9 @@
    "url": "https://tawasolsymbols.org",
    "credit": "Tawasol by Mada, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 180,
-   "images": 242,
-   "bytes": 1567360
+   "words": 283,
+   "images": 298,
+   "bytes": 1874167
   },
   {
    "id": "stellar",
@@ -206,9 +206,9 @@
    "url": "https://globalsymbols.com/symbolsets/stellar-symbols",
    "credit": "Stellar Symbols by Colin McNamee, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 165,
-   "images": 140,
-   "bytes": 1011856
+   "words": 248,
+   "images": 163,
+   "bytes": 1202553
   },
   {
    "id": "otsimo",
@@ -220,9 +220,9 @@
    "url": "https://globalsymbols.com/symbolsets/otsimo",
    "credit": "Otsimo by Otsimo (Ersin Kiymaz, Naz Yilmaz, Ersin Sinay), CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 94,
-   "images": 111,
-   "bytes": 832098
+   "words": 162,
+   "images": 139,
+   "bytes": 1084024
   },
   {
    "id": "adam-urdu",
@@ -234,9 +234,9 @@
    "url": "https://globalsymbols.com/symbolsets/urdu-core-vocabulary-symbols",
    "credit": "Adam Urdu Symbols by Misbah S Ansari, Dr Ayesha Kamal Butt, E.A. Draffan, CC BY-SA 4.0.",
    "version": "2026-10-23",
-   "words": 25,
-   "images": 28,
-   "bytes": 139830
+   "words": 48,
+   "images": 32,
+   "bytes": 158967
   },
   {
    "id": "ocha",
@@ -248,9 +248,9 @@
    "url": "https://globalsymbols.com/symbolsets/ocha-humanitarian-icons",
    "credit": "OCHA Humanitarian Icons by OCHA Visual, Public domain.",
    "version": "2026-10-23",
-   "words": 59,
-   "images": 41,
-   "bytes": 131957
+   "words": 89,
+   "images": 59,
+   "bytes": 192268
   }
  ]
 }
