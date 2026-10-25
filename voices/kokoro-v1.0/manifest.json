@@ -39,22 +39,22 @@
       "echo": {
         "file": "clips/echo.pack",
         "index": "clips/echo.json",
-        "bytes": 31916967
+        "bytes": 31938789
       },
       "heart": {
         "file": "clips/heart.pack",
         "index": "clips/heart.json",
-        "bytes": 27743367
+        "bytes": 27769509
       },
       "puck": {
         "file": "clips/puck.pack",
         "index": "clips/puck.json",
-        "bytes": 28143447
+        "bytes": 28177389
       },
       "sky": {
         "file": "clips/sky.pack",
         "index": "clips/sky.json",
-        "bytes": 31829127
+        "bytes": 31042269
       }
     }
   }
