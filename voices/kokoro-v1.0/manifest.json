@@ -1,0 +1,25 @@
+{
+ "version": "kokoro-v1.0-1",
+ "sampleRate": 24000,
+ "voices": [
+  "af_sky.bin",
+  "am_puck.bin",
+  "af_heart.bin",
+  "am_echo.bin"
+ ],
+ "lexicon": "lexicon-en-us.tsv",
+ "model": {
+  "parts": [
+   "kokoro-v1.0-fp16.onnx.part0",
+   "kokoro-v1.0-fp16.onnx.part1",
+   "kokoro-v1.0-fp16.onnx.part2",
+   "kokoro-v1.0-fp16.onnx.part3",
+   "kokoro-v1.0-fp16.onnx.part4",
+   "kokoro-v1.0-fp16.onnx.part5",
+   "kokoro-v1.0-fp16.onnx.part6",
+   "kokoro-v1.0-fp16.onnx.part7"
+  ],
+  "bytes": 177464787,
+  "sha256": "c1610a859f3bdea01107e73e50100685af38fff88f5cd8e5c56df109ec880204"
+ }
+}
