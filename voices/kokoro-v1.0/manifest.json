@@ -1,35 +1,61 @@
 {
- "version": "kokoro-v1.0-1",
- "sampleRate": 24000,
- "voices": [
-  "af_sky.bin",
-  "am_puck.bin",
-  "af_heart.bin",
-  "am_echo.bin"
- ],
- "lexicon": "lexicon-en-us.tsv",
- "model": {
-  "parts": [
-   "kokoro-v1.0-fp16.onnx.part0",
-   "kokoro-v1.0-fp16.onnx.part1",
-   "kokoro-v1.0-fp16.onnx.part2",
-   "kokoro-v1.0-fp16.onnx.part3",
-   "kokoro-v1.0-fp16.onnx.part4",
-   "kokoro-v1.0-fp16.onnx.part5",
-   "kokoro-v1.0-fp16.onnx.part6",
-   "kokoro-v1.0-fp16.onnx.part7"
+  "version": "kokoro-v1.0-1+clips20261026",
+  "sampleRate": 24000,
+  "voices": [
+    "af_sky.bin",
+    "am_puck.bin",
+    "af_heart.bin",
+    "am_echo.bin"
   ],
-  "bytes": 177464787,
-  "sha256": "c1610a859f3bdea01107e73e50100685af38fff88f5cd8e5c56df109ec880204"
- },
- "webModel": {
-  "parts": [
-   "kokoro-v1.0-int8.onnx.part0",
-   "kokoro-v1.0-int8.onnx.part1",
-   "kokoro-v1.0-int8.onnx.part2",
-   "kokoro-v1.0-int8.onnx.part3"
-  ],
-  "bytes": 92361271,
-  "sha256": "6e742170d309016e5891a994e1ce1559c702a2ccd0075e67ef7157974f6406cb"
- }
+  "lexicon": "lexicon-en-us.tsv",
+  "model": {
+    "parts": [
+      "kokoro-v1.0-fp16.onnx.part0",
+      "kokoro-v1.0-fp16.onnx.part1",
+      "kokoro-v1.0-fp16.onnx.part2",
+      "kokoro-v1.0-fp16.onnx.part3",
+      "kokoro-v1.0-fp16.onnx.part4",
+      "kokoro-v1.0-fp16.onnx.part5",
+      "kokoro-v1.0-fp16.onnx.part6",
+      "kokoro-v1.0-fp16.onnx.part7"
+    ],
+    "bytes": 177464787,
+    "sha256": "c1610a859f3bdea01107e73e50100685af38fff88f5cd8e5c56df109ec880204"
+  },
+  "webModel": {
+    "parts": [
+      "kokoro-v1.0-int8.onnx.part0",
+      "kokoro-v1.0-int8.onnx.part1",
+      "kokoro-v1.0-int8.onnx.part2",
+      "kokoro-v1.0-int8.onnx.part3"
+    ],
+    "bytes": 92361271,
+    "sha256": "6e742170d309016e5891a994e1ce1559c702a2ccd0075e67ef7157974f6406cb"
+  },
+  "clips": {
+    "version": "20261026",
+    "index": "clips/index.json",
+    "packs": {
+      "echo": {
+        "file": "clips/echo.pack",
+        "index": "clips/echo.json",
+        "bytes": 31916967
+      },
+      "heart": {
+        "file": "clips/heart.pack",
+        "index": "clips/heart.json",
+        "bytes": 27743367
+      },
+      "puck": {
+        "file": "clips/puck.pack",
+        "index": "clips/puck.json",
+        "bytes": 28143447
+      },
+      "sky": {
+        "file": "clips/sky.pack",
+        "index": "clips/sky.json",
+        "bytes": 31829127
+      }
+    }
+  }
 }
