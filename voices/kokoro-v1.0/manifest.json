@@ -21,5 +21,15 @@
   ],
   "bytes": 177464787,
   "sha256": "c1610a859f3bdea01107e73e50100685af38fff88f5cd8e5c56df109ec880204"
+ },
+ "webModel": {
+  "parts": [
+   "kokoro-v1.0-int8.onnx.part0",
+   "kokoro-v1.0-int8.onnx.part1",
+   "kokoro-v1.0-int8.onnx.part2",
+   "kokoro-v1.0-int8.onnx.part3"
+  ],
+  "bytes": 92361271,
+  "sha256": "6e742170d309016e5891a994e1ce1559c702a2ccd0075e67ef7157974f6406cb"
  }
 }
