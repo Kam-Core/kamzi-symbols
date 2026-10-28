@@ -1,0 +1,22 @@
+{
+  "version": "kamzi-v2+clips202610290206",
+  "sampleRate": 24000,
+  "voices": [],
+  "lexicon": "",
+  "clips": {
+    "version": "20261029",
+    "index": "clips/index.json",
+    "packs": {
+      "ana": {
+        "file": "clips/ana.pack",
+        "index": "clips/ana.json",
+        "bytes": 81608313
+      },
+      "kai": {
+        "file": "clips/kai.pack",
+        "index": "clips/kai.json",
+        "bytes": 75175713
+      }
+    }
+  }
+}
