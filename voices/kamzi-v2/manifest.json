@@ -1,10 +1,10 @@
 {
-  "version": "kamzi-v2+clips202610290206",
+  "version": "kamzi-v2+clips202611011522",
   "sampleRate": 24000,
   "voices": [],
   "lexicon": "",
   "clips": {
-    "version": "20261029",
+    "version": "20261101",
     "index": "clips/index.json",
     "packs": {
       "ana": {
@@ -16,6 +16,21 @@
         "file": "clips/kai.pack",
         "index": "clips/kai.json",
         "bytes": 75175713
+      },
+      "carly": {
+        "file": "clips/carly.pack",
+        "index": "clips/carly.json",
+        "bytes": 85335633
+      },
+      "noor": {
+        "file": "clips/noor.pack",
+        "index": "clips/noor.json",
+        "bytes": 79296873
+      },
+      "ari": {
+        "file": "clips/ari.pack",
+        "index": "clips/ari.json",
+        "bytes": 77400273
       }
     }
   }
