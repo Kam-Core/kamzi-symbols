@@ -1002,5 +1002,19 @@
  "tell-adult": {
   "word": "tell adult",
   "id": "social.chatting.tell-adult"
+ },
+ "pain-scale": {
+  "word": "pain scale",
+  "note": "0 to 10, six faces over a green-to-red bar, 3:1"
+ },
+ "big-hurt": {
+  "word": "big hurt"
+ },
+ "a-little-hurt": {
+  "word": "a little hurt"
+ },
+ "share-food-no": {
+  "word": "no sharing food",
+  "note": "for allergy boards"
  }
 }
