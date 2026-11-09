@@ -998,5 +998,9 @@
    "body-and-health.i-feel-sick.bite"
   ],
   "note": "clearer redraw; the old picture stays as an option"
+ },
+ "tell-adult": {
+  "word": "tell adult",
+  "id": "social.chatting.tell-adult"
  }
 }
