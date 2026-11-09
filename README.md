@@ -8,6 +8,10 @@ These packs are built by `scripts/symbols/` in the Kamzi Talk repo. Do not edit 
 
 `packs/word-bank/` holds one 128px picture for each of about 11,000 extra words in the app's Word bank and keyboard suggestions. Each picture comes from one of the libraries credited below (Mulberry first, then the PiCom sets, Stellar, Otsimo, Tawasol and OCHA).
 
+## Kamzi pictures for Kamzi Boards
+
+`packs/kamzi-boards/` holds Kamzi Talk's own drawings made for the Kamzi Boards templates (November 2026): 178 new words and 40 clearer redraws. `index.json` maps each SVG to its word and Kamzi Talk word ID. They are © Kam Core Pty Ltd and are built into the app (`assets/kamzi-art`); this copy keeps all Kamzi pictures in one repo. Not a download library, so it is not listed in `packs/index.json`.
+
 ## Credits and licences
 
 The symbols are not owned by Kam Core Pty Ltd. They are redistributed unmodified (resized to 192px PNG) under their original licences. Most come via [Global Symbols](https://globalsymbols.com).

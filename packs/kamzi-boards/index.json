@@ -1,0 +1,1002 @@
+{
+ "small-problem": {
+  "word": "small problem",
+  "id": "feelings.feeling-words.small-problem"
+ },
+ "medium-problem": {
+  "word": "medium problem",
+  "id": "feelings.feeling-words.medium-problem"
+ },
+ "big-problem": {
+  "word": "big problem",
+  "id": "feelings.feeling-words.big-problem"
+ },
+ "spit": {
+  "word": "spit",
+  "id": "actions.moving.spit"
+ },
+ "get-down-low": {
+  "word": "get down low",
+  "id": "emergency.emergency.get-down-low"
+ },
+ "carols": {
+  "word": "carols",
+  "id": "events-and-occasions.celebrations.carols"
+ },
+ "loop": {
+  "word": "loop",
+  "id": "clothes.getting-dressed.loop"
+ },
+ "pull-tight": {
+  "word": "pull tight",
+  "id": "clothes.getting-dressed.pull-tight"
+ },
+ "ghost": {
+  "word": "ghost",
+  "id": "events-and-occasions.celebrations.ghost"
+ },
+ "lantern": {
+  "word": "lantern",
+  "id": "events-and-occasions.celebrations.lantern"
+ },
+ "row-boat": {
+  "word": "row boat",
+  "id": "transport.air-and-water.row-boat"
+ },
+ "santa": {
+  "word": "Santa",
+  "id": "events-and-occasions.celebrations.santa"
+ },
+ "no-hurt": {
+  "word": "no hurt",
+  "id": "body-and-health.i-feel-sick.no-hurt"
+ },
+ "little-hurt": {
+  "word": "little hurt",
+  "id": "body-and-health.i-feel-sick.little-hurt"
+ },
+ "some-hurt": {
+  "word": "some hurt",
+  "id": "body-and-health.i-feel-sick.some-hurt"
+ },
+ "a-lot-of-hurt": {
+  "word": "a lot of hurt",
+  "id": "body-and-health.i-feel-sick.a-lot-of-hurt"
+ },
+ "worst-hurt": {
+  "word": "worst hurt",
+  "id": "body-and-health.i-feel-sick.worst-hurt"
+ },
+ "arm-in": {
+  "word": "arm in",
+  "id": "clothes.getting-dressed.arm-in"
+ },
+ "other-arm": {
+  "word": "other arm",
+  "id": "clothes.getting-dressed.other-arm"
+ },
+ "swim-with-adult": {
+  "word": "swim with adult",
+  "id": "places.beach-and-pool.swim-with-adult"
+ },
+ "pants-down": {
+  "word": "pants down",
+  "id": "body-and-health.toilet-and-hygiene.pants-down"
+ },
+ "pants-up": {
+  "word": "pants up",
+  "id": "body-and-health.toilet-and-hygiene.pants-up"
+ },
+ "sit-on-toilet": {
+  "word": "sit on toilet",
+  "id": "body-and-health.toilet-and-hygiene.sit-on-toilet"
+ },
+ "stand-at-toilet": {
+  "word": "stand at toilet",
+  "id": "body-and-health.toilet-and-hygiene.stand-at-toilet"
+ },
+ "find-toilet": {
+  "word": "find toilet",
+  "id": "body-and-health.toilet-and-hygiene.find-toilet"
+ },
+ "lock-door": {
+  "word": "lock door",
+  "id": "body-and-health.toilet-and-hygiene.lock-door"
+ },
+ "unlock-door": {
+  "word": "unlock door",
+  "id": "body-and-health.toilet-and-hygiene.unlock-door"
+ },
+ "pull-up-off": {
+  "word": "pull-up off",
+  "id": "body-and-health.toilet-and-hygiene.pull-up-off"
+ },
+ "pull-up-on": {
+  "word": "pull-up on",
+  "id": "body-and-health.toilet-and-hygiene.pull-up-on"
+ },
+ "pad-off": {
+  "word": "pad off",
+  "id": "body-and-health.toilet-and-hygiene.pad-off"
+ },
+ "new-pad": {
+  "word": "new pad",
+  "id": "body-and-health.toilet-and-hygiene.new-pad"
+ },
+ "safe-adult": {
+  "word": "safe adult",
+  "id": "people.helpers.safe-adult"
+ },
+ "wet-hands": {
+  "word": "wet hands",
+  "id": "body-and-health.toilet-and-hygiene.wet-hands"
+ },
+ "wet-body": {
+  "word": "wet body",
+  "id": "body-and-health.toilet-and-hygiene.wet-body"
+ },
+ "wet-hair": {
+  "word": "wet hair",
+  "id": "body-and-health.toilet-and-hygiene.wet-hair"
+ },
+ "wet-face": {
+  "word": "wet face",
+  "id": "body-and-health.toilet-and-hygiene.wet-face"
+ },
+ "top-teeth": {
+  "word": "top teeth",
+  "id": "body-and-health.toilet-and-hygiene.top-teeth"
+ },
+ "bottom-teeth": {
+  "word": "bottom teeth",
+  "id": "body-and-health.toilet-and-hygiene.bottom-teeth"
+ },
+ "blow-nose": {
+  "word": "blow nose",
+  "id": "body-and-health.toilet-and-hygiene.blow-nose"
+ },
+ "run-bath": {
+  "word": "run bath",
+  "id": "body-and-health.toilet-and-hygiene.run-bath"
+ },
+ "get-in": {
+  "word": "get in",
+  "id": "actions.moving.get-in"
+ },
+ "check-water": {
+  "word": "check water",
+  "id": "body-and-health.toilet-and-hygiene.check-water"
+ },
+ "shoes-off": {
+  "word": "shoes off",
+  "id": "clothes.getting-dressed.shoes-off"
+ },
+ "socks-off": {
+  "word": "socks off",
+  "id": "clothes.getting-dressed.socks-off"
+ },
+ "pants-off": {
+  "word": "pants off",
+  "id": "clothes.getting-dressed.pants-off"
+ },
+ "t-shirt-off": {
+  "word": "t-shirt off",
+  "id": "clothes.getting-dressed.t-shirt-off"
+ },
+ "pyjama-top": {
+  "word": "pyjama top",
+  "id": "clothes.clothes.pyjama-top"
+ },
+ "pyjama-pants": {
+  "word": "pyjama pants",
+  "id": "clothes.clothes.pyjama-pants"
+ },
+ "clothes-off": {
+  "word": "clothes off",
+  "id": "clothes.getting-dressed.clothes-off"
+ },
+ "new-clothes": {
+  "word": "new clothes",
+  "id": "clothes.getting-dressed.new-clothes"
+ },
+ "vegetables": {
+  "word": "vegetables",
+  "id": "food-and-drink.vegetables.vegetables"
+ },
+ "plate-to-sink": {
+  "word": "plate to sink",
+  "id": "at-home.jobs.plate-to-sink"
+ },
+ "sleeve-up": {
+  "word": "sleeve up",
+  "id": "clothes.getting-dressed.sleeve-up"
+ },
+ "cotton-ball": {
+  "word": "cotton ball",
+  "id": "body-and-health.medicine-and-care.cotton-ball"
+ },
+ "glasses-on": {
+  "word": "glasses on",
+  "id": "body-and-health.disability-and-support.glasses-on"
+ },
+ "glasses-case": {
+  "word": "glasses case",
+  "id": "body-and-health.disability-and-support.glasses-case"
+ },
+ "breathe-out": {
+  "word": "breathe out",
+  "id": "body-and-health.calm-and-senses.breathe-out"
+ },
+ "walk-away": {
+  "word": "walk away",
+  "id": "actions.moving.walk-away"
+ },
+ "walk-over": {
+  "word": "walk over",
+  "id": "actions.moving.walk-over"
+ },
+ "walk-back": {
+  "word": "walk back",
+  "id": "actions.moving.walk-back"
+ },
+ "more-time": {
+  "word": "more time",
+  "id": "social.chatting.more-time"
+ },
+ "too-close": {
+  "word": "too close",
+  "id": "social.chatting.too-close"
+ },
+ "step-back": {
+  "word": "step back",
+  "id": "actions.moving.step-back"
+ },
+ "permission-note": {
+  "word": "permission note",
+  "id": "school.school-things.permission-note"
+ },
+ "list": {
+  "word": "list",
+  "id": "school.school-things.list"
+ },
+ "new-teacher": {
+  "word": "new teacher",
+  "id": "school.school-day.new-teacher"
+ },
+ "teacher-away": {
+  "word": "teacher away",
+  "id": "school.school-day.teacher-away"
+ },
+ "teacher-back": {
+  "word": "teacher back",
+  "id": "school.school-day.teacher-back"
+ },
+ "tell-teacher": {
+  "word": "tell teacher",
+  "id": "school.in-class.tell-teacher"
+ },
+ "log-in": {
+  "word": "log in",
+  "id": "toys-and-play.technology.log-in"
+ },
+ "log-off": {
+  "word": "log off",
+  "id": "toys-and-play.technology.log-off"
+ },
+ "choose-book": {
+  "word": "choose book",
+  "id": "school.reading-and-writing.choose-book"
+ },
+ "hall": {
+  "word": "hall",
+  "id": "school.school-day.hall"
+ },
+ "back-inside": {
+  "word": "back inside",
+  "id": "school.school-day.back-inside"
+ },
+ "same-work": {
+  "word": "same work",
+  "id": "school.in-class.same-work"
+ },
+ "menu": {
+  "word": "menu",
+  "id": "food-and-drink.mealtime.menu"
+ },
+ "booster-seat": {
+  "word": "booster seat",
+  "id": "transport.cars-and-roads.booster-seat"
+ },
+ "press-bell": {
+  "word": "press bell",
+  "id": "transport.trains-and-buses.press-bell"
+ },
+ "park-bike": {
+  "word": "park bike",
+  "id": "transport.going-places.park-bike"
+ },
+ "sleeping-bag": {
+  "word": "sleeping bag",
+  "id": "at-home.bedtime.sleeping-bag"
+ },
+ "look-for-helper": {
+  "word": "look for helper",
+  "id": "emergency.emergency.look-for-helper"
+ },
+ "stay-close": {
+  "word": "stay close",
+  "id": "emergency.emergency.stay-close"
+ },
+ "my-body": {
+  "word": "my body",
+  "id": "body-and-health.body-parts.my-body"
+ },
+ "pool-gate": {
+  "word": "pool gate",
+  "id": "places.beach-and-pool.pool-gate"
+ },
+ "ask-first": {
+  "word": "ask first",
+  "id": "social.chatting.ask-first"
+ },
+ "no-strangers": {
+  "word": "no strangers",
+  "id": "emergency.emergency.no-strangers"
+ },
+ "ipad-off": {
+  "word": "iPad off",
+  "id": "toys-and-play.technology.ipad-off"
+ },
+ "come-in": {
+  "word": "come in",
+  "id": "actions.moving.come-in"
+ },
+ "sleep-in": {
+  "word": "sleep in",
+  "id": "at-home.bedtime.sleep-in"
+ },
+ "together": {
+  "word": "together",
+  "id": "actions.with-people.together"
+ },
+ "play-together": {
+  "word": "play together",
+  "id": "actions.with-people.play-together"
+ },
+ "red-envelope": {
+  "word": "red envelope",
+  "id": "events-and-occasions.faith-and-festivals.red-envelope"
+ },
+ "new-year": {
+  "word": "new year",
+  "id": "events-and-occasions.celebrations.new-year"
+ },
+ "lion-dance": {
+  "word": "lion dance",
+  "id": "events-and-occasions.faith-and-festivals.lion-dance"
+ },
+ "trick-or-treat": {
+  "word": "trick or treat",
+  "id": "events-and-occasions.celebrations.trick-or-treat"
+ },
+ "no-school": {
+  "word": "no school",
+  "id": "school.school-day.no-school"
+ },
+ "dentist-chair": {
+  "word": "dentist chair",
+  "id": "body-and-health.medicine-and-care.dentist-chair"
+ },
+ "lie-back": {
+  "word": "lie back",
+  "id": "body-and-health.medicine-and-care.lie-back"
+ },
+ "open-mouth": {
+  "word": "open mouth",
+  "id": "body-and-health.medicine-and-care.open-mouth"
+ },
+ "count-teeth": {
+  "word": "count teeth",
+  "id": "body-and-health.medicine-and-care.count-teeth"
+ },
+ "dirty-teeth": {
+  "word": "dirty teeth",
+  "id": "body-and-health.medicine-and-care.dirty-teeth"
+ },
+ "filling": {
+  "word": "filling",
+  "id": "body-and-health.medicine-and-care.filling"
+ },
+ "numb": {
+  "word": "numb",
+  "id": "body-and-health.i-feel-sick.numb"
+ },
+ "reception": {
+  "word": "reception",
+  "id": "places.health-and-help.reception"
+ },
+ "gloves-on": {
+  "word": "gloves on",
+  "id": "body-and-health.medicine-and-care.gloves-on"
+ },
+ "height": {
+  "word": "height",
+  "id": "body-and-health.medicine-and-care.height"
+ },
+ "listen-to-heart": {
+  "word": "listen to heart",
+  "id": "body-and-health.medicine-and-care.listen-to-heart"
+ },
+ "breathe-in": {
+  "word": "breathe in",
+  "id": "body-and-health.calm-and-senses.breathe-in"
+ },
+ "look-in-ears": {
+  "word": "look in ears",
+  "id": "body-and-health.medicine-and-care.look-in-ears"
+ },
+ "throat-check": {
+  "word": "throat check",
+  "id": "body-and-health.medicine-and-care.throat-check"
+ },
+ "tongue-stick": {
+  "word": "tongue stick",
+  "id": "body-and-health.medicine-and-care.tongue-stick"
+ },
+ "eye-check": {
+  "word": "eye check",
+  "id": "body-and-health.medicine-and-care.eye-check"
+ },
+ "cover-one-eye": {
+  "word": "cover one eye",
+  "id": "body-and-health.medicine-and-care.cover-one-eye"
+ },
+ "eye-light": {
+  "word": "eye light",
+  "id": "body-and-health.medicine-and-care.eye-light"
+ },
+ "eye-drops": {
+  "word": "eye drops",
+  "id": "body-and-health.medicine-and-care.eye-drops"
+ },
+ "eye-patch": {
+  "word": "eye patch",
+  "id": "body-and-health.medicine-and-care.eye-patch"
+ },
+ "syringe": {
+  "word": "syringe",
+  "id": "body-and-health.medicine-and-care.syringe"
+ },
+ "numbing-cream": {
+  "word": "numbing cream",
+  "id": "body-and-health.medicine-and-care.numbing-cream"
+ },
+ "itchy-head": {
+  "word": "itchy head",
+  "id": "body-and-health.i-feel-sick.itchy-head"
+ },
+ "check-hair": {
+  "word": "check hair",
+  "id": "body-and-health.toilet-and-hygiene.check-hair"
+ },
+ "nits": {
+  "word": "nits",
+  "id": "body-and-health.i-feel-sick.nits"
+ },
+ "lice-treatment": {
+  "word": "lice treatment",
+  "id": "body-and-health.medicine-and-care.lice-treatment"
+ },
+ "nit-comb": {
+  "word": "nit comb",
+  "id": "body-and-health.toilet-and-hygiene.nit-comb"
+ },
+ "comb-out": {
+  "word": "comb out",
+  "id": "body-and-health.toilet-and-hygiene.comb-out"
+ },
+ "wash-bedding": {
+  "word": "wash bedding",
+  "id": "at-home.laundry.wash-bedding"
+ },
+ "itchy-bottom": {
+  "word": "itchy bottom",
+  "id": "body-and-health.i-feel-sick.itchy-bottom"
+ },
+ "worms": {
+  "word": "worms",
+  "id": "body-and-health.i-feel-sick.worms"
+ },
+ "worm-medicine": {
+  "word": "worm medicine",
+  "id": "body-and-health.medicine-and-care.worm-medicine"
+ },
+ "short-nails": {
+  "word": "short nails",
+  "id": "body-and-health.toilet-and-hygiene.short-nails"
+ },
+ "wash-hands-after-toilet": {
+  "word": "wash hands after toilet",
+  "id": "body-and-health.toilet-and-hygiene.wash-hands-after-toilet"
+ },
+ "stomach": {
+  "word": "stomach",
+  "id": "body-and-health.body-parts.stomach"
+ },
+ "bowel": {
+  "word": "bowel",
+  "id": "body-and-health.body-parts.bowel"
+ },
+ "pain-thermometer": {
+  "word": "pain thermometer",
+  "id": "body-and-health.i-feel-sick.pain-thermometer"
+ },
+ "sharp-pain": {
+  "word": "sharp pain",
+  "id": "body-and-health.i-feel-sick.sharp-pain"
+ },
+ "aching-pain": {
+  "word": "aching pain",
+  "id": "body-and-health.i-feel-sick.aching-pain"
+ },
+ "medical-bracelet": {
+  "word": "medical bracelet",
+  "id": "body-and-health.disability-and-support.medical-bracelet"
+ },
+ "nut-allergy": {
+  "word": "nut allergy",
+  "id": "body-and-health.disability-and-support.nut-allergy"
+ },
+ "nut-free": {
+  "word": "nut free",
+  "id": "food-and-drink.mealtime.nut-free"
+ },
+ "no-nuts": {
+  "word": "no nuts",
+  "id": "food-and-drink.mealtime.no-nuts"
+ },
+ "egg-allergy": {
+  "word": "egg allergy",
+  "id": "body-and-health.disability-and-support.egg-allergy"
+ },
+ "dairy-free": {
+  "word": "dairy free",
+  "id": "food-and-drink.mealtime.dairy-free"
+ },
+ "lactose-free": {
+  "word": "lactose free",
+  "id": "food-and-drink.mealtime.lactose-free"
+ },
+ "gluten-free": {
+  "word": "gluten free",
+  "id": "food-and-drink.mealtime.gluten-free"
+ },
+ "wheat": {
+  "word": "wheat",
+  "id": "food-and-drink.dairy-and-bread.wheat"
+ },
+ "fish-allergy": {
+  "word": "fish allergy",
+  "id": "body-and-health.disability-and-support.fish-allergy"
+ },
+ "shellfish-allergy": {
+  "word": "shellfish allergy",
+  "id": "body-and-health.disability-and-support.shellfish-allergy"
+ },
+ "soy": {
+  "word": "soy",
+  "id": "food-and-drink.pantry-and-cooking.soy"
+ },
+ "halal": {
+  "word": "halal",
+  "id": "food-and-drink.mealtime.halal"
+ },
+ "kosher": {
+  "word": "kosher",
+  "id": "food-and-drink.mealtime.kosher"
+ },
+ "vegetarian": {
+  "word": "vegetarian",
+  "id": "food-and-drink.mealtime.vegetarian"
+ },
+ "vegan": {
+  "word": "vegan",
+  "id": "food-and-drink.mealtime.vegan"
+ },
+ "no-pork": {
+  "word": "no pork",
+  "id": "food-and-drink.mealtime.no-pork"
+ },
+ "no-beef": {
+  "word": "no beef",
+  "id": "food-and-drink.mealtime.no-beef"
+ },
+ "no-meat": {
+  "word": "no meat",
+  "id": "food-and-drink.mealtime.no-meat"
+ },
+ "sugar-free": {
+  "word": "sugar free",
+  "id": "food-and-drink.mealtime.sugar-free"
+ },
+ "soft-food": {
+  "word": "soft food",
+  "id": "food-and-drink.mealtime.soft-food"
+ },
+ "cut-up-small": {
+  "word": "cut up small",
+  "id": "food-and-drink.mealtime.cut-up-small"
+ },
+ "thickened-drink": {
+  "word": "thickened drink",
+  "id": "food-and-drink.drinks.thickened-drink"
+ },
+ "tube-feeding": {
+  "word": "tube feeding",
+  "id": "body-and-health.disability-and-support.tube-feeding"
+ },
+ "read-the-label": {
+  "word": "read the label",
+  "id": "food-and-drink.mealtime.read-the-label"
+ },
+ "ask-before-eating": {
+  "word": "ask before eating",
+  "id": "food-and-drink.mealtime.ask-before-eating"
+ },
+ "my-own-food": {
+  "word": "my own food",
+  "id": "food-and-drink.mealtime.my-own-food"
+ },
+ "insect-repellent": {
+  "word": "insect repellent",
+  "id": "places.outdoors.insect-repellent"
+ },
+ "spray": {
+  "word": "spray",
+  "id": "actions.with-things.spray"
+ },
+ "put-on-hat": {
+  "word": "put on hat",
+  "id": "clothes.getting-dressed.put-on-hat"
+ },
+ "hat-off": {
+  "word": "hat off",
+  "id": "clothes.getting-dressed.hat-off"
+ },
+ "sunscreen-squeeze": {
+  "word": "sunscreen squeeze",
+  "id": "places.beach-and-pool.sunscreen-squeeze"
+ },
+ "sunscreen-rub": {
+  "word": "sunscreen rub",
+  "id": "places.beach-and-pool.sunscreen-rub"
+ },
+ "slip-on-a-shirt": {
+  "word": "slip on a shirt",
+  "id": "places.beach-and-pool.slip-on-a-shirt"
+ },
+ "beach-flags": {
+  "word": "beach flags",
+  "id": "places.beach-and-pool.beach-flags"
+ },
+ "wave-for-help": {
+  "word": "wave for help",
+  "id": "emergency.emergency.wave-for-help"
+ },
+ "close-eyes": {
+  "word": "close eyes",
+  "id": "body-and-health.calm-and-senses.close-eyes"
+ },
+ "shopping-list": {
+  "word": "shopping list",
+  "id": "places.shops.shopping-list"
+ },
+ "keys": {
+  "word": "keys",
+  "id": "at-home.around-the-house.keys"
+ },
+ "hold-on": {
+  "word": "hold on",
+  "id": "transport.trains-and-buses.hold-on"
+ },
+ "plane-landing": {
+  "word": "plane landing",
+  "id": "transport.air-and-water.plane-landing"
+ },
+ "nappy-bag": {
+  "word": "nappy bag",
+  "id": "body-and-health.toilet-and-hygiene.nappy-bag"
+ },
+ "find-adult": {
+  "word": "find adult",
+  "id": "emergency.emergency.find-adult"
+ },
+ "dentist-2": {
+  "word": "dentist",
+  "ids": [
+   "jobs-and-work.jobs.dentist"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "clean-teeth-2": {
+  "word": "clean teeth",
+  "ids": [
+   "body-and-health.toilet-and-hygiene.clean-teeth"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "rinse-2": {
+  "word": "rinse",
+  "ids": [
+   "actions.everyday.rinse"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "light-2": {
+  "word": "light",
+  "ids": [
+   "at-home.around-the-house.light"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "mirror-2": {
+  "word": "mirror",
+  "ids": [
+   "at-home.bedroom.mirror"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "braces-2": {
+  "word": "braces",
+  "ids": [
+   "body-and-health.medicine-and-care.braces"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "crown-2": {
+  "word": "crown",
+  "ids": [
+   "clothes.hats-and-extras.crown"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "doctor-2": {
+  "word": "doctor",
+  "ids": [
+   "body-and-health.medicine-and-care.doctor",
+   "people.helpers.doctor"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "nurse-2": {
+  "word": "nurse",
+  "ids": [
+   "body-and-health.medicine-and-care.nurse",
+   "people.helpers.nurse",
+   "places.health-and-help.nurse"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "waiting-room-2": {
+  "word": "waiting room",
+  "ids": [
+   "places.health-and-help.waiting-room"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "gloves-2": {
+  "word": "gloves",
+  "ids": [
+   "jobs-and-work.tools.gloves"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "bed-2": {
+  "word": "bed",
+  "ids": [
+   "at-home.around-the-house.bed"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "scales-2": {
+  "word": "scales",
+  "ids": [
+   "animals.animal-words.scales"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "weigh-2": {
+  "word": "weigh",
+  "ids": [
+   "actions.with-things.weigh"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "thermometer-2": {
+  "word": "thermometer",
+  "ids": [
+   "body-and-health.medicine-and-care.thermometer",
+   "nature-and-world.science.thermometer"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "temperature-2": {
+  "word": "temperature",
+  "ids": [
+   "nature-and-world.science.temperature"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "stethoscope-2": {
+  "word": "stethoscope",
+  "ids": [
+   "body-and-health.medicine-and-care.stethoscope"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "hospital-2": {
+  "word": "hospital",
+  "ids": [
+   "jobs-and-work.workplaces.hospital"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "needle-2": {
+  "word": "needle",
+  "ids": [
+   "body-and-health.medicine-and-care.needle"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "blood-test-2": {
+  "word": "blood test",
+  "ids": [
+   "body-and-health.medicine-and-care.blood-test"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "bandaid-2": {
+  "word": "bandaid",
+  "ids": [
+   "body-and-health.medicine-and-care.bandaid"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "medicine-2": {
+  "word": "medicine",
+  "ids": [
+   "body-and-health.medicine-and-care.medicine"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "tablet-2": {
+  "word": "tablet",
+  "ids": [
+   "at-home.study.tablet",
+   "body-and-health.medicine-and-care.tablet",
+   "toys-and-play.technology.tablet"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "hearing-aid-2": {
+  "word": "hearing aid",
+  "ids": [
+   "body-and-health.disability-and-support.hearing-aid"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "x-ray-2": {
+  "word": "x-ray",
+  "ids": [
+   "body-and-health.medicine-and-care.x-ray"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "head-lice-2": {
+  "word": "head lice",
+  "ids": [
+   "at-home.bathroom.head-lice"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "heart": {
+  "word": "heart",
+  "ids": [
+   "body-and-health.body-parts.heart"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "lungs-2": {
+  "word": "lungs",
+  "ids": [
+   "body-and-health.body-parts.lungs"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "brain-2": {
+  "word": "brain",
+  "ids": [
+   "body-and-health.body-parts.brain"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "bones-2": {
+  "word": "bones",
+  "ids": [
+   "body-and-health.body-parts.bones"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "muscles-2": {
+  "word": "muscles",
+  "ids": [
+   "body-and-health.body-parts.muscles"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "skin-2": {
+  "word": "skin",
+  "ids": [
+   "body-and-health.body-parts.skin"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "allergy-2": {
+  "word": "allergy",
+  "ids": [
+   "body-and-health.i-feel-sick.allergy"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "allergic-reaction-2": {
+  "word": "allergic reaction",
+  "ids": [
+   "body-and-health.i-feel-sick.allergic-reaction"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "epipen-2": {
+  "word": "EpiPen",
+  "ids": [
+   "body-and-health.medicine-and-care.epipen"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "shade-2": {
+  "word": "shade",
+  "ids": [
+   "places.playground.shade"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "too-hot-2": {
+  "word": "too hot",
+  "ids": [
+   "feelings.body-feelings.too-hot",
+   "food-and-drink.mealtime.too-hot"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "lifeguard-2": {
+  "word": "lifeguard",
+  "ids": [
+   "jobs-and-work.jobs.lifeguard",
+   "people.helpers.lifeguard"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "mosquito-2": {
+  "word": "mosquito",
+  "ids": [
+   "animals.bugs.mosquito"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ },
+ "bite-2": {
+  "word": "bite",
+  "ids": [
+   "body-and-health.i-feel-sick.bite"
+  ],
+  "note": "clearer redraw; the old picture stays as an option"
+ }
+}
