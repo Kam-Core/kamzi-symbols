@@ -1,5 +1,5 @@
 {
-  "version": "kamzi-v2+clips202611101313",
+  "version": "kamzi-v2+clips202611101317",
   "sampleRate": 24000,
   "voices": [],
   "lexicon": "",
@@ -10,32 +10,32 @@
       "ana": {
         "file": "clips/ana.pack",
         "index": "clips/ana.json",
-        "bytes": 84560295
+        "bytes": 84611511
       },
       "ari": {
         "file": "clips/ari.pack",
         "index": "clips/ari.json",
-        "bytes": 80270895
+        "bytes": 80319231
       },
       "carly": {
         "file": "clips/carly.pack",
         "index": "clips/carly.json",
-        "bytes": 88498335
+        "bytes": 88555671
       },
       "kai": {
         "file": "clips/kai.pack",
         "index": "clips/kai.json",
-        "bytes": 77952855
+        "bytes": 78000471
       },
       "noor": {
         "file": "clips/noor.pack",
         "index": "clips/noor.json",
-        "bytes": 82209375
+        "bytes": 82258671
       },
       "tom": {
         "file": "clips/tom.pack",
         "index": "clips/tom.json",
-        "bytes": 85304127
+        "bytes": 85356423
       }
     }
   }
