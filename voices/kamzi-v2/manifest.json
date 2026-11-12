@@ -28,9 +28,9 @@
         "bytes": 78000471
       },
       "noor": {
-        "file": "clips/noor.pack",
-        "index": "clips/noor.json",
-        "bytes": 82258671
+        "file": "clips/noor-v2.pack",
+        "index": "clips/noor-v2.json",
+        "bytes": 82464192
       },
       "tom": {
         "file": "clips/tom-v2.pack",
