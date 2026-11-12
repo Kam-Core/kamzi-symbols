@@ -18,14 +18,14 @@
         "bytes": 80319231
       },
       "carly": {
-        "file": "clips/carly.pack",
-        "index": "clips/carly.json",
-        "bytes": 88555671
+        "file": "clips/carly-v2.pack",
+        "index": "clips/carly-v2.json",
+        "bytes": 90794976
       },
       "kai": {
-        "file": "clips/kai.pack",
-        "index": "clips/kai.json",
-        "bytes": 78000471
+        "file": "clips/kai-v2.pack",
+        "index": "clips/kai-v2.json",
+        "bytes": 78122016
       },
       "noor": {
         "file": "clips/noor-v2.pack",
