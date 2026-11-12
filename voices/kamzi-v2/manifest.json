@@ -8,14 +8,14 @@
     "index": "clips/index.json",
     "packs": {
       "ana": {
-        "file": "clips/ana.pack",
-        "index": "clips/ana.json",
-        "bytes": 84611511
+        "file": "clips/ana-v2.pack",
+        "index": "clips/ana-v2.json",
+        "bytes": 87212544
       },
       "ari": {
-        "file": "clips/ari.pack",
-        "index": "clips/ari.json",
-        "bytes": 80319231
+        "file": "clips/ari-v2.pack",
+        "index": "clips/ari-v2.json",
+        "bytes": 81979776
       },
       "carly": {
         "file": "clips/carly-v2.pack",
