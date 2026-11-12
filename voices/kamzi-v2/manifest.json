@@ -33,9 +33,9 @@
         "bytes": 82258671
       },
       "tom": {
-        "file": "clips/tom.pack",
-        "index": "clips/tom.json",
-        "bytes": 85356423
+        "file": "clips/tom-v2.pack",
+        "index": "clips/tom-v2.json",
+        "bytes": 97757136
       }
     }
   }
