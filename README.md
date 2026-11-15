@@ -12,6 +12,10 @@ These packs are built by `scripts/symbols/` in the Kamzi Talk repo. Do not edit 
 
 `packs/kamzi-boards/` holds Kamzi Talk's own drawings made for the Kamzi Boards templates (November 2026): 178 new words and 40 clearer redraws. `index.json` maps each SVG to its word and Kamzi Talk word ID. They are © Kam Core Pty Ltd and are built into the app (`assets/kamzi-art`); this copy keeps all Kamzi pictures in one repo. Not a download library, so it is not listed in `packs/index.json`.
 
+## Kamzi pictures for Kamzi Talk Urdu
+
+`packs/kamzi-urdu/` holds 426 Kamzi drawings made for the Urdu app (Kamzi Talk Urdu, November 2026): Pakistani food, places, cities, clothes, festivals, school and everyday words that had no picture yet. `index.json` maps each SVG to its word, Urdu word, word ID, skin colours and keywords; `also_ids` lists other cards that use the same picture. They are © Kam Core Pty Ltd.
+
 ## Credits and licences
 
 The symbols are not owned by Kam Core Pty Ltd. They are redistributed unmodified (resized to 192px PNG) under their original licences. Most come via [Global Symbols](https://globalsymbols.com).

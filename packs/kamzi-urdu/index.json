@@ -5484,5 +5484,971 @@
    "sick",
    "call for help"
   ]
+ },
+ "i-want-to-play": {
+  "word": "I want to play",
+  "id": "core.i-want-to-play",
+  "urdu": "میں کھیلنا چاہتا ہوں",
+  "roman_urdu": "main khelna chahta hoon",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "play",
+   "playing",
+   "want",
+   "ball",
+   "fun",
+   "game",
+   "playtime"
+  ]
+ },
+ "im-hungry": {
+  "word": "I’m hungry",
+  "id": "core.im-hungry",
+  "urdu": "مجھے بھوک لگی ہے",
+  "roman_urdu": "mujhe bhook lagi hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "hungry",
+   "food",
+   "eat",
+   "empty tummy",
+   "meal",
+   "want food"
+  ]
+ },
+ "i-need-the-toilet": {
+  "word": "I need the toilet",
+  "id": "core.i-need-the-toilet",
+  "urdu": "مجھے واش روم جانا ہے",
+  "roman_urdu": "mujhe washroom jana hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "toilet",
+   "bathroom",
+   "wee",
+   "need to go",
+   "washroom",
+   "urgent"
+  ]
+ },
+ "help-me-please": {
+  "word": "Help me please",
+  "id": "core.help-me-please",
+  "urdu": "پلیز میری مدد کریں",
+  "roman_urdu": "please meri madad karein",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "help",
+   "help me",
+   "please",
+   "need help",
+   "stuck",
+   "assist"
+  ]
+ },
+ "i-want-to-go-home": {
+  "word": "I want to go home",
+  "id": "core.i-want-to-go-home",
+  "urdu": "مجھے گھر جانا ہے",
+  "roman_urdu": "mujhe ghar jana hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "go home",
+   "home",
+   "want",
+   "leave",
+   "homesick",
+   "house"
+  ]
+ },
+ "im-tired": {
+  "word": "I’m tired",
+  "id": "core.im-tired",
+  "urdu": "میں تھک گیا ہوں",
+  "roman_urdu": "main thak gaya hoon",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "tired",
+   "sleepy",
+   "yawn",
+   "rest",
+   "sleep",
+   "worn out"
+  ]
+ },
+ "gulgulay": {
+  "word": "gulgulay",
+  "id": "food-and-drink.snacks-and-treats.gulgulay",
+  "urdu": "گلگلے",
+  "roman_urdu": "gulgulay",
+  "skin": [],
+  "keywords": [
+   "sweet fritters",
+   "fried sweet",
+   "snack",
+   "sweet",
+   "dough balls",
+   "treat"
+  ]
+ },
+ "ganne-ka-ras": {
+  "word": "sugarcane juice",
+  "id": "food-and-drink.drinks.ganne-ka-ras",
+  "urdu": "گنے کا رس",
+  "roman_urdu": "ganne ka ras",
+  "skin": [],
+  "keywords": [
+   "juice",
+   "drink",
+   "sweet drink",
+   "summer drink",
+   "cold drink"
+  ]
+ },
+ "sattu": {
+  "word": "sattu",
+  "id": "food-and-drink.drinks.sattu",
+  "urdu": "ستو",
+  "roman_urdu": "sattu",
+  "skin": [],
+  "keywords": [
+   "gram flour drink",
+   "summer drink",
+   "drink",
+   "healthy drink",
+   "cold drink"
+  ]
+ },
+ "haveli": {
+  "word": "old family house",
+  "id": "places.community.haveli",
+  "urdu": "حویلی",
+  "roman_urdu": "haveli",
+  "skin": [],
+  "keywords": [
+   "old house",
+   "big house",
+   "family home",
+   "mansion",
+   "building",
+   "home"
+  ]
+ },
+ "chhat": {
+  "word": "rooftop",
+  "id": "places.community.chhat",
+  "urdu": "چھت",
+  "roman_urdu": "chhat",
+  "skin": [],
+  "keywords": [
+   "roof",
+   "flat roof",
+   "top of house",
+   "clothes line",
+   "water tank"
+  ]
+ },
+ "academy": {
+  "word": "tuition academy",
+  "id": "places.learning-and-care.academy",
+  "urdu": "اکیڈمی",
+  "roman_urdu": "academy",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "tuition",
+   "tuition centre",
+   "coaching",
+   "extra classes",
+   "study",
+   "teacher",
+   "lessons"
+  ]
+ },
+ "special-school": {
+  "word": "special education school",
+  "id": "places.learning-and-care.special-school",
+  "urdu": "اسپیشل اسکول",
+  "roman_urdu": "special school",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "special education",
+   "school",
+   "ramp",
+   "wheelchair",
+   "learning"
+  ]
+ },
+ "khala-ghar": {
+  "word": "aunt's house",
+  "id": "places.visiting.khala-ghar",
+  "urdu": "خالہ کا گھر",
+  "roman_urdu": "khala ka ghar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "aunt",
+   "visit",
+   "family",
+   "relatives",
+   "home"
+  ]
+ },
+ "dada-ghar": {
+  "word": "grandad's house",
+  "id": "places.visiting.dada-ghar",
+  "urdu": "دادا ابو کا گھر",
+  "roman_urdu": "dada abu ka ghar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "grandfather",
+   "father's father",
+   "visit",
+   "family",
+   "home"
+  ]
+ },
+ "nana-ghar": {
+  "word": "mother's father's house",
+  "id": "places.visiting.nana-ghar",
+  "urdu": "نانا کا گھر",
+  "roman_urdu": "nana ka ghar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "grandad's house",
+   "grandfather",
+   "mother's father",
+   "visit",
+   "family",
+   "home"
+  ]
+ },
+ "mug-bath": {
+  "word": "bath mug",
+  "id": "at-home.bathroom.mug-bath",
+  "urdu": "ڈونگا",
+  "roman_urdu": "donga",
+  "skin": [],
+  "keywords": [
+   "bucket",
+   "bathing",
+   "wash",
+   "bathroom",
+   "water"
+  ]
+ },
+ "naat": {
+  "word": "naat",
+  "id": "toys-and-play.music.naat",
+  "urdu": "نعت",
+  "roman_urdu": "naat",
+  "skin": [],
+  "keywords": [
+   "religious poetry",
+   "recite",
+   "praise",
+   "singing",
+   "religion"
+  ]
+ },
+ "whatsapp": {
+  "word": "WhatsApp",
+  "id": "toys-and-play.technology.whatsapp",
+  "urdu": "واٹس ایپ",
+  "roman_urdu": "whatsapp",
+  "skin": [],
+  "keywords": [
+   "messaging app",
+   "chat",
+   "message",
+   "text message",
+   "phone",
+   "send message"
+  ]
+ },
+ "chhat-par": {
+  "word": "going up on the roof",
+  "id": "sports-and-activities.activities.chhat-par",
+  "urdu": "چھت پر جانا",
+  "roman_urdu": "chhat par jana",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "go on the roof",
+   "upstairs",
+   "stairs",
+   "rooftop",
+   "climb",
+   "up"
+  ]
+ },
+ "jackal": {
+  "word": "jackal",
+  "id": "animals.zoo-and-wild.jackal",
+  "urdu": "گیدڑ",
+  "roman_urdu": "geedar",
+  "skin": [],
+  "keywords": [
+   "wild dog",
+   "wild animal",
+   "animal",
+   "fox",
+   "howl"
+  ]
+ },
+ "neem": {
+  "word": "neem tree",
+  "id": "nature-and-world.plants.neem",
+  "urdu": "نیم",
+  "roman_urdu": "neem",
+  "skin": [],
+  "keywords": [
+   "tree",
+   "leaves",
+   "shade",
+   "plant",
+   "nature"
+  ]
+ },
+ "peepal": {
+  "word": "peepal tree",
+  "id": "nature-and-world.plants.peepal",
+  "urdu": "پیپل",
+  "roman_urdu": "peepal",
+  "skin": [],
+  "keywords": [
+   "tree",
+   "heart-shaped leaf",
+   "big tree",
+   "shade",
+   "plant"
+  ]
+ },
+ "salam-karna": {
+  "word": "greet with salaam",
+  "id": "actions.with-people.salam-karna",
+  "urdu": "سلام کرنا",
+  "roman_urdu": "salam karna",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "greet",
+   "salaam",
+   "hello",
+   "greeting",
+   "shake hands",
+   "respect",
+   "manners"
+  ]
+ },
+ "chat-and-tell": {
+  "word": "Chat & tell",
+  "id": "sub:actions.chat-and-tell",
+  "urdu": "بات کرنا",
+  "roman_urdu": "baat karna",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "chat",
+   "talk",
+   "tell",
+   "conversation",
+   "speak",
+   "friends"
+  ]
+ },
+ "rukhsati": {
+  "word": "bride's farewell",
+  "id": "events-and-occasions.celebrations.rukhsati",
+  "urdu": "رخصتی",
+  "roman_urdu": "rukhsati",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "wedding",
+   "bride",
+   "farewell",
+   "goodbye",
+   "marriage"
+  ]
+ },
+ "prize-distribution": {
+  "word": "prize day",
+  "id": "events-and-occasions.outings-and-events.prize-distribution",
+  "urdu": "انعامی تقریب",
+  "roman_urdu": "inami taqreeb",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "prize",
+   "trophy",
+   "award",
+   "school function",
+   "stage",
+   "winner"
+  ]
+ },
+ "kya-main-kar-sakta": {
+  "word": "can I do it?",
+  "id": "questions.questions.kya-main-kar-sakta",
+  "urdu": "کیا میں کر سکتا ہوں؟",
+  "roman_urdu": "kya main kar sakta hoon",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "can i",
+   "may i",
+   "permission",
+   "ask",
+   "question",
+   "my turn"
+  ]
+ },
+ "little-words": {
+  "word": "Little Words",
+  "id": "folder:little-words",
+  "urdu": "چھوٹے لفظ",
+  "roman_urdu": "chhotay lafz",
+  "skin": [],
+  "keywords": [
+   "small words",
+   "words",
+   "grammar",
+   "word cards"
+  ],
+  "also_ids": [
+   "sub:little-words.little-words"
+  ]
+ },
+ "subjects": {
+  "word": "Subjects",
+  "id": "sub:school.subjects",
+  "urdu": "مضمون",
+  "roman_urdu": "mazmoon",
+  "skin": [],
+  "keywords": [
+   "school subjects",
+   "books",
+   "lessons",
+   "classes",
+   "school"
+  ]
+ },
+ "alif": {
+  "word": "alif",
+  "id": "school.reading-and-writing.alif",
+  "urdu": "الف",
+  "roman_urdu": "alif",
+  "skin": [],
+  "keywords": [
+   "first letter",
+   "alphabet",
+   "letter",
+   "reading",
+   "writing",
+   "takhti"
+  ]
+ },
+ "my-favourites": {
+  "word": "My Favourites",
+  "id": "folder:my-favourites",
+  "urdu": "میری پسند",
+  "roman_urdu": "meri pasand",
+  "skin": [],
+  "keywords": [
+   "favourites",
+   "things i like",
+   "love",
+   "best",
+   "heart",
+   "likes"
+  ],
+  "also_ids": [
+   "sub:my-favourites.my-favourites"
+  ]
+ },
+ "is": {
+  "word": "is",
+  "id": "core.is",
+  "urdu": "ہے",
+  "roman_urdu": "hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "verb",
+   "being",
+   "now",
+   "present",
+   "grammar"
+  ],
+  "also_ids": [
+   "little-words.joining-words.is"
+  ]
+ },
+ "are": {
+  "word": "are",
+  "id": "core.are",
+  "urdu": "ہیں",
+  "roman_urdu": "hain",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "verb",
+   "being",
+   "now",
+   "plural",
+   "grammar"
+  ],
+  "also_ids": [
+   "little-words.joining-words.are"
+  ]
+ },
+ "was": {
+  "word": "was",
+  "id": "core.was",
+  "urdu": "تھا",
+  "roman_urdu": "tha",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "verb",
+   "past",
+   "before",
+   "grammar",
+   "earlier"
+  ],
+  "also_ids": [
+   "little-words.joining-words.was"
+  ]
+ },
+ "ne": {
+  "word": "ergative marker",
+  "id": "core.ne",
+  "urdu": "نے",
+  "roman_urdu": "ne",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "did it",
+   "past action",
+   "doer",
+   "i did",
+   "grammar"
+  ],
+  "also_ids": [
+   "little-words.joining-words.ne"
+  ]
+ },
+ "of-feminine": {
+  "word": "of",
+  "id": "core.of-feminine",
+  "urdu": "کی",
+  "roman_urdu": "ki",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "belongs to",
+   "her",
+   "possession",
+   "grammar",
+   "belonging"
+  ],
+  "also_ids": [
+   "core.of-plural"
+  ]
+ },
+ "mera-meri": {
+  "word": "my",
+  "id": "people.pronouns-and-groups.mera-meri",
+  "urdu": "میری",
+  "roman_urdu": "meri",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "mine",
+   "belongs to me",
+   "possession",
+   "grammar"
+  ],
+  "also_ids": [
+   "little-words.pointing-words.my"
+  ]
+ },
+ "lakh": {
+  "word": "one hundred thousand",
+  "id": "numbers.counting.lakh",
+  "urdu": "لاکھ",
+  "roman_urdu": "lakh",
+  "skin": [],
+  "keywords": [
+   "hundred thousand",
+   "lots of money",
+   "number",
+   "big number",
+   "money"
+  ]
+ },
+ "crore": {
+  "word": "ten million",
+  "id": "numbers.counting.crore",
+  "urdu": "کروڑ",
+  "roman_urdu": "crore",
+  "skin": [],
+  "keywords": [
+   "huge amount",
+   "lots of money",
+   "number",
+   "big number",
+   "money"
+  ]
+ },
+ "pachees": {
+  "word": "twenty five",
+  "id": "numbers.counting.pachees",
+  "urdu": "پچیس",
+  "roman_urdu": "pachees",
+  "skin": [],
+  "keywords": [
+   "number",
+   "count",
+   "counting",
+   "dots"
+  ]
+ },
+ "sawa": {
+  "word": "and a quarter",
+  "id": "numbers.amounts.sawa",
+  "urdu": "سوا",
+  "roman_urdu": "sawa",
+  "skin": [],
+  "keywords": [
+   "quarter more",
+   "fraction",
+   "amount",
+   "measure"
+  ]
+ },
+ "dedh": {
+  "word": "one and a half",
+  "id": "numbers.amounts.dedh",
+  "urdu": "ڈیڑھ",
+  "roman_urdu": "dairh",
+  "skin": [],
+  "keywords": [
+   "half more",
+   "fraction",
+   "amount",
+   "measure"
+  ]
+ },
+ "dhai": {
+  "word": "two and a half",
+  "id": "numbers.amounts.dhai",
+  "urdu": "ڈھائی",
+  "roman_urdu": "dhai",
+  "skin": [],
+  "keywords": [
+   "fraction",
+   "amount",
+   "measure",
+   "half"
+  ]
+ },
+ "parson": {
+  "word": "day after tomorrow / before yesterday",
+  "id": "time-and-weather.now-and-later.parson",
+  "urdu": "پرسوں",
+  "roman_urdu": "parson",
+  "skin": [],
+  "keywords": [
+   "day after tomorrow",
+   "day before yesterday",
+   "two days",
+   "time",
+   "calendar",
+   "day"
+  ]
+ },
+ "or": {
+  "word": "or",
+  "id": "little-words.joining-words.or",
+  "urdu": "یا",
+  "roman_urdu": "ya",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "choose",
+   "choice",
+   "either",
+   "grammar"
+  ]
+ },
+ "if": {
+  "word": "if",
+  "id": "little-words.joining-words.if",
+  "urdu": "اگر",
+  "roman_urdu": "agar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "maybe",
+   "condition",
+   "then",
+   "grammar"
+  ]
+ },
+ "or-not": {
+  "word": "or not",
+  "id": "little-words.joining-words.or-not",
+  "urdu": "یا نہیں",
+  "roman_urdu": "ya nahin",
+  "skin": [],
+  "keywords": [
+   "yes or no",
+   "choose",
+   "choice",
+   "grammar"
+  ]
+ },
+ "if-not": {
+  "word": "if not",
+  "id": "little-words.joining-words.if-not",
+  "urdu": "ورنہ",
+  "roman_urdu": "warna",
+  "skin": [],
+  "keywords": [
+   "unless",
+   "condition",
+   "grammar"
+  ]
+ },
+ "otherwise": {
+  "word": "otherwise",
+  "id": "little-words.joining-words.otherwise",
+  "urdu": "ورنہ",
+  "roman_urdu": "warna",
+  "skin": [],
+  "keywords": [
+   "or else",
+   "if not",
+   "choice",
+   "grammar"
+  ]
+ },
+ "jo": {
+  "word": "who / which",
+  "id": "little-words.joining-words.jo",
+  "urdu": "جو",
+  "roman_urdu": "jo",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "who",
+   "which",
+   "that one",
+   "grammar",
+   "joining word"
+  ]
+ },
+ "ke-that": {
+  "word": "that",
+  "id": "little-words.joining-words.ke-that",
+  "urdu": "کہ",
+  "roman_urdu": "ke",
+  "skin": [],
+  "keywords": [
+   "joining word",
+   "linking",
+   "grammar",
+   "said that"
+  ]
+ },
+ "about": {
+  "word": "about",
+  "id": "little-words.joining-words.about",
+  "urdu": "کے بارے میں",
+  "roman_urdu": "ke baaray mein",
+  "skin": [],
+  "keywords": [
+   "topic",
+   "story about",
+   "subject",
+   "grammar"
+  ]
+ },
+ "ka": {
+  "word": "of / 's",
+  "id": "little-words.joining-words.ka",
+  "urdu": "کا",
+  "roman_urdu": "ka",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "of",
+   "belongs to",
+   "his",
+   "possession",
+   "grammar",
+   "belonging"
+  ],
+  "also_ids": [
+   "little-words.joining-words.ki"
+  ]
+ },
+ "to": {
+  "word": "then / so",
+  "id": "little-words.joining-words.to",
+  "urdu": "تو",
+  "roman_urdu": "to",
+  "skin": [],
+  "keywords": [
+   "then",
+   "so",
+   "next",
+   "grammar",
+   "result"
+  ]
+ },
+ "na": {
+  "word": "right?",
+  "id": "little-words.joining-words.na",
+  "urdu": "نا",
+  "roman_urdu": "na",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "right",
+   "isn't it",
+   "agree",
+   "tag question",
+   "grammar"
+  ]
+ },
+ "be": {
+  "word": "be",
+  "id": "little-words.joining-words.be",
+  "urdu": "ہو",
+  "roman_urdu": "ho",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "being",
+   "stay",
+   "grammar",
+   "verb"
+  ]
+ },
+ "your": {
+  "word": "your",
+  "id": "little-words.pointing-words.your",
+  "urdu": "آپ کا",
+  "roman_urdu": "aap ka",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "yours",
+   "you",
+   "belongs to you",
+   "possession",
+   "grammar"
+  ]
+ },
+ "what": {
+  "word": "what",
+  "id": "little-words.pointing-words.what",
+  "urdu": "کیا",
+  "roman_urdu": "kya",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "question",
+   "ask",
+   "puzzled",
+   "which thing"
+  ]
+ },
+ "yahi": {
+  "word": "this very one",
+  "id": "little-words.pointing-words.yahi",
+  "urdu": "یہی",
+  "roman_urdu": "yahi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "this one",
+   "exactly this",
+   "pointing",
+   "choose"
+  ]
+ },
+ "raha": {
+  "word": "I am",
+  "id": "little-words.helping-verbs.raha",
+  "urdu": "رہا ہوں",
+  "roman_urdu": "raha hoon",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "doing now",
+   "in progress",
+   "busy",
+   "happening",
+   "grammar"
+  ]
+ },
+ "chuka": {
+  "word": "already done",
+  "id": "little-words.helping-verbs.chuka",
+  "urdu": "چکا",
+  "roman_urdu": "chuka",
+  "skin": [],
+  "keywords": [
+   "finished",
+   "done",
+   "complete",
+   "grammar"
+  ]
  }
 }
