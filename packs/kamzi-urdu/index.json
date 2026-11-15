@@ -1,0 +1,1378 @@
+{
+ "tandoori-roti": {
+  "word": "tandoor bread",
+  "id": "food-and-drink.dairy-and-bread.tandoori-roti",
+  "urdu": "تندوری روٹی",
+  "roman_urdu": "tandoori roti",
+  "skin": [],
+  "keywords": [
+   "roti",
+   "flatbread",
+   "bread",
+   "naan",
+   "chapati",
+   "wheat bread",
+   "food",
+   "meal"
+  ]
+ },
+ "tailor-darzi": {
+  "word": "tailor",
+  "id": "people.helpers.darzi",
+  "urdu": "درزی",
+  "roman_urdu": "darzi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "dressmaker",
+   "sewing",
+   "needle and thread",
+   "tape measure",
+   "clothes maker",
+   "job",
+   "person",
+   "worker"
+  ],
+  "also_ids": [
+   "jobs-and-work.jobs.darzi"
+  ]
+ },
+ "water-buffalo": {
+  "word": "water buffalo",
+  "id": "animals.farm.bhains",
+  "urdu": "بھینس",
+  "roman_urdu": "bhains",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "buffalo",
+   "farm animal",
+   "milk animal",
+   "horns",
+   "cattle",
+   "animal",
+   "farm"
+  ]
+ },
+ "falsa": {
+  "word": "falsa berries",
+  "id": "food-and-drink.fruit.falsa",
+  "urdu": "فالسہ",
+  "roman_urdu": "falsa",
+  "skin": [],
+  "keywords": [
+   "phalsa",
+   "purple berries",
+   "small berries",
+   "summer fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "cheeku": {
+  "word": "sapodilla",
+  "id": "food-and-drink.fruit.cheeku",
+  "urdu": "چیکو",
+  "roman_urdu": "cheeku",
+  "skin": [],
+  "keywords": [
+   "chikoo",
+   "chiku",
+   "brown fruit",
+   "sweet fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "sugarcane": {
+  "word": "sugarcane",
+  "id": "food-and-drink.fruit.ganna",
+  "urdu": "گنا",
+  "roman_urdu": "ganna",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "cane",
+   "sugar cane",
+   "stalk",
+   "sweet",
+   "plant",
+   "crop",
+   "food"
+  ]
+ },
+ "ber": {
+  "word": "jujube",
+  "id": "food-and-drink.fruit.ber",
+  "urdu": "بیر",
+  "roman_urdu": "ber",
+  "skin": [],
+  "keywords": [
+   "indian plum",
+   "red date",
+   "small fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "tamarind": {
+  "word": "tamarind",
+  "id": "food-and-drink.fruit.imli",
+  "urdu": "املی",
+  "roman_urdu": "imli",
+  "skin": [],
+  "keywords": [
+   "pod",
+   "sour",
+   "brown pod",
+   "fruit",
+   "cooking",
+   "food"
+  ]
+ },
+ "loquat": {
+  "word": "loquat",
+  "id": "food-and-drink.fruit.loquat",
+  "urdu": "لوکاٹ",
+  "roman_urdu": "lokat",
+  "skin": [],
+  "keywords": [
+   "japanese plum",
+   "orange fruit",
+   "spring fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "mosambi": {
+  "word": "sweet lime",
+  "id": "food-and-drink.fruit.mosambi",
+  "urdu": "موسمی",
+  "roman_urdu": "mosambi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "citrus",
+   "lime",
+   "green orange",
+   "juice fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "chaunsa-mango": {
+  "word": "Chaunsa mango",
+  "id": "food-and-drink.fruit.chaunsa",
+  "urdu": "چونسا",
+  "roman_urdu": "chaunsa",
+  "skin": [],
+  "keywords": [
+   "mango",
+   "aam",
+   "pakistani mango",
+   "yellow fruit",
+   "summer fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "sindhri-mango": {
+  "word": "Sindhri mango",
+  "id": "food-and-drink.fruit.sindhri",
+  "urdu": "سندھڑی",
+  "roman_urdu": "sindhri",
+  "skin": [],
+  "keywords": [
+   "mango",
+   "aam",
+   "pakistani mango",
+   "yellow fruit",
+   "summer fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "almonds": {
+  "word": "almonds",
+  "id": "food-and-drink.fruit.badam",
+  "urdu": "بادام",
+  "roman_urdu": "badam",
+  "skin": [],
+  "keywords": [
+   "almond",
+   "nuts",
+   "dry fruit",
+   "snack",
+   "food"
+  ]
+ },
+ "walnuts": {
+  "word": "walnuts",
+  "id": "food-and-drink.fruit.akhrot",
+  "urdu": "اخروٹ",
+  "roman_urdu": "akhrot",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "walnut",
+   "nuts",
+   "dry fruit",
+   "shell",
+   "snack",
+   "food"
+  ]
+ },
+ "cashews": {
+  "word": "cashews",
+  "id": "food-and-drink.fruit.kaju",
+  "urdu": "کاجو",
+  "roman_urdu": "kaju",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "cashew",
+   "nuts",
+   "dry fruit",
+   "snack",
+   "food"
+  ]
+ },
+ "peanuts": {
+  "word": "peanuts",
+  "id": "food-and-drink.fruit.moongphali",
+  "urdu": "مونگ پھلی",
+  "roman_urdu": "moongphali",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "peanut",
+   "groundnut",
+   "monkey nut",
+   "shell",
+   "nuts",
+   "snack",
+   "food"
+  ]
+ },
+ "pine-nuts-chilgoza": {
+  "word": "pine nuts",
+  "id": "food-and-drink.fruit.chilgoza",
+  "urdu": "چلغوزے",
+  "roman_urdu": "chilgoza",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "pine nut",
+   "nuts",
+   "dry fruit",
+   "winter snack",
+   "snack",
+   "food"
+  ]
+ },
+ "bitter-gourd": {
+  "word": "bitter gourd",
+  "id": "food-and-drink.vegetables.karela",
+  "urdu": "کریلا",
+  "roman_urdu": "karela",
+  "skin": [],
+  "keywords": [
+   "bitter melon",
+   "gourd",
+   "green vegetable",
+   "vegetable",
+   "food"
+  ]
+ },
+ "bottle-gourd": {
+  "word": "bottle gourd",
+  "id": "food-and-drink.vegetables.lauki",
+  "urdu": "لوکی",
+  "roman_urdu": "lauki",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "ghiya",
+   "calabash",
+   "gourd",
+   "green vegetable",
+   "vegetable",
+   "food"
+  ]
+ },
+ "taro-arvi": {
+  "word": "taro",
+  "id": "food-and-drink.vegetables.arvi",
+  "urdu": "اروی",
+  "roman_urdu": "arvi",
+  "skin": [],
+  "keywords": [
+   "taro root",
+   "root vegetable",
+   "eddoe",
+   "vegetable",
+   "food"
+  ]
+ },
+ "fenugreek-methi": {
+  "word": "fenugreek",
+  "id": "food-and-drink.vegetables.methi",
+  "urdu": "میتھی",
+  "roman_urdu": "methi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "fenugreek leaves",
+   "leafy greens",
+   "herb",
+   "greens",
+   "vegetable",
+   "food"
+  ]
+ },
+ "green-chilli": {
+  "word": "green chilli",
+  "id": "food-and-drink.vegetables.green-chilli",
+  "urdu": "ہری مرچ",
+  "roman_urdu": "hari mirch",
+  "skin": [],
+  "keywords": [
+   "chilli",
+   "chili",
+   "hot",
+   "spicy",
+   "pepper",
+   "vegetable",
+   "food"
+  ]
+ },
+ "cluster-beans": {
+  "word": "cluster beans",
+  "id": "food-and-drink.vegetables.gwar-phali",
+  "urdu": "گوار پھلی",
+  "roman_urdu": "gwar phali",
+  "skin": [],
+  "keywords": [
+   "guar beans",
+   "green beans",
+   "beans",
+   "vegetable",
+   "food"
+  ]
+ },
+ "lotus-stem": {
+  "word": "lotus stem",
+  "id": "food-and-drink.vegetables.kamal-kakri",
+  "urdu": "کمل ککڑی",
+  "roman_urdu": "kamal kakri",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "lotus root",
+   "bhee",
+   "root vegetable",
+   "vegetable",
+   "food"
+  ]
+ },
+ "long-cucumber-kakri": {
+  "word": "long cucumber",
+  "id": "food-and-drink.vegetables.kakri",
+  "urdu": "ککڑی",
+  "roman_urdu": "kakri",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "cucumber",
+   "armenian cucumber",
+   "salad",
+   "vegetable",
+   "food"
+  ]
+ },
+ "snake-gourd": {
+  "word": "snake gourd",
+  "id": "food-and-drink.vegetables.chichinda",
+  "urdu": "چچینڈا",
+  "roman_urdu": "chichinda",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "gourd",
+   "long gourd",
+   "green vegetable",
+   "vegetable",
+   "food"
+  ]
+ },
+ "curry-leaves": {
+  "word": "curry leaves",
+  "id": "food-and-drink.vegetables.kari-patta",
+  "urdu": "کڑی پتہ",
+  "roman_urdu": "kari patta",
+  "skin": [],
+  "keywords": [
+   "herb",
+   "leaves",
+   "cooking",
+   "spice",
+   "food"
+  ]
+ },
+ "flat-beans-sem": {
+  "word": "flat beans",
+  "id": "food-and-drink.vegetables.sem",
+  "urdu": "سیم کی پھلی",
+  "roman_urdu": "sem ki phali",
+  "skin": [],
+  "keywords": [
+   "broad beans",
+   "green beans",
+   "beans",
+   "pods",
+   "vegetable",
+   "food"
+  ]
+ },
+ "meat-boti": {
+  "word": "meat piece",
+  "id": "food-and-drink.meat-fish-and-eggs.boti",
+  "urdu": "بوٹی",
+  "roman_urdu": "boti",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "meat cubes",
+   "tikka",
+   "skewer",
+   "barbecue",
+   "grilled meat",
+   "meat",
+   "food"
+  ]
+ },
+ "sajji": {
+  "word": "sajji",
+  "id": "food-and-drink.meat-fish-and-eggs.sajji",
+  "urdu": "سجی",
+  "roman_urdu": "sajji",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "roast chicken",
+   "whole chicken",
+   "roast",
+   "balochi food",
+   "meat",
+   "food"
+  ]
+ },
+ "liver-kaleji": {
+  "word": "liver",
+  "id": "food-and-drink.meat-fish-and-eggs.kaleji",
+  "urdu": "کلیجی",
+  "roman_urdu": "kaleji",
+  "skin": [],
+  "keywords": [
+   "cooked liver",
+   "curry",
+   "meat",
+   "food"
+  ]
+ },
+ "brain-masala-magaz": {
+  "word": "brain masala",
+  "id": "food-and-drink.meat-fish-and-eggs.magaz",
+  "urdu": "مغز",
+  "roman_urdu": "magaz",
+  "skin": [],
+  "keywords": [
+   "brain curry",
+   "masala",
+   "curry",
+   "meat",
+   "food"
+  ]
+ },
+ "chargha": {
+  "word": "chargha",
+  "id": "food-and-drink.meat-fish-and-eggs.chargha",
+  "urdu": "چرغہ",
+  "roman_urdu": "chargha",
+  "skin": [],
+  "keywords": [
+   "fried chicken",
+   "whole chicken",
+   "spicy chicken",
+   "meat",
+   "food"
+  ]
+ },
+ "fried-fish": {
+  "word": "fried fish",
+  "id": "food-and-drink.meat-fish-and-eggs.machli-fry",
+  "urdu": "فرائی مچھلی",
+  "roman_urdu": "fry machli",
+  "skin": [],
+  "keywords": [
+   "fish fry",
+   "machli",
+   "battered fish",
+   "seafood",
+   "food"
+  ]
+ },
+ "rusk": {
+  "word": "rusk",
+  "id": "food-and-drink.dairy-and-bread.rusk",
+  "urdu": "رس",
+  "roman_urdu": "rus",
+  "skin": [],
+  "keywords": [
+   "toast",
+   "dry biscuit",
+   "papay",
+   "biscuit",
+   "tea time",
+   "snack",
+   "food"
+  ]
+ },
+ "khoya": {
+  "word": "khoya",
+  "id": "food-and-drink.dairy-and-bread.khoya",
+  "urdu": "کھویا",
+  "roman_urdu": "khoya",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "mawa",
+   "milk solids",
+   "dairy",
+   "cooking",
+   "sweet making",
+   "food"
+  ]
+ },
+ "sheermal": {
+  "word": "sheermal",
+  "id": "food-and-drink.dairy-and-bread.sheermal",
+  "urdu": "شیرمال",
+  "roman_urdu": "sheermal",
+  "skin": [],
+  "keywords": [
+   "sweet bread",
+   "saffron bread",
+   "flatbread",
+   "bread",
+   "food"
+  ]
+ },
+ "taftan": {
+  "word": "taftan",
+  "id": "food-and-drink.dairy-and-bread.taftan",
+  "urdu": "تافتان",
+  "roman_urdu": "taftan",
+  "skin": [],
+  "keywords": [
+   "flatbread",
+   "leavened bread",
+   "bread",
+   "food"
+  ]
+ },
+ "kulcha": {
+  "word": "kulcha",
+  "id": "food-and-drink.dairy-and-bread.kulcha",
+  "urdu": "کلچہ",
+  "roman_urdu": "kulcha",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "flatbread",
+   "soft bread",
+   "bread",
+   "food"
+  ]
+ },
+ "bakarkhani": {
+  "word": "bakarkhani",
+  "id": "food-and-drink.dairy-and-bread.bakarkhani",
+  "urdu": "باقرخانی",
+  "roman_urdu": "bakarkhani",
+  "skin": [],
+  "keywords": [
+   "flaky bread",
+   "layered biscuit",
+   "tea time",
+   "bread",
+   "food"
+  ]
+ },
+ "makki-ki-roti": {
+  "word": "cornbread",
+  "id": "food-and-drink.dairy-and-bread.makki-ki-roti",
+  "urdu": "مکئی کی روٹی",
+  "roman_urdu": "makki ki roti",
+  "skin": [],
+  "keywords": [
+   "maize bread",
+   "makki roti",
+   "corn roti",
+   "flatbread",
+   "bread",
+   "food"
+  ]
+ },
+ "pickle-achaar": {
+  "word": "pickle",
+  "id": "food-and-drink.pantry-and-cooking.achaar",
+  "urdu": "اچار",
+  "roman_urdu": "achaar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "achar",
+   "mango pickle",
+   "chutney",
+   "jar",
+   "food"
+  ]
+ },
+ "gram-flour-besan": {
+  "word": "gram flour",
+  "id": "food-and-drink.pantry-and-cooking.besan",
+  "urdu": "بیسن",
+  "roman_urdu": "besan",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "chickpea flour",
+   "flour",
+   "cooking",
+   "food"
+  ]
+ },
+ "semolina-suji": {
+  "word": "semolina",
+  "id": "food-and-drink.pantry-and-cooking.suji",
+  "urdu": "سوجی",
+  "roman_urdu": "suji",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "sooji",
+   "cream of wheat",
+   "cooking",
+   "food"
+  ]
+ },
+ "fennel-seeds": {
+  "word": "fennel seeds",
+  "id": "food-and-drink.pantry-and-cooking.saunf",
+  "urdu": "سونف",
+  "roman_urdu": "saunf",
+  "skin": [],
+  "keywords": [
+   "fennel",
+   "seeds",
+   "spice",
+   "cooking",
+   "food"
+  ]
+ },
+ "nigella-seeds": {
+  "word": "nigella seeds",
+  "id": "food-and-drink.pantry-and-cooking.kalonji",
+  "urdu": "کلونجی",
+  "roman_urdu": "kalonji",
+  "skin": [],
+  "keywords": [
+   "nigella",
+   "black seeds",
+   "black cumin",
+   "spice",
+   "food"
+  ]
+ },
+ "cloves": {
+  "word": "cloves",
+  "id": "food-and-drink.pantry-and-cooking.laung",
+  "urdu": "لونگ",
+  "roman_urdu": "laung",
+  "skin": [],
+  "keywords": [
+   "clove",
+   "spice",
+   "cooking",
+   "food"
+  ]
+ },
+ "carom-seeds": {
+  "word": "carom seeds",
+  "id": "food-and-drink.pantry-and-cooking.ajwain",
+  "urdu": "اجوائن",
+  "roman_urdu": "ajwain",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "carom",
+   "seeds",
+   "spice",
+   "cooking",
+   "food"
+  ]
+ },
+ "bay-leaf": {
+  "word": "bay leaf",
+  "id": "food-and-drink.pantry-and-cooking.tez-patta",
+  "urdu": "تیز پات",
+  "roman_urdu": "tez paat",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "bay leaves",
+   "tez patta",
+   "dried leaf",
+   "herb",
+   "spice",
+   "cooking",
+   "food"
+  ]
+ },
+ "chaat-masala": {
+  "word": "chaat masala",
+  "id": "food-and-drink.pantry-and-cooking.chaat-masala",
+  "urdu": "چاٹ مصالحہ",
+  "roman_urdu": "chaat masala",
+  "skin": [],
+  "keywords": [
+   "spice mix",
+   "masala",
+   "powder",
+   "spice",
+   "food"
+  ]
+ },
+ "jaggery-gur": {
+  "word": "jaggery",
+  "id": "food-and-drink.pantry-and-cooking.gur",
+  "urdu": "گڑ",
+  "roman_urdu": "gur",
+  "skin": [],
+  "keywords": [
+   "cane sugar",
+   "brown sugar",
+   "sweet",
+   "food"
+  ]
+ },
+ "white-flour-maida": {
+  "word": "white flour",
+  "id": "food-and-drink.pantry-and-cooking.maida",
+  "urdu": "میدہ",
+  "roman_urdu": "maida",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "plain flour",
+   "all-purpose flour",
+   "flour",
+   "baking",
+   "cooking",
+   "food"
+  ]
+ },
+ "vermicelli-sawaiyan": {
+  "word": "vermicelli",
+  "id": "food-and-drink.pantry-and-cooking.sawaiyan",
+  "urdu": "سویاں",
+  "roman_urdu": "sawaiyan",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "thin noodles",
+   "eid",
+   "noodles",
+   "food"
+  ]
+ },
+ "paya": {
+  "word": "paya",
+  "id": "food-and-drink.meals-from-home.paye",
+  "urdu": "پائے",
+  "roman_urdu": "paye",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "trotters",
+   "curry",
+   "breakfast",
+   "meat",
+   "food"
+  ]
+ },
+ "bun-kebab": {
+  "word": "bun kebab",
+  "id": "food-and-drink.meals-from-home.bun-kabab",
+  "urdu": "بن کباب",
+  "roman_urdu": "bun kabab",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "burger",
+   "street food",
+   "patty",
+   "snack",
+   "food"
+  ]
+ },
+ "gol-gappay": {
+  "word": "gol gappay",
+  "id": "food-and-drink.meals-from-home.gol-gappay",
+  "urdu": "گول گپے",
+  "roman_urdu": "gol gappay",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "pani puri",
+   "golgappa",
+   "puchka",
+   "street food",
+   "snack",
+   "food"
+  ]
+ },
+ "dahi-bhallay": {
+  "word": "dahi bhallay",
+  "id": "food-and-drink.meals-from-home.dahi-bhallay",
+  "urdu": "دہی بھلے",
+  "roman_urdu": "dahi bhallay",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "dahi baray",
+   "dahi vada",
+   "yoghurt",
+   "street food",
+   "snack",
+   "food"
+  ]
+ },
+ "egg-paratha": {
+  "word": "egg paratha",
+  "id": "food-and-drink.meals-from-home.anda-paratha",
+  "urdu": "انڈا پراٹھا",
+  "roman_urdu": "anda paratha",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "egg",
+   "paratha",
+   "breakfast",
+   "flatbread",
+   "food"
+  ]
+ },
+ "potato-bhujia": {
+  "word": "potato bhujia",
+  "id": "food-and-drink.meals-from-home.aloo-bhujia",
+  "urdu": "آلو کی بھجیا",
+  "roman_urdu": "aloo ki bhujia",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "aloo bhujia",
+   "potato",
+   "potatoes",
+   "curry",
+   "meal",
+   "food"
+  ]
+ },
+ "okra-curry-bhindi": {
+  "word": "okra curry",
+  "id": "food-and-drink.meals-from-home.bhindi-masala",
+  "urdu": "بھنڈی",
+  "roman_urdu": "bhindi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "okra",
+   "ladyfinger",
+   "curry",
+   "vegetable",
+   "meal",
+   "food"
+  ]
+ },
+ "daal-chawal": {
+  "word": "daal and rice",
+  "id": "food-and-drink.meals-from-home.daal-chawal",
+  "urdu": "دال چاول",
+  "roman_urdu": "daal chawal",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "daal",
+   "dal",
+   "rice",
+   "lentils",
+   "chawal",
+   "meal",
+   "food"
+  ]
+ },
+ "mince-and-peas": {
+  "word": "mince and peas",
+  "id": "food-and-drink.meals-from-home.qeema-matar",
+  "urdu": "قیمہ مٹر",
+  "roman_urdu": "qeema matar",
+  "skin": [],
+  "keywords": [
+   "keema",
+   "mince",
+   "peas",
+   "curry",
+   "meal",
+   "food"
+  ]
+ },
+ "shorba": {
+  "word": "thin curry",
+  "id": "food-and-drink.meals-from-home.shorba",
+  "urdu": "شوربہ",
+  "roman_urdu": "shorba",
+  "skin": [],
+  "keywords": [
+   "curry",
+   "gravy",
+   "soup",
+   "meal",
+   "food"
+  ]
+ },
+ "zarda": {
+  "word": "sweet rice",
+  "id": "food-and-drink.meals-from-home.zarda",
+  "urdu": "زردہ",
+  "roman_urdu": "zarda",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "yellow rice",
+   "dessert",
+   "wedding",
+   "food"
+  ]
+ },
+ "sheer-khurma": {
+  "word": "Eid vermicelli",
+  "id": "food-and-drink.meals-from-home.sheer-khurma",
+  "urdu": "شیر خرما",
+  "roman_urdu": "sheer khurma",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "vermicelli pudding",
+   "eid",
+   "dessert",
+   "milk",
+   "food"
+  ]
+ },
+ "kadhi-pakora": {
+  "word": "kadhi pakora",
+  "id": "food-and-drink.meals-from-home.kadhi-pakora",
+  "urdu": "کڑھی پکوڑا",
+  "roman_urdu": "kadhi pakora",
+  "skin": [],
+  "keywords": [
+   "kadhi",
+   "pakora",
+   "yoghurt curry",
+   "curry",
+   "meal",
+   "food"
+  ]
+ },
+ "handi": {
+  "word": "handi",
+  "id": "food-and-drink.meals-from-home.handi",
+  "urdu": "ہانڈی",
+  "roman_urdu": "handi",
+  "skin": [],
+  "keywords": [
+   "clay pot",
+   "curry",
+   "chicken curry",
+   "meal",
+   "food"
+  ]
+ },
+ "katakat": {
+  "word": "katakat",
+  "id": "food-and-drink.meals-from-home.katakat",
+  "urdu": "کٹاکٹ",
+  "roman_urdu": "katakat",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "tawa",
+   "griddle",
+   "meat",
+   "street food",
+   "meal",
+   "food"
+  ]
+ },
+ "potato-mince": {
+  "word": "potato mince",
+  "id": "food-and-drink.meals-from-home.aloo-keema",
+  "urdu": "آلو قیمہ",
+  "roman_urdu": "aloo qeema",
+  "skin": [],
+  "keywords": [
+   "aloo keema",
+   "mince",
+   "potato",
+   "curry",
+   "meal",
+   "food"
+  ]
+ },
+ "daal-mash": {
+  "word": "daal mash",
+  "id": "food-and-drink.meals-from-home.daal-mash",
+  "urdu": "دال ماش",
+  "roman_urdu": "daal mash",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "mash daal",
+   "urad",
+   "white lentils",
+   "lentils",
+   "daal",
+   "meal",
+   "food"
+  ]
+ },
+ "sindhi-biryani": {
+  "word": "Sindhi biryani",
+  "id": "food-and-drink.meals-from-home.sindhi-biryani",
+  "urdu": "سندھی بریانی",
+  "roman_urdu": "sindhi biryani",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "biryani",
+   "rice",
+   "spicy rice",
+   "chicken rice",
+   "meal",
+   "food"
+  ]
+ },
+ "potato-spinach": {
+  "word": "potato spinach",
+  "id": "food-and-drink.meals-from-home.aloo-palak",
+  "urdu": "آلو پالک",
+  "roman_urdu": "aloo palak",
+  "skin": [],
+  "keywords": [
+   "spinach",
+   "potato",
+   "greens",
+   "curry",
+   "meal",
+   "food"
+  ]
+ },
+ "chanay-ki-daal": {
+  "word": "split chickpea daal",
+  "id": "food-and-drink.meals-from-home.chanay-ki-daal",
+  "urdu": "چنے کی دال",
+  "roman_urdu": "chanay ki daal",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "chana daal",
+   "split chickpeas",
+   "lentils",
+   "daal",
+   "meal",
+   "food"
+  ]
+ },
+ "chai-paratha": {
+  "word": "tea and paratha",
+  "id": "food-and-drink.breakfast.chai-paratha",
+  "urdu": "چائے پراٹھا",
+  "roman_urdu": "chai paratha",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "tea",
+   "chai",
+   "paratha",
+   "breakfast",
+   "morning",
+   "meal",
+   "food"
+  ]
+ },
+ "bun-makhan": {
+  "word": "bun with butter",
+  "id": "food-and-drink.breakfast.bun-makhan",
+  "urdu": "بن مکھن",
+  "roman_urdu": "bun makhan",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "bun",
+   "butter",
+   "bread roll",
+   "breakfast",
+   "tea time",
+   "food"
+  ]
+ },
+ "chana-puri": {
+  "word": "chickpeas and puri",
+  "id": "food-and-drink.breakfast.chana-puri",
+  "urdu": "چنے پوری",
+  "roman_urdu": "chanay puri",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "halwa puri",
+   "puri",
+   "chickpeas",
+   "chanay",
+   "breakfast",
+   "food"
+  ]
+ },
+ "lassi-paratha": {
+  "word": "lassi and paratha",
+  "id": "food-and-drink.breakfast.lassi-paratha",
+  "urdu": "لسی پراٹھا",
+  "roman_urdu": "lassi paratha",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "lassi",
+   "paratha",
+   "yoghurt drink",
+   "breakfast",
+   "food",
+   "drink"
+  ]
+ },
+ "khagina": {
+  "word": "khagina",
+  "id": "food-and-drink.breakfast.khagina",
+  "urdu": "خاگینہ",
+  "roman_urdu": "khagina",
+  "skin": [],
+  "keywords": [
+   "scrambled eggs",
+   "eggs",
+   "breakfast",
+   "food"
+  ]
+ },
+ "broast-chicken": {
+  "word": "broast chicken",
+  "id": "food-and-drink.lunch-and-dinner.broast",
+  "urdu": "بروسٹ",
+  "roman_urdu": "broast",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "fried chicken",
+   "chicken",
+   "fast food",
+   "crispy",
+   "food"
+  ]
+ },
+ "mithai-box": {
+  "word": "sweets",
+  "id": "food-and-drink.snacks-and-treats.mithai",
+  "urdu": "مٹھائی",
+  "roman_urdu": "mithai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "sweet box",
+   "laddoo",
+   "barfi",
+   "dessert",
+   "celebration",
+   "food"
+  ]
+ },
+ "barfi": {
+  "word": "barfi",
+  "id": "food-and-drink.snacks-and-treats.barfi",
+  "urdu": "برفی",
+  "roman_urdu": "barfi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "burfi",
+   "milk sweet",
+   "mithai",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "ras-malai": {
+  "word": "ras malai",
+  "id": "food-and-drink.snacks-and-treats.rasmalai",
+  "urdu": "رس ملائی",
+  "roman_urdu": "ras malai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "rasmalai",
+   "milk sweet",
+   "mithai",
+   "dessert",
+   "sweet",
+   "food"
+  ]
+ },
+ "falooda": {
+  "word": "falooda",
+  "id": "food-and-drink.snacks-and-treats.falooda",
+  "urdu": "فالودہ",
+  "roman_urdu": "falooda",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "rose milk",
+   "ice cream",
+   "dessert drink",
+   "summer",
+   "drink",
+   "food"
+  ]
+ },
+ "nimko": {
+  "word": "salty snack mix",
+  "id": "food-and-drink.snacks-and-treats.nimko",
+  "urdu": "نمکو",
+  "roman_urdu": "nimko",
+  "skin": [],
+  "keywords": [
+   "bombay mix",
+   "snack mix",
+   "savoury",
+   "tea time",
+   "snack",
+   "food"
+  ]
+ },
+ "papad": {
+  "word": "papad",
+  "id": "food-and-drink.snacks-and-treats.papad",
+  "urdu": "پاپڑ",
+  "roman_urdu": "papar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "papadum",
+   "poppadom",
+   "crispy",
+   "snack",
+   "food"
+  ]
+ },
+ "chana-chaat": {
+  "word": "chickpea chaat",
+  "id": "food-and-drink.snacks-and-treats.chana-chaat",
+  "urdu": "چنا چاٹ",
+  "roman_urdu": "chana chaat",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "chaat",
+   "chickpea salad",
+   "street food",
+   "tangy",
+   "snack",
+   "food"
+  ]
+ },
+ "carrot-halwa": {
+  "word": "carrot halwa",
+  "id": "food-and-drink.snacks-and-treats.gajar-halwa",
+  "urdu": "گاجر کا حلوہ",
+  "roman_urdu": "gajar ka halwa",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "gajar halwa",
+   "carrot pudding",
+   "halwa",
+   "winter dessert",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ }
+}
