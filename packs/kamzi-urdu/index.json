@@ -43,9 +43,7 @@
   "id": "animals.farm.bhains",
   "urdu": "بھینس",
   "roman_urdu": "bhains",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "buffalo",
    "farm animal",
@@ -91,9 +89,7 @@
   "id": "food-and-drink.fruit.ganna",
   "urdu": "گنا",
   "roman_urdu": "ganna",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "cane",
    "sugar cane",
@@ -152,9 +148,7 @@
   "id": "food-and-drink.fruit.mosambi",
   "urdu": "موسمی",
   "roman_urdu": "mosambi",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "citrus",
    "lime",
@@ -215,9 +209,7 @@
   "id": "food-and-drink.fruit.akhrot",
   "urdu": "اخروٹ",
   "roman_urdu": "akhrot",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "walnut",
    "nuts",
@@ -232,9 +224,7 @@
   "id": "food-and-drink.fruit.kaju",
   "urdu": "کاجو",
   "roman_urdu": "kaju",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "cashew",
    "nuts",
@@ -248,9 +238,7 @@
   "id": "food-and-drink.fruit.moongphali",
   "urdu": "مونگ پھلی",
   "roman_urdu": "moongphali",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "peanut",
    "groundnut",
@@ -266,9 +254,7 @@
   "id": "food-and-drink.fruit.chilgoza",
   "urdu": "چلغوزے",
   "roman_urdu": "chilgoza",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "pine nut",
    "nuts",
@@ -297,9 +283,7 @@
   "id": "food-and-drink.vegetables.lauki",
   "urdu": "لوکی",
   "roman_urdu": "lauki",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "ghiya",
    "calabash",
@@ -328,9 +312,7 @@
   "id": "food-and-drink.vegetables.methi",
   "urdu": "میتھی",
   "roman_urdu": "methi",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "fenugreek leaves",
    "leafy greens",
@@ -375,9 +357,7 @@
   "id": "food-and-drink.vegetables.kamal-kakri",
   "urdu": "کمل ککڑی",
   "roman_urdu": "kamal kakri",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "lotus root",
    "bhee",
@@ -391,9 +371,7 @@
   "id": "food-and-drink.vegetables.kakri",
   "urdu": "ککڑی",
   "roman_urdu": "kakri",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "cucumber",
    "armenian cucumber",
@@ -407,9 +385,7 @@
   "id": "food-and-drink.vegetables.chichinda",
   "urdu": "چچینڈا",
   "roman_urdu": "chichinda",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "gourd",
    "long gourd",
@@ -452,9 +428,7 @@
   "id": "food-and-drink.meat-fish-and-eggs.boti",
   "urdu": "بوٹی",
   "roman_urdu": "boti",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "meat cubes",
    "tikka",
@@ -470,9 +444,7 @@
   "id": "food-and-drink.meat-fish-and-eggs.sajji",
   "urdu": "سجی",
   "roman_urdu": "sajji",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "roast chicken",
    "whole chicken",
@@ -558,9 +530,7 @@
   "id": "food-and-drink.dairy-and-bread.khoya",
   "urdu": "کھویا",
   "roman_urdu": "khoya",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "mawa",
    "milk solids",
@@ -602,9 +572,7 @@
   "id": "food-and-drink.dairy-and-bread.kulcha",
   "urdu": "کلچہ",
   "roman_urdu": "kulcha",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "flatbread",
    "soft bread",
@@ -646,9 +614,7 @@
   "id": "food-and-drink.pantry-and-cooking.achaar",
   "urdu": "اچار",
   "roman_urdu": "achaar",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "achar",
    "mango pickle",
@@ -662,9 +628,7 @@
   "id": "food-and-drink.pantry-and-cooking.besan",
   "urdu": "بیسن",
   "roman_urdu": "besan",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "chickpea flour",
    "flour",
@@ -677,9 +641,7 @@
   "id": "food-and-drink.pantry-and-cooking.suji",
   "urdu": "سوجی",
   "roman_urdu": "suji",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "sooji",
    "cream of wheat",
@@ -733,9 +695,7 @@
   "id": "food-and-drink.pantry-and-cooking.ajwain",
   "urdu": "اجوائن",
   "roman_urdu": "ajwain",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "carom",
    "seeds",
@@ -749,9 +709,7 @@
   "id": "food-and-drink.pantry-and-cooking.tez-patta",
   "urdu": "تیز پات",
   "roman_urdu": "tez paat",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "bay leaves",
    "tez patta",
@@ -794,9 +752,7 @@
   "id": "food-and-drink.pantry-and-cooking.maida",
   "urdu": "میدہ",
   "roman_urdu": "maida",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "plain flour",
    "all-purpose flour",
@@ -811,9 +767,7 @@
   "id": "food-and-drink.pantry-and-cooking.sawaiyan",
   "urdu": "سویاں",
   "roman_urdu": "sawaiyan",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "thin noodles",
    "eid",
@@ -826,9 +780,7 @@
   "id": "food-and-drink.meals-from-home.paye",
   "urdu": "پائے",
   "roman_urdu": "paye",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "trotters",
    "curry",
@@ -842,9 +794,7 @@
   "id": "food-and-drink.meals-from-home.bun-kabab",
   "urdu": "بن کباب",
   "roman_urdu": "bun kabab",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "burger",
    "street food",
@@ -858,9 +808,7 @@
   "id": "food-and-drink.meals-from-home.gol-gappay",
   "urdu": "گول گپے",
   "roman_urdu": "gol gappay",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "pani puri",
    "golgappa",
@@ -875,9 +823,7 @@
   "id": "food-and-drink.meals-from-home.dahi-bhallay",
   "urdu": "دہی بھلے",
   "roman_urdu": "dahi bhallay",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "dahi baray",
    "dahi vada",
@@ -892,9 +838,7 @@
   "id": "food-and-drink.meals-from-home.anda-paratha",
   "urdu": "انڈا پراٹھا",
   "roman_urdu": "anda paratha",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "egg",
    "paratha",
@@ -908,9 +852,7 @@
   "id": "food-and-drink.meals-from-home.aloo-bhujia",
   "urdu": "آلو کی بھجیا",
   "roman_urdu": "aloo ki bhujia",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "aloo bhujia",
    "potato",
@@ -925,9 +867,7 @@
   "id": "food-and-drink.meals-from-home.bhindi-masala",
   "urdu": "بھنڈی",
   "roman_urdu": "bhindi",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "okra",
    "ladyfinger",
@@ -942,9 +882,7 @@
   "id": "food-and-drink.meals-from-home.daal-chawal",
   "urdu": "دال چاول",
   "roman_urdu": "daal chawal",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "daal",
    "dal",
@@ -989,9 +927,7 @@
   "id": "food-and-drink.meals-from-home.zarda",
   "urdu": "زردہ",
   "roman_urdu": "zarda",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "yellow rice",
    "dessert",
@@ -1004,9 +940,7 @@
   "id": "food-and-drink.meals-from-home.sheer-khurma",
   "urdu": "شیر خرما",
   "roman_urdu": "sheer khurma",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "vermicelli pudding",
    "eid",
@@ -1049,9 +983,7 @@
   "id": "food-and-drink.meals-from-home.katakat",
   "urdu": "کٹاکٹ",
   "roman_urdu": "katakat",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "tawa",
    "griddle",
@@ -1081,9 +1013,7 @@
   "id": "food-and-drink.meals-from-home.daal-mash",
   "urdu": "دال ماش",
   "roman_urdu": "daal mash",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "mash daal",
    "urad",
@@ -1099,9 +1029,7 @@
   "id": "food-and-drink.meals-from-home.sindhi-biryani",
   "urdu": "سندھی بریانی",
   "roman_urdu": "sindhi biryani",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "biryani",
    "rice",
@@ -1131,9 +1059,7 @@
   "id": "food-and-drink.meals-from-home.chanay-ki-daal",
   "urdu": "چنے کی دال",
   "roman_urdu": "chanay ki daal",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "chana daal",
    "split chickpeas",
@@ -1148,9 +1074,7 @@
   "id": "food-and-drink.breakfast.chai-paratha",
   "urdu": "چائے پراٹھا",
   "roman_urdu": "chai paratha",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "tea",
    "chai",
@@ -1166,9 +1090,7 @@
   "id": "food-and-drink.breakfast.bun-makhan",
   "urdu": "بن مکھن",
   "roman_urdu": "bun makhan",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "bun",
    "butter",
@@ -1183,9 +1105,7 @@
   "id": "food-and-drink.breakfast.chana-puri",
   "urdu": "چنے پوری",
   "roman_urdu": "chanay puri",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "halwa puri",
    "puri",
@@ -1200,9 +1120,7 @@
   "id": "food-and-drink.breakfast.lassi-paratha",
   "urdu": "لسی پراٹھا",
   "roman_urdu": "lassi paratha",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "lassi",
    "paratha",
@@ -1230,9 +1148,7 @@
   "id": "food-and-drink.lunch-and-dinner.broast",
   "urdu": "بروسٹ",
   "roman_urdu": "broast",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "fried chicken",
    "chicken",
@@ -1246,9 +1162,7 @@
   "id": "food-and-drink.snacks-and-treats.mithai",
   "urdu": "مٹھائی",
   "roman_urdu": "mithai",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "sweet box",
    "laddoo",
@@ -1263,9 +1177,7 @@
   "id": "food-and-drink.snacks-and-treats.barfi",
   "urdu": "برفی",
   "roman_urdu": "barfi",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "burfi",
    "milk sweet",
@@ -1280,9 +1192,7 @@
   "id": "food-and-drink.snacks-and-treats.rasmalai",
   "urdu": "رس ملائی",
   "roman_urdu": "ras malai",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "rasmalai",
    "milk sweet",
@@ -1297,9 +1207,7 @@
   "id": "food-and-drink.snacks-and-treats.falooda",
   "urdu": "فالودہ",
   "roman_urdu": "falooda",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "rose milk",
    "ice cream",
@@ -1329,9 +1237,7 @@
   "id": "food-and-drink.snacks-and-treats.papad",
   "urdu": "پاپڑ",
   "roman_urdu": "papar",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "papadum",
    "poppadom",
@@ -1345,9 +1251,7 @@
   "id": "food-and-drink.snacks-and-treats.chana-chaat",
   "urdu": "چنا چاٹ",
   "roman_urdu": "chana chaat",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "chaat",
    "chickpea salad",
@@ -1362,9 +1266,7 @@
   "id": "food-and-drink.snacks-and-treats.gajar-halwa",
   "urdu": "گاجر کا حلوہ",
   "roman_urdu": "gajar ka halwa",
-  "skin": [
-   "#EAD2AE"
-  ],
+  "skin": [],
   "keywords": [
    "gajar halwa",
    "carrot pudding",
@@ -1373,6 +1275,1337 @@
    "sweet",
    "dessert",
    "food"
+  ]
+ },
+ "kachori": {
+  "word": "kachori",
+  "id": "food-and-drink.snacks-and-treats.kachori",
+  "urdu": "کچوری",
+  "roman_urdu": "kachori",
+  "skin": [],
+  "keywords": [
+   "fried pastry",
+   "lentil filling",
+   "street food",
+   "snack",
+   "food"
+  ]
+ },
+ "sohan-halwa": {
+  "word": "Sohan halwa",
+  "id": "food-and-drink.snacks-and-treats.sohan-halwa",
+  "urdu": "سوہن حلوہ",
+  "roman_urdu": "sohan halwa",
+  "skin": [],
+  "keywords": [
+   "multani halwa",
+   "halwa",
+   "mithai",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "rabri": {
+  "word": "rabri",
+  "id": "food-and-drink.snacks-and-treats.rabri",
+  "urdu": "ربڑی",
+  "roman_urdu": "rabri",
+  "skin": [],
+  "keywords": [
+   "rabdi",
+   "thickened milk",
+   "milk dessert",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "cham-cham": {
+  "word": "cham cham",
+  "id": "food-and-drink.snacks-and-treats.cham-cham",
+  "urdu": "چم چم",
+  "roman_urdu": "cham cham",
+  "skin": [],
+  "keywords": [
+   "chum chum",
+   "milk sweet",
+   "coconut",
+   "mithai",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "kalakand": {
+  "word": "kalakand",
+  "id": "food-and-drink.snacks-and-treats.kalakand",
+  "urdu": "قلاقند",
+  "roman_urdu": "kalakand",
+  "skin": [],
+  "keywords": [
+   "milk cake",
+   "milk sweet",
+   "mithai",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "patisa": {
+  "word": "patisa",
+  "id": "food-and-drink.snacks-and-treats.patisa",
+  "urdu": "پتیسہ",
+  "roman_urdu": "patisa",
+  "skin": [],
+  "keywords": [
+   "soan papdi",
+   "flaky sweet",
+   "mithai",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "gajak": {
+  "word": "gajak",
+  "id": "food-and-drink.snacks-and-treats.gajak",
+  "urdu": "گجک",
+  "roman_urdu": "gajak",
+  "skin": [],
+  "keywords": [
+   "sesame brittle",
+   "chikki",
+   "winter sweet",
+   "sweet",
+   "snack",
+   "food"
+  ]
+ },
+ "rewri": {
+  "word": "rewri",
+  "id": "food-and-drink.snacks-and-treats.rewri",
+  "urdu": "ریوڑی",
+  "roman_urdu": "rewri",
+  "skin": [],
+  "keywords": [
+   "revdi",
+   "sesame sweet",
+   "winter sweet",
+   "sweet",
+   "snack",
+   "food"
+  ]
+ },
+ "shakarparay": {
+  "word": "shakarparay",
+  "id": "food-and-drink.snacks-and-treats.shakarparay",
+  "urdu": "شکر پارے",
+  "roman_urdu": "shakar paray",
+  "skin": [],
+  "keywords": [
+   "shakarpara",
+   "sugar coated",
+   "fried sweet",
+   "tea time",
+   "sweet",
+   "snack",
+   "food"
+  ]
+ },
+ "namak-paray": {
+  "word": "namak paray",
+  "id": "food-and-drink.snacks-and-treats.namak-paray",
+  "urdu": "نمک پارے",
+  "roman_urdu": "namak paray",
+  "skin": [],
+  "keywords": [
+   "namak para",
+   "salty snack",
+   "fried snack",
+   "tea time",
+   "snack",
+   "food"
+  ]
+ },
+ "firni": {
+  "word": "firni",
+  "id": "food-and-drink.snacks-and-treats.firni",
+  "urdu": "فرنی",
+  "roman_urdu": "firni",
+  "skin": [],
+  "keywords": [
+   "phirni",
+   "rice pudding",
+   "milk dessert",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "shahi-tukray": {
+  "word": "shahi tukray",
+  "id": "food-and-drink.snacks-and-treats.shahi-tukray",
+  "urdu": "شاہی ٹکڑے",
+  "roman_urdu": "shahi tukray",
+  "skin": [],
+  "keywords": [
+   "shahi tukda",
+   "bread pudding",
+   "sweet bread",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "pinni": {
+  "word": "pinni",
+  "id": "food-and-drink.snacks-and-treats.pinni",
+  "urdu": "پنی",
+  "roman_urdu": "pinni",
+  "skin": [],
+  "keywords": [
+   "flour ball",
+   "winter sweet",
+   "mithai",
+   "sweet",
+   "food"
+  ]
+ },
+ "chana-chor-garam": {
+  "word": "chana chor garam",
+  "id": "food-and-drink.snacks-and-treats.chana-chor-garam",
+  "urdu": "چنا چور گرم",
+  "roman_urdu": "chana chor garam",
+  "skin": [],
+  "keywords": [
+   "chana jor garam",
+   "flattened chickpeas",
+   "street snack",
+   "paper cone",
+   "snack",
+   "food"
+  ]
+ },
+ "lab-e-shireen": {
+  "word": "lab-e-shireen",
+  "id": "food-and-drink.snacks-and-treats.lab-e-shireen",
+  "urdu": "لب شیریں",
+  "roman_urdu": "lab e shireen",
+  "skin": [],
+  "keywords": [
+   "custard",
+   "fruit trifle",
+   "jelly",
+   "sweet",
+   "dessert",
+   "food"
+  ]
+ },
+ "kahwa": {
+  "word": "green tea",
+  "id": "food-and-drink.drinks.kahwa",
+  "urdu": "قہوہ",
+  "roman_urdu": "qehwa",
+  "skin": [],
+  "keywords": [
+   "herbal tea",
+   "hot drink",
+   "tea",
+   "drink"
+  ]
+ },
+ "rooh-afza": {
+  "word": "Rooh Afza",
+  "id": "food-and-drink.drinks.rooh-afza",
+  "urdu": "روح افزا",
+  "roman_urdu": "rooh afza",
+  "skin": [],
+  "keywords": [
+   "rose drink",
+   "rose syrup",
+   "sharbat",
+   "pink drink",
+   "cold drink",
+   "summer",
+   "drink"
+  ]
+ },
+ "milk-soda": {
+  "word": "milk soda",
+  "id": "food-and-drink.drinks.doodh-soda",
+  "urdu": "دودھ سوڈا",
+  "roman_urdu": "doodh soda",
+  "skin": [],
+  "keywords": [
+   "fizzy milk",
+   "soda",
+   "cold drink",
+   "ramzan",
+   "drink"
+  ]
+ },
+ "jaggery-tea": {
+  "word": "jaggery tea",
+  "id": "food-and-drink.drinks.gur-wali-chai",
+  "urdu": "گڑ والی چائے",
+  "roman_urdu": "gur wali chai",
+  "skin": [],
+  "keywords": [
+   "gur chai",
+   "jaggery",
+   "tea",
+   "chai",
+   "hot drink",
+   "drink"
+  ]
+ },
+ "dastarkhwan": {
+  "word": "eating cloth",
+  "id": "food-and-drink.mealtime.dastarkhwan",
+  "urdu": "دسترخوان",
+  "roman_urdu": "dastarkhwan",
+  "skin": [],
+  "keywords": [
+   "floor meal",
+   "sitting on the floor",
+   "meal",
+   "mealtime"
+  ]
+ },
+ "camel-ride": {
+  "word": "camel ride at the beach",
+  "id": "places.beach-and-pool.camel-ride",
+  "urdu": "اونٹ کی سواری",
+  "roman_urdu": "oont ki sawari",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "camel",
+   "beach",
+   "ride",
+   "outing",
+   "holiday"
+  ]
+ },
+ "kiryana-shop": {
+  "word": "corner grocery shop",
+  "id": "places.shops.kiryana",
+  "urdu": "کریانے کی دکان",
+  "roman_urdu": "kiryana",
+  "skin": [],
+  "keywords": [
+   "grocery",
+   "corner shop",
+   "general store",
+   "shop",
+   "place"
+  ]
+ },
+ "vegetable-market-mandi": {
+  "word": "vegetable market",
+  "id": "places.shops.sabzi-mandi",
+  "urdu": "سبزی منڈی",
+  "roman_urdu": "sabzi mandi",
+  "skin": [],
+  "keywords": [
+   "market stalls",
+   "fresh vegetables",
+   "shop",
+   "place"
+  ]
+ },
+ "sunday-market": {
+  "word": "Sunday market",
+  "id": "places.shops.itwar-bazaar",
+  "urdu": "اتوار بازار",
+  "roman_urdu": "itwar bazaar",
+  "skin": [],
+  "keywords": [
+   "weekly market",
+   "bazaar",
+   "stalls",
+   "shopping",
+   "place"
+  ]
+ },
+ "roti-oven-shop": {
+  "word": "roti oven shop",
+  "id": "places.shops.tandoor",
+  "urdu": "تندور",
+  "roman_urdu": "tandoor",
+  "skin": [],
+  "keywords": [
+   "naan shop",
+   "bakery",
+   "roti shop",
+   "shop",
+   "place"
+  ]
+ },
+ "roadside-dhaba": {
+  "word": "roadside eatery",
+  "id": "places.shops.dhaba",
+  "urdu": "ڈھابا",
+  "roman_urdu": "dhaba",
+  "skin": [],
+  "keywords": [
+   "roadside cafe",
+   "truck stop",
+   "eatery",
+   "restaurant",
+   "place"
+  ]
+ },
+ "tea-stall": {
+  "word": "tea stall",
+  "id": "places.shops.chai-dhaba",
+  "urdu": "چائے کا ڈھابا",
+  "roman_urdu": "chai ka dhaba",
+  "skin": [],
+  "keywords": [
+   "chai stall",
+   "chai dhaba",
+   "tea shop",
+   "chai wala",
+   "cafe",
+   "place"
+  ]
+ },
+ "ladies-market": {
+  "word": "ladies' market",
+  "id": "places.shops.meena-bazaar",
+  "urdu": "مینا بازار",
+  "roman_urdu": "meena bazaar",
+  "skin": [],
+  "keywords": [
+   "bangles",
+   "fabric market",
+   "stalls",
+   "shopping",
+   "place"
+  ]
+ },
+ "imambargah": {
+  "word": "imambargah",
+  "id": "places.community.imambargah",
+  "urdu": "امام بارگاہ",
+  "roman_urdu": "imambargah",
+  "skin": [],
+  "keywords": [
+   "hall",
+   "muharram",
+   "religious building",
+   "place",
+   "building"
+  ]
+ },
+ "shrine-darbar": {
+  "word": "shrine",
+  "id": "places.community.darbar",
+  "urdu": "دربار",
+  "roman_urdu": "darbar",
+  "skin": [],
+  "keywords": [
+   "mazaar",
+   "dome",
+   "place",
+   "building"
+  ]
+ },
+ "pink-tea": {
+  "word": "pink tea",
+  "id": "food-and-drink.drinks.kashmiri-chai",
+  "urdu": "کشمیری چائے",
+  "roman_urdu": "kashmiri chai",
+  "skin": [],
+  "keywords": [
+   "noon chai",
+   "pink chai",
+   "tea",
+   "hot drink",
+   "drink"
+  ]
+ },
+ "chowk-roundabout": {
+  "word": "square / roundabout",
+  "id": "places.community.chowk",
+  "urdu": "چوک",
+  "roman_urdu": "chowk",
+  "skin": [],
+  "keywords": [
+   "square",
+   "traffic circle",
+   "intersection",
+   "road",
+   "place"
+  ]
+ },
+ "village-gaon": {
+  "word": "village",
+  "id": "places.community.gaon",
+  "urdu": "گاؤں",
+  "roman_urdu": "gaon",
+  "skin": [],
+  "keywords": [
+   "countryside",
+   "rural",
+   "houses",
+   "place"
+  ]
+ },
+ "neighbourhood-mohalla": {
+  "word": "neighbourhood",
+  "id": "places.community.mohalla",
+  "urdu": "محلہ",
+  "roman_urdu": "mohalla",
+  "skin": [],
+  "keywords": [
+   "street",
+   "local area",
+   "houses",
+   "place"
+  ]
+ },
+ "crops-khait": {
+  "word": "crops",
+  "id": "places.outdoors.khait",
+  "urdu": "فصل",
+  "roman_urdu": "fasal",
+  "skin": [],
+  "keywords": [
+   "khait",
+   "field",
+   "wheat",
+   "farm",
+   "farming",
+   "crop",
+   "place"
+  ]
+ },
+ "tube-well": {
+  "word": "tube well",
+  "id": "places.outdoors.tube-well",
+  "urdu": "ٹیوب ویل",
+  "roman_urdu": "tube well",
+  "skin": [],
+  "keywords": [
+   "water pump",
+   "irrigation",
+   "farm",
+   "water",
+   "place"
+  ]
+ },
+ "rescue-ambulance": {
+  "word": "emergency service",
+  "id": "places.health-and-help.rescue-1122",
+  "urdu": "ریسکیو 1122",
+  "roman_urdu": "rescue 1122",
+  "skin": [],
+  "keywords": [
+   "1122",
+   "rescue",
+   "ambulance",
+   "emergency",
+   "help",
+   "vehicle"
+  ]
+ },
+ "hakeem": {
+  "word": "traditional healer",
+  "id": "places.health-and-help.hakeem",
+  "urdu": "حکیم",
+  "roman_urdu": "hakeem",
+  "skin": [],
+  "keywords": [
+   "herbal medicine",
+   "healer",
+   "herbs",
+   "medicine",
+   "place"
+  ]
+ },
+ "village-visit": {
+  "word": "going to the village",
+  "id": "places.visiting.village-visit",
+  "urdu": "گاؤں جانا",
+  "roman_urdu": "gaon jana",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "visit",
+   "trip",
+   "countryside",
+   "travel",
+   "outing"
+  ]
+ },
+ "rickshaw": {
+  "word": "rickshaw",
+  "id": "places.getting-around.rickshaw",
+  "urdu": "رکشہ",
+  "roman_urdu": "rickshaw",
+  "skin": [],
+  "keywords": [
+   "auto rickshaw",
+   "tuk tuk",
+   "three wheeler",
+   "ride",
+   "transport",
+   "vehicle"
+  ],
+  "also_ids": [
+   "transport.cars-and-roads.rickshaw"
+  ]
+ },
+ "qingqi": {
+  "word": "motorbike rickshaw",
+  "id": "places.getting-around.qingqi",
+  "urdu": "چنگچی",
+  "roman_urdu": "chingchi",
+  "skin": [],
+  "keywords": [
+   "ride",
+   "transport",
+   "vehicle"
+  ],
+  "also_ids": [
+   "transport.cars-and-roads.qingqi"
+  ]
+ },
+ "public-wagon": {
+  "word": "public wagon",
+  "id": "places.getting-around.wagon",
+  "urdu": "ویگن",
+  "roman_urdu": "wagon",
+  "skin": [],
+  "keywords": [
+   "minibus",
+   "van",
+   "public transport",
+   "transport",
+   "vehicle"
+  ],
+  "also_ids": [
+   "transport.trains-and-buses.wagon"
+  ]
+ },
+ "metro-bus": {
+  "word": "metro bus",
+  "id": "places.getting-around.metro-bus",
+  "urdu": "میٹرو بس",
+  "roman_urdu": "metro bus",
+  "skin": [],
+  "keywords": [
+   "metro",
+   "bus",
+   "city bus",
+   "public transport",
+   "transport",
+   "vehicle"
+  ],
+  "also_ids": [
+   "transport.trains-and-buses.metro-bus"
+  ]
+ },
+ "speed-breaker": {
+  "word": "speed bump",
+  "id": "transport.cars-and-roads.speed-breaker",
+  "urdu": "اسپیڈ بریکر",
+  "roman_urdu": "speed breaker",
+  "skin": [],
+  "keywords": [
+   "speed hump",
+   "road bump",
+   "slow down",
+   "road"
+  ]
+ },
+ "donkey-cart": {
+  "word": "donkey cart",
+  "id": "transport.cars-and-roads.donkey-cart",
+  "urdu": "گدھا گاڑی",
+  "roman_urdu": "gadha gaari",
+  "skin": [],
+  "keywords": [
+   "cart",
+   "donkey",
+   "gadha gari",
+   "transport",
+   "vehicle"
+  ]
+ },
+ "tractor-trolley": {
+  "word": "tractor trolley",
+  "id": "transport.trucks-and-machines.tractor-trolley",
+  "urdu": "ٹریکٹر ٹرالی",
+  "roman_urdu": "tractor trolley",
+  "skin": [],
+  "keywords": [
+   "tractor",
+   "trolley",
+   "farm vehicle",
+   "straw",
+   "farm",
+   "vehicle"
+  ]
+ },
+ "water-tanker": {
+  "word": "water tanker",
+  "id": "transport.trucks-and-machines.water-tanker",
+  "urdu": "پانی کا ٹینکر",
+  "roman_urdu": "pani ka tanker",
+  "skin": [],
+  "keywords": [
+   "tanker",
+   "water truck",
+   "water supply",
+   "truck",
+   "vehicle"
+  ]
+ },
+ "evil-eye-nazar": {
+  "word": "evil eye",
+  "id": "body-and-health.i-feel-sick.nazar",
+  "urdu": "نظر لگنا",
+  "roman_urdu": "nazar lagna",
+  "skin": [],
+  "keywords": [
+   "nazar",
+   "charm",
+   "blue eye",
+   "protection",
+   "belief"
+  ]
+ },
+ "dengue": {
+  "word": "dengue",
+  "id": "body-and-health.i-feel-sick.dengue",
+  "urdu": "ڈینگی",
+  "roman_urdu": "dengue",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "dengue fever",
+   "mosquito",
+   "mosquito bite",
+   "fever",
+   "sick",
+   "illness"
+  ]
+ },
+ "heatstroke": {
+  "word": "heatstroke",
+  "id": "body-and-health.i-feel-sick.loo",
+  "urdu": "لو لگنا",
+  "roman_urdu": "loo lagna",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "too hot",
+   "heat",
+   "sunstroke",
+   "faint",
+   "sick"
+  ]
+ },
+ "iv-drip": {
+  "word": "IV drip",
+  "id": "body-and-health.medicine-and-care.drip",
+  "urdu": "ڈرپ",
+  "roman_urdu": "drip",
+  "skin": [],
+  "keywords": [
+   "intravenous",
+   "hospital",
+   "fluid",
+   "medicine",
+   "care"
+  ]
+ },
+ "polio-drops": {
+  "word": "polio drops",
+  "id": "body-and-health.medicine-and-care.polio-drops",
+  "urdu": "پولیو کے قطرے",
+  "roman_urdu": "polio ke qatray",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "polio",
+   "vaccine drops",
+   "immunisation",
+   "drops",
+   "medicine",
+   "health"
+  ]
+ },
+ "adhd": {
+  "word": "ADHD",
+  "id": "body-and-health.disability-and-support.adhd",
+  "urdu": "اے ڈی ایچ ڈی",
+  "roman_urdu": "adhd",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "attention",
+   "busy mind",
+   "can't sit still",
+   "energy",
+   "focus",
+   "support"
+  ]
+ },
+ "cerebral-palsy": {
+  "word": "cerebral palsy",
+  "id": "body-and-health.disability-and-support.cerebral-palsy",
+  "urdu": "سی پی",
+  "roman_urdu": "cp",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "wheelchair",
+   "disability",
+   "support",
+   "body"
+  ]
+ },
+ "lota": {
+  "word": "water jug for washing",
+  "id": "body-and-health.toilet-and-hygiene.lota",
+  "urdu": "لوٹا",
+  "roman_urdu": "lota",
+  "skin": [],
+  "keywords": [
+   "water jug",
+   "toilet jug",
+   "washing",
+   "bathroom",
+   "hygiene"
+  ]
+ },
+ "bidet-spray": {
+  "word": "bidet spray",
+  "id": "body-and-health.toilet-and-hygiene.muslim-shower",
+  "urdu": "مسلم شاور",
+  "roman_urdu": "muslim shower",
+  "skin": [],
+  "keywords": [
+   "shattaf",
+   "bidet",
+   "hand spray",
+   "toilet spray",
+   "bathroom",
+   "hygiene"
+  ]
+ },
+ "surma": {
+  "word": "kohl",
+  "id": "body-and-health.toilet-and-hygiene.surma",
+  "urdu": "سرمہ",
+  "roman_urdu": "surma",
+  "skin": [],
+  "keywords": [
+   "kajal",
+   "eyes",
+   "eye makeup"
+  ]
+ },
+ "hair-oil": {
+  "word": "hair oil",
+  "id": "body-and-health.toilet-and-hygiene.tel",
+  "urdu": "سر میں تیل",
+  "roman_urdu": "sar mein tail",
+  "skin": [],
+  "keywords": [
+   "tel",
+   "oiling",
+   "coconut oil",
+   "hair care",
+   "comb"
+  ]
+ },
+ "guest-room": {
+  "word": "guest room",
+  "id": "at-home.rooms.drawing-room",
+  "urdu": "ڈرائنگ روم",
+  "roman_urdu": "drawing room",
+  "skin": [],
+  "keywords": [
+   "lounge",
+   "sitting room",
+   "sofa",
+   "guests",
+   "room"
+  ]
+ },
+ "power-cut": {
+  "word": "power cut",
+  "id": "at-home.around-the-house.load-shedding",
+  "urdu": "لوڈ شیڈنگ",
+  "roman_urdu": "load shedding",
+  "skin": [],
+  "keywords": [
+   "blackout",
+   "no electricity",
+   "lights out",
+   "candle",
+   "home"
+  ]
+ },
+ "charpai": {
+  "word": "woven cot",
+  "id": "at-home.around-the-house.charpai",
+  "urdu": "چارپائی",
+  "roman_urdu": "charpai",
+  "skin": [],
+  "keywords": [
+   "woven bed",
+   "cot",
+   "rope bed",
+   "manji",
+   "furniture"
+  ]
+ },
+ "air-cooler": {
+  "word": "air cooler",
+  "id": "at-home.around-the-house.water-cooler",
+  "urdu": "کولر",
+  "roman_urdu": "cooler",
+  "skin": [],
+  "keywords": [
+   "water cooler",
+   "room cooler",
+   "evaporative cooler",
+   "cool air",
+   "summer",
+   "home"
+  ]
+ },
+ "tawa": {
+  "word": "griddle for roti",
+  "id": "at-home.kitchen.tawa",
+  "urdu": "توا",
+  "roman_urdu": "tawa",
+  "skin": [],
+  "keywords": [
+   "griddle",
+   "flat pan",
+   "roti pan",
+   "kitchen",
+   "cooking"
+  ]
+ },
+ "pateela": {
+  "word": "big pot",
+  "id": "at-home.kitchen.pateela",
+  "urdu": "پتیلا",
+  "roman_urdu": "pateela",
+  "skin": [],
+  "keywords": [
+   "cooking pot",
+   "saucepan",
+   "kitchen",
+   "cooking"
+  ]
+ },
+ "chakla-belan": {
+  "word": "board for rolling roti",
+  "id": "at-home.kitchen.chakla",
+  "urdu": "چکلا",
+  "roman_urdu": "chakla",
+  "skin": [],
+  "keywords": [
+   "belan",
+   "rolling pin",
+   "rolling board",
+   "roti",
+   "kitchen"
+  ]
+ },
+ "pressure-cooker": {
+  "word": "pressure cooker",
+  "id": "at-home.kitchen.pressure-cooker",
+  "urdu": "پریشر ککر",
+  "roman_urdu": "pressure cooker",
+  "skin": [],
+  "keywords": [
+   "cooker",
+   "whistle",
+   "steam",
+   "kitchen",
+   "cooking"
+  ]
+ },
+ "dishes-bartan": {
+  "word": "dishes",
+  "id": "at-home.kitchen.bartan",
+  "urdu": "برتن",
+  "roman_urdu": "bartan",
+  "skin": [],
+  "keywords": [
+   "plates",
+   "bowls",
+   "crockery",
+   "kitchen"
+  ]
+ },
+ "roti-keeper": {
+  "word": "roti keeper",
+  "id": "at-home.kitchen.hot-pot",
+  "urdu": "ہاٹ پاٹ",
+  "roman_urdu": "hot pot",
+  "skin": [],
+  "keywords": [
+   "casserole",
+   "roti box",
+   "keep warm",
+   "kitchen"
+  ]
+ },
+ "gas-stove": {
+  "word": "gas",
+  "id": "at-home.kitchen.gas",
+  "urdu": "گیس",
+  "roman_urdu": "gas",
+  "skin": [],
+  "keywords": [
+   "stove",
+   "burner",
+   "flame",
+   "cooker",
+   "kitchen"
+  ]
+ },
+ "water-heater": {
+  "word": "water heater",
+  "id": "at-home.bathroom.geyser",
+  "urdu": "گیزر",
+  "roman_urdu": "geyser",
+  "skin": [],
+  "keywords": [
+   "hot water",
+   "boiler",
+   "bathroom"
+  ]
+ },
+ "floor-squeegee": {
+  "word": "floor squeegee",
+  "id": "at-home.laundry.wiper",
+  "urdu": "وائپر",
+  "roman_urdu": "wiper",
+  "skin": [],
+  "keywords": [
+   "squeegee",
+   "floor wiper",
+   "cleaning",
+   "wet floor",
+   "chores"
+  ]
+ },
+ "home-tandoor": {
+  "word": "home oven",
+  "id": "at-home.backyard.tandoor-home",
+  "urdu": "تندور",
+  "roman_urdu": "tandoor",
+  "skin": [],
+  "keywords": [
+   "clay oven",
+   "oven",
+   "naan",
+   "roti",
+   "courtyard"
+  ]
+ },
+ "bedtime-prayer": {
+  "word": "bedtime prayer",
+  "id": "at-home.bedtime.ayat-ul-kursi",
+  "urdu": "آیت الکرسی",
+  "roman_urdu": "ayat ul kursi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "dua",
+   "night",
+   "prayer",
+   "bedtime"
+  ]
+ },
+ "mop-pocha": {
+  "word": "mop the floor",
+  "id": "at-home.jobs.pocha",
+  "urdu": "پوچا لگانا",
+  "roman_urdu": "pocha lagana",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "pocha",
+   "mop",
+   "wipe the floor",
+   "cleaning",
+   "chores",
+   "housework"
+  ]
+ },
+ "doll-pair": {
+  "word": "doll pair",
+  "id": "toys-and-play.toys.guddi-guddo",
+  "urdu": "گڈا گڑیا",
+  "roman_urdu": "gudda guriya",
+  "skin": [],
+  "keywords": [
+   "dolls",
+   "guddi guddo",
+   "toy dolls",
+   "pair",
+   "toys",
+   "play"
+  ]
+ },
+ "gulli-danda": {
+  "word": "gulli danda",
+  "id": "toys-and-play.toys.gilli-danda",
+  "urdu": "گلی ڈنڈا",
+  "roman_urdu": "gulli danda",
+  "skin": [],
+  "keywords": [
+   "gilli danda",
+   "stick game",
+   "outdoor game",
+   "game",
+   "play"
+  ]
+ },
+ "pithu-garam": {
+  "word": "pithu garam",
+  "id": "toys-and-play.toys.pithu-garam",
+  "urdu": "پٹھو گرم",
+  "roman_urdu": "pithu garam",
+  "skin": [],
+  "keywords": [
+   "seven stones",
+   "lagori",
+   "ball game",
+   "outdoor game",
+   "game"
+  ]
+ },
+ "ludo": {
+  "word": "ludo",
+  "id": "toys-and-play.games.ludo",
+  "urdu": "لڈو",
+  "roman_urdu": "ludo",
+  "skin": [],
+  "keywords": [
+   "board game",
+   "dice",
+   "counters",
+   "game",
+   "play"
+  ]
+ },
+ "carrom-board": {
+  "word": "carrom board",
+  "id": "toys-and-play.games.carrom",
+  "urdu": "کیرم",
+  "roman_urdu": "carrom",
+  "skin": [],
+  "keywords": [
+   "board game",
+   "coins",
+   "striker",
+   "game",
+   "play"
+  ]
+ },
+ "kokla-chhapaki": {
+  "word": "kokla chhapaki",
+  "id": "toys-and-play.games.kokla",
+  "urdu": "کوکلا چھپاکی",
+  "roman_urdu": "kokla chhapaki",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "circle game",
+   "hide the cloth",
+   "outdoor game",
+   "game",
+   "play"
+  ]
+ },
+ "freeze-tag": {
+  "word": "freeze tag",
+  "id": "toys-and-play.games.baraf-pani",
+  "urdu": "برف پانی",
+  "roman_urdu": "baraf pani",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "freeze",
+   "tag",
+   "chasing game",
+   "game",
+   "play"
+  ]
+ },
+ "oonch-neech": {
+  "word": "oonch neech",
+  "id": "toys-and-play.games.oonch-neech",
+  "urdu": "اونچ نیچ",
+  "roman_urdu": "oonch neech",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "high and low",
+   "chasing game",
+   "outdoor game",
+   "game",
+   "play"
+  ]
+ },
+ "cops-and-robbers": {
+  "word": "cops and robbers",
+  "id": "toys-and-play.games.chor-sipahi",
+  "urdu": "چور سپاہی",
+  "roman_urdu": "chor sipahi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "chits",
+   "paper game",
+   "guessing game",
+   "game",
+   "play"
+  ]
+ },
+ "mobile-shooting-game": {
+  "word": "PUBG",
+  "id": "toys-and-play.games.pubg",
+  "urdu": "پب جی",
+  "roman_urdu": "pubg",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "mobile game",
+   "phone game",
+   "video game",
+   "gaming",
+   "play"
+  ]
+ },
+ "mobile-battle-game": {
+  "word": "Free Fire",
+  "id": "toys-and-play.games.free-fire",
+  "urdu": "فری فائر",
+  "roman_urdu": "free fire",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "mobile game",
+   "phone game",
+   "video game",
+   "gaming",
+   "play"
+  ]
+ },
+ "qawwali": {
+  "word": "qawwali",
+  "id": "toys-and-play.music.qawwali",
+  "urdu": "قوالی",
+  "roman_urdu": "qawwali",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "qawwals",
+   "sufi music",
+   "singing",
+   "music"
+  ]
+ },
+ "harmonium": {
+  "word": "harmonium",
+  "id": "toys-and-play.music.harmonium",
+  "urdu": "ہارمونیم",
+  "roman_urdu": "harmonium",
+  "skin": [],
+  "keywords": [
+   "keyboard",
+   "instrument",
+   "music",
+   "bellows"
+  ]
+ },
+ "national-anthem": {
+  "word": "national anthem",
+  "id": "toys-and-play.music.qaumi-tarana",
+  "urdu": "قومی ترانہ",
+  "roman_urdu": "qaumi tarana",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "anthem",
+   "pakistan flag",
+   "flag",
+   "proud",
+   "music"
+  ]
+ },
+ "lakdi-ki-kathi": {
+  "word": "classic Urdu song",
+  "id": "toys-and-play.music.lakdi-ki-kathi",
+  "urdu": "لکڑی کی کاٹھی",
+  "roman_urdu": "lakri ki kathi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "hobby horse",
+   "song",
+   "rhyme",
+   "music"
+  ]
+ },
+ "machli-jal-ki-rani": {
+  "word": "classic Urdu rhyme",
+  "id": "toys-and-play.music.machli-jal-ki-rani",
+  "urdu": "مچھلی جل کی رانی",
+  "roman_urdu": "machli jal ki rani",
+  "skin": [],
+  "keywords": [
+   "fish song",
+   "rhyme",
+   "nursery rhyme",
+   "music"
+  ]
+ },
+ "squash": {
+  "word": "squash",
+  "id": "sports-and-activities.sports.squash",
+  "urdu": "اسکواش",
+  "roman_urdu": "squash",
+  "skin": [],
+  "keywords": [
+   "racket",
+   "racquet sport",
+   "ball",
+   "sport"
   ]
  }
 }
