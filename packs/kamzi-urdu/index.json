@@ -4157,7 +4157,9 @@
   "id": "actions.everyday.aata-goondhna",
   "urdu": "آٹا گوندھنا",
   "roman_urdu": "aata goondhna",
-  "skin": [],
+  "skin": [
+   "#EAD2AE"
+  ],
   "keywords": [
    "dough",
    "flour",
@@ -4192,7 +4194,9 @@
   "id": "sub:describing.speed-and-time",
   "urdu": "رفتار اور وقت",
   "roman_urdu": "raftar aur waqt",
-  "skin": [],
+  "skin": [
+   "#EAD2AE"
+  ],
   "keywords": [
    "fast",
    "hurry",
@@ -4596,6 +4600,889 @@
    "freedom",
    "national day",
    "holiday"
+  ]
+ },
+ "ji": {
+  "word": "respectful yes / sir, ma'am",
+  "id": "core.ji",
+  "urdu": "جی",
+  "roman_urdu": "ji",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "yes",
+   "polite yes",
+   "respect",
+   "agree",
+   "okay",
+   "hand on heart",
+   "manners",
+   "sir",
+   "madam"
+  ],
+  "also_ids": [
+   "social.manners.ji"
+  ]
+ },
+ "im-in-pain": {
+  "word": "I’m in pain",
+  "id": "core.im-in-pain",
+  "urdu": "مجھے درد ہو رہا ہے",
+  "roman_urdu": "mujhe dard ho raha hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "pain",
+   "hurt",
+   "ache",
+   "tummy ache",
+   "sore",
+   "unwell",
+   "sick",
+   "ouch",
+   "help"
+  ]
+ },
+ "dhobi": {
+  "word": "washerman",
+  "id": "people.helpers.dhobi",
+  "urdu": "دھوبی",
+  "roman_urdu": "dhobi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "laundry",
+   "washing clothes",
+   "ironing",
+   "clothes",
+   "job",
+   "worker",
+   "person"
+  ]
+ },
+ "sabzi-wala": {
+  "word": "vegetable seller",
+  "id": "people.helpers.sabzi-wala",
+  "urdu": "سبزی والا",
+  "roman_urdu": "sabzi wala",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "vegetables",
+   "cart",
+   "street seller",
+   "shopping",
+   "job",
+   "worker",
+   "person"
+  ]
+ },
+ "doodh-wala": {
+  "word": "milkman",
+  "id": "people.helpers.doodh-wala",
+  "urdu": "دودھ والا",
+  "roman_urdu": "doodh wala",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "milk",
+   "milk cans",
+   "bicycle",
+   "delivery",
+   "job",
+   "worker",
+   "person"
+  ]
+ },
+ "mochi": {
+  "word": "shoe mender",
+  "id": "jobs-and-work.jobs.mochi",
+  "urdu": "موچی",
+  "roman_urdu": "mochi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "cobbler",
+   "shoe repair",
+   "shoes",
+   "hammer",
+   "job",
+   "worker",
+   "person"
+  ]
+ },
+ "halwai": {
+  "word": "sweet maker",
+  "id": "jobs-and-work.jobs.halwai",
+  "urdu": "حلوائی",
+  "roman_urdu": "halwai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "sweet shop",
+   "mithai",
+   "cooking",
+   "sweets",
+   "job",
+   "worker",
+   "person"
+  ]
+ },
+ "qawwal": {
+  "word": "qawwali singer",
+  "id": "jobs-and-work.jobs.qawwal",
+  "urdu": "قوال",
+  "roman_urdu": "qawwal",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "qawwali",
+   "singer",
+   "singing",
+   "music",
+   "harmonium",
+   "sufi music",
+   "job",
+   "person"
+  ]
+ },
+ "naat-khwan": {
+  "word": "naat reciter",
+  "id": "jobs-and-work.jobs.naat-khwan",
+  "urdu": "نعت خواں",
+  "roman_urdu": "naat khwan",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "naat",
+   "reciter",
+   "reciting",
+   "praise",
+   "religious poetry",
+   "voice",
+   "person",
+   "religion"
+  ]
+ },
+ "rickshaw-wala": {
+  "word": "rickshaw driver",
+  "id": "jobs-and-work.jobs.rickshaw-wala",
+  "urdu": "رکشے والا",
+  "roman_urdu": "rickshaw wala",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "driver",
+   "auto rickshaw",
+   "ride",
+   "transport",
+   "job",
+   "worker",
+   "person"
+  ]
+ },
+ "ups": {
+  "word": "UPS",
+  "id": "jobs-and-work.tools.ups",
+  "urdu": "یو پی ایس",
+  "roman_urdu": "ups",
+  "skin": [],
+  "keywords": [
+   "power backup",
+   "battery",
+   "inverter",
+   "electricity",
+   "power cut",
+   "light",
+   "machine"
+  ],
+  "also_ids": [
+   "at-home.around-the-house.ups"
+  ]
+ },
+ "mashallah": {
+  "word": "how wonderful",
+  "id": "feelings.happy-feelings.mashallah",
+  "urdu": "ماشاءاللہ",
+  "roman_urdu": "mashallah",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "praise",
+   "amazing",
+   "well done",
+   "beautiful",
+   "admire",
+   "wow"
+  ]
+ },
+ "23-march": {
+  "word": "Pakistan Day",
+  "id": "events-and-occasions.holidays.23-march",
+  "urdu": "یوم پاکستان",
+  "roman_urdu": "23 march",
+  "skin": [],
+  "keywords": [
+   "minar",
+   "monument",
+   "flag",
+   "national day",
+   "holiday",
+   "celebration"
+  ]
+ },
+ "iqbal-day": {
+  "word": "Iqbal Day",
+  "id": "events-and-occasions.holidays.iqbal-day",
+  "urdu": "یوم اقبال",
+  "roman_urdu": "iqbal day",
+  "skin": [],
+  "keywords": [
+   "9 november",
+   "poet",
+   "poetry",
+   "book",
+   "national day",
+   "holiday"
+  ]
+ },
+ "quaid-day": {
+  "word": "Quaid Day",
+  "id": "events-and-occasions.holidays.quaid-day",
+  "urdu": "یوم قائد",
+  "roman_urdu": "quaid day",
+  "skin": [],
+  "keywords": [
+   "25 december",
+   "founder",
+   "jinnah cap",
+   "national day",
+   "holiday",
+   "birthday"
+  ]
+ },
+ "kashmir-day": {
+  "word": "Kashmir Day",
+  "id": "events-and-occasions.holidays.kashmir-day",
+  "urdu": "یوم کشمیر",
+  "roman_urdu": "kashmir day",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "5 february",
+   "solidarity",
+   "mountains",
+   "lake",
+   "holiday",
+   "together"
+  ]
+ },
+ "labour-day": {
+  "word": "Labour Day",
+  "id": "events-and-occasions.holidays.labour-day",
+  "urdu": "یوم مزدور",
+  "roman_urdu": "labour day",
+  "skin": [],
+  "keywords": [
+   "1 may",
+   "workers",
+   "hard hat",
+   "tools",
+   "holiday",
+   "work"
+  ]
+ },
+ "defence-day": {
+  "word": "Defence Day",
+  "id": "events-and-occasions.holidays.defence-day",
+  "urdu": "یوم دفاع",
+  "roman_urdu": "defence day",
+  "skin": [],
+  "keywords": [
+   "6 september",
+   "army",
+   "medal",
+   "soldier cap",
+   "flag",
+   "national day",
+   "holiday"
+  ]
+ },
+ "basant": {
+  "word": "kite festival",
+  "id": "events-and-occasions.holidays.basant",
+  "urdu": "بسنت",
+  "roman_urdu": "basant",
+  "skin": [],
+  "keywords": [
+   "kites",
+   "flying kites",
+   "spring",
+   "rooftop",
+   "festival",
+   "string"
+  ]
+ },
+ "shab-e-barat": {
+  "word": "Shab-e-Barat",
+  "id": "events-and-occasions.faith-and-festivals.shab-e-barat",
+  "urdu": "شب برات",
+  "roman_urdu": "shab e baraat",
+  "skin": [],
+  "keywords": [
+   "night of forgiveness",
+   "lamps",
+   "night prayer",
+   "moon",
+   "religious night",
+   "festival"
+  ]
+ },
+ "milad": {
+  "word": "Mawlid",
+  "id": "events-and-occasions.faith-and-festivals.milad",
+  "urdu": "عید میلاد النبی",
+  "roman_urdu": "eid milad un nabi",
+  "skin": [],
+  "keywords": [
+   "prophet's birthday",
+   "celebration",
+   "lights",
+   "mosque",
+   "festival",
+   "religion"
+  ]
+ },
+ "ashura": {
+  "word": "Ashura",
+  "id": "events-and-occasions.faith-and-festivals.ashura",
+  "urdu": "عاشورہ",
+  "roman_urdu": "ashura",
+  "skin": [],
+  "keywords": [
+   "muharram",
+   "mourning",
+   "alam",
+   "water",
+   "remembrance",
+   "religion"
+  ]
+ },
+ "qurbani": {
+  "word": "sacrifice",
+  "id": "events-and-occasions.faith-and-festivals.qurbani",
+  "urdu": "قربانی",
+  "roman_urdu": "qurbani",
+  "skin": [],
+  "keywords": [
+   "eid ul adha",
+   "goat",
+   "cow",
+   "animal",
+   "eid",
+   "religion"
+  ]
+ },
+ "chand-raat": {
+  "word": "night before Eid",
+  "id": "events-and-occasions.faith-and-festivals.chand-raat",
+  "urdu": "چاند رات",
+  "roman_urdu": "chand raat",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "bangles",
+   "henna",
+   "new moon",
+   "eid",
+   "shopping",
+   "celebration"
+  ]
+ },
+ "taraweeh": {
+  "word": "Ramzan night prayer",
+  "id": "events-and-occasions.faith-and-festivals.taraweeh",
+  "urdu": "تراویح",
+  "roman_urdu": "taraweeh",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "ramzan prayer",
+   "night prayer",
+   "praying together",
+   "ramadan",
+   "mosque",
+   "salah",
+   "religion"
+  ]
+ },
+ "azaan": {
+  "word": "call to prayer",
+  "id": "events-and-occasions.faith-and-festivals.azaan",
+  "urdu": "اذان",
+  "roman_urdu": "azaan",
+  "skin": [],
+  "keywords": [
+   "minaret",
+   "loudspeaker",
+   "mosque",
+   "prayer time",
+   "religion",
+   "sound"
+  ]
+ },
+ "tasbeeh": {
+  "word": "prayer beads",
+  "id": "events-and-occasions.faith-and-festivals.tasbeeh",
+  "urdu": "تسبیح",
+  "roman_urdu": "tasbeeh",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "counting beads",
+   "remembrance",
+   "zikr",
+   "praying",
+   "religion"
+  ]
+ },
+ "cricket-match": {
+  "word": "cricket match",
+  "id": "events-and-occasions.outings-and-events.cricket-match",
+  "urdu": "کرکٹ میچ",
+  "roman_urdu": "cricket match",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "game",
+   "batter",
+   "bat",
+   "ball",
+   "stadium",
+   "sport",
+   "watch"
+  ]
+ },
+ "result-day": {
+  "word": "exam results day",
+  "id": "events-and-occasions.outings-and-events.result-day",
+  "urdu": "رزلٹ کا دن",
+  "roman_urdu": "result day",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "exam results",
+   "report card",
+   "pass",
+   "gold star",
+   "proud",
+   "school",
+   "trophy"
+  ]
+ },
+ "whose": {
+  "word": "whose",
+  "id": "questions.questions.whose",
+  "urdu": "کس کا؟",
+  "roman_urdu": "kis ka",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "owner",
+   "belongs to",
+   "question",
+   "ask",
+   "which person",
+   "mine or yours"
+  ],
+  "also_ids": [
+   "social.questions-to-ask.whose",
+   "little-words.pointing-words.whose"
+  ]
+ },
+ "what-happened": {
+  "word": "what happened",
+  "id": "questions.questions.what-happened",
+  "urdu": "کیا ہوا؟",
+  "roman_urdu": "kya hua",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "surprised",
+   "accident",
+   "spilled",
+   "question",
+   "ask",
+   "worried"
+  ],
+  "also_ids": [
+   "social.questions-to-ask.what-happened"
+  ]
+ },
+ "kitne-ka": {
+  "word": "how much is it?",
+  "id": "questions.questions.kitne-ka",
+  "urdu": "یہ کتنے کا ہے؟",
+  "roman_urdu": "yeh kitne ka hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "how much",
+   "price",
+   "cost",
+   "buying",
+   "shop",
+   "money",
+   "question",
+   "ask"
+  ]
+ },
+ "kidhar": {
+  "word": "which way?",
+  "id": "questions.questions.kidhar",
+  "urdu": "کدھر؟",
+  "roman_urdu": "kidhar",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "which way",
+   "where",
+   "directions",
+   "lost",
+   "signpost",
+   "question",
+   "ask"
+  ]
+ },
+ "joining-words": {
+  "word": "Joining words",
+  "id": "sub:little-words.joining-words",
+  "urdu": "جوڑنے والے لفظ",
+  "roman_urdu": "jorne walay lafz",
+  "skin": [],
+  "keywords": [
+   "and",
+   "or",
+   "but",
+   "linking words",
+   "connect",
+   "grammar",
+   "puzzle"
+  ]
+ },
+ "helping-verbs": {
+  "word": "Helping verbs",
+  "id": "sub:little-words.helping-verbs",
+  "urdu": "مددگار فعل",
+  "roman_urdu": "madadgar fail",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "is",
+   "was",
+   "will",
+   "grammar",
+   "verbs",
+   "help",
+   "words"
+  ]
+ },
+ "astaghfirullah": {
+  "word": "God forgive",
+  "id": "social.manners.astaghfirullah",
+  "urdu": "استغفراللہ",
+  "roman_urdu": "astaghfirullah",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "forgive me",
+   "sorry",
+   "regret",
+   "prayer",
+   "humble",
+   "religion"
+  ]
+ },
+ "uff": {
+  "word": "ugh",
+  "id": "social.chatting.uff",
+  "urdu": "اف",
+  "roman_urdu": "uff",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "fed up",
+   "annoyed",
+   "bored",
+   "tired",
+   "sigh",
+   "upset"
+  ]
+ },
+ "haaye": {
+  "word": "oh my God",
+  "id": "social.chatting.haaye",
+  "urdu": "ہائے اللہ",
+  "roman_urdu": "haaye allah",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "shocked",
+   "surprised",
+   "oh no",
+   "wow",
+   "scared",
+   "upset"
+  ]
+ },
+ "chalo": {
+  "word": "alright then",
+  "id": "social.chatting.chalo",
+  "urdu": "چلو ٹھیک ہے",
+  "roman_urdu": "chalo theek hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "let's go",
+   "come on",
+   "okay",
+   "move on",
+   "go"
+  ]
+ },
+ "exams": {
+  "word": "exams",
+  "id": "school.school-day.exams",
+  "urdu": "امتحان",
+  "roman_urdu": "imtehan",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "test",
+   "writing",
+   "paper",
+   "school",
+   "study",
+   "quiet",
+   "clock"
+  ]
+ },
+ "leave-application": {
+  "word": "leave note",
+  "id": "school.school-day.leave-application",
+  "urdu": "چھٹی کی درخواست",
+  "roman_urdu": "chhutti ki darkhwast",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "absence",
+   "letter",
+   "sick note",
+   "school",
+   "permission",
+   "day off"
+  ]
+ },
+ "morning-prayer": {
+  "word": "morning assembly prayer",
+  "id": "school.school-day.morning-prayer",
+  "urdu": "دعا",
+  "roman_urdu": "dua",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "morning assembly",
+   "school assembly",
+   "prayer",
+   "national anthem",
+   "line up",
+   "school",
+   "flag"
+  ]
+ },
+ "takhti": {
+  "word": "writing board",
+  "id": "school.school-day.takhti",
+  "urdu": "تختی",
+  "roman_urdu": "takhti",
+  "skin": [],
+  "keywords": [
+   "wooden board",
+   "practice writing",
+   "reed pen",
+   "ink",
+   "school",
+   "handwriting"
+  ]
+ },
+ "pak-studies": {
+  "word": "Pakistan studies",
+  "id": "school.subjects.pak-studies",
+  "urdu": "مطالعہ پاکستان",
+  "roman_urdu": "pak studies",
+  "skin": [],
+  "keywords": [
+   "subject",
+   "textbook",
+   "map",
+   "history",
+   "school",
+   "lesson"
+  ]
+ },
+ "general-knowledge": {
+  "word": "general knowledge",
+  "id": "school.subjects.general-knowledge",
+  "urdu": "جنرل نالج",
+  "roman_urdu": "gk",
+  "skin": [],
+  "keywords": [
+   "facts",
+   "quiz",
+   "globe",
+   "ideas",
+   "book",
+   "school",
+   "subject"
+  ]
+ },
+ "qaida": {
+  "word": "first reading book",
+  "id": "school.school-things.qaida",
+  "urdu": "قاعدہ",
+  "roman_urdu": "qaida",
+  "skin": [],
+  "keywords": [
+   "primer",
+   "alphabet",
+   "reading",
+   "learn to read",
+   "school",
+   "book"
+  ]
+ },
+ "word": {
+  "word": "word",
+  "id": "school.reading-and-writing.word",
+  "urdu": "لفظ",
+  "roman_urdu": "lafz",
+  "skin": [],
+  "keywords": [
+   "one word",
+   "speech",
+   "say",
+   "talk",
+   "language",
+   "reading"
+  ]
+ },
+ "words": {
+  "word": "words",
+  "id": "school.reading-and-writing.words",
+  "urdu": "الفاظ",
+  "roman_urdu": "alfaaz",
+  "skin": [],
+  "keywords": [
+   "many words",
+   "sentence",
+   "speech",
+   "say",
+   "talk",
+   "language"
+  ]
+ },
+ "khush-khat": {
+  "word": "neat handwriting",
+  "id": "school.reading-and-writing.khush-khat",
+  "urdu": "خوش خط",
+  "roman_urdu": "khush khat",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "calligraphy",
+   "writing",
+   "reed pen",
+   "ink",
+   "beautiful writing",
+   "school"
+  ]
+ },
+ "call-1122": {
+  "word": "call 1122",
+  "id": "emergency.emergency.call-1122",
+  "urdu": "1122 پر فون کریں",
+  "roman_urdu": "1122",
+  "skin": [],
+  "keywords": [
+   "rescue",
+   "emergency",
+   "ambulance",
+   "phone call",
+   "help",
+   "accident",
+   "call for help"
+  ]
+ },
+ "call-15": {
+  "word": "call 15",
+  "id": "emergency.emergency.call-15",
+  "urdu": "15 پر فون کریں",
+  "roman_urdu": "15",
+  "skin": [],
+  "keywords": [
+   "police",
+   "emergency",
+   "police car",
+   "phone call",
+   "help",
+   "danger",
+   "call for help"
+  ]
+ },
+ "call-115": {
+  "word": "call Edhi 115",
+  "id": "emergency.emergency.call-115",
+  "urdu": "ایدھی کو 115 پر فون کریں",
+  "roman_urdu": "edhi ko 115 par phone karein",
+  "skin": [],
+  "keywords": [
+   "ambulance",
+   "emergency",
+   "phone call",
+   "help",
+   "hospital",
+   "sick",
+   "call for help"
   ]
  }
 }
