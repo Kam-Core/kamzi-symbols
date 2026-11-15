@@ -3016,5 +3016,77 @@
    "gold",
    "jewellery"
   ]
+ },
+ "jamun": {
+  "word": "jamun",
+  "id": "food-and-drink.fruit.jamun",
+  "urdu": "جامن",
+  "roman_urdu": "jamun",
+  "skin": [],
+  "keywords": [
+   "java plum",
+   "black plum",
+   "purple fruit",
+   "summer fruit",
+   "berry",
+   "fruit",
+   "food"
+  ]
+ },
+ "amla": {
+  "word": "Indian gooseberry",
+  "id": "food-and-drink.fruit.amla",
+  "urdu": "آملہ",
+  "roman_urdu": "amla",
+  "skin": [],
+  "keywords": [
+   "gooseberry",
+   "green fruit",
+   "sour fruit",
+   "fruit",
+   "food"
+  ]
+ },
+ "round-gourd-tinda": {
+  "word": "round gourd",
+  "id": "food-and-drink.vegetables.tinda",
+  "urdu": "ٹینڈا",
+  "roman_urdu": "tinda",
+  "skin": [],
+  "keywords": [
+   "apple gourd",
+   "gourd",
+   "green vegetable",
+   "vegetable",
+   "food"
+  ]
+ },
+ "kachnar-buds": {
+  "word": "kachnar buds",
+  "id": "food-and-drink.vegetables.kachnar",
+  "urdu": "کچنار",
+  "roman_urdu": "kachnar",
+  "skin": [],
+  "keywords": [
+   "flower buds",
+   "orchid tree",
+   "buds",
+   "vegetable",
+   "food"
+  ]
+ },
+ "cardamom": {
+  "word": "cardamom",
+  "id": "food-and-drink.pantry-and-cooking.ilaichi",
+  "urdu": "الائچی",
+  "roman_urdu": "ilaichi",
+  "skin": [],
+  "keywords": [
+   "elaichi",
+   "green pods",
+   "spice",
+   "cooking",
+   "food"
+  ]
  }
 }
