@@ -3088,5 +3088,1514 @@
    "cooking",
    "food"
   ]
+ },
+ "anklet-payal": {
+  "word": "anklet",
+  "id": "clothes.hats-and-extras.payal",
+  "urdu": "پائل",
+  "roman_urdu": "payal",
+  "skin": [],
+  "keywords": [
+   "ankle bracelet",
+   "bells",
+   "jewellery"
+  ]
+ },
+ "matha-patti": {
+  "word": "forehead jewellery",
+  "id": "clothes.hats-and-extras.matha-patti",
+  "urdu": "ماتھا پٹی",
+  "roman_urdu": "matha patti",
+  "skin": [],
+  "keywords": [
+   "tikka",
+   "bridal",
+   "jewellery"
+  ]
+ },
+ "nose-ring-nath": {
+  "word": "nose ring",
+  "id": "clothes.hats-and-extras.nath",
+  "urdu": "نتھ",
+  "roman_urdu": "nath",
+  "skin": [],
+  "keywords": [
+   "bridal",
+   "jewellery"
+  ]
+ },
+ "drawstring-naray": {
+  "word": "drawstring",
+  "id": "clothes.getting-dressed.naray",
+  "urdu": "ازاربند",
+  "roman_urdu": "azarband",
+  "skin": [],
+  "keywords": [
+   "nala",
+   "naala",
+   "waist cord",
+   "tie",
+   "clothes"
+  ]
+ },
+ "lovebirds": {
+  "word": "lovebirds",
+  "id": "animals.pets.lovebirds",
+  "urdu": "لو برڈز",
+  "roman_urdu": "love birds",
+  "skin": [],
+  "keywords": [
+   "lovebird",
+   "parrots",
+   "pet birds",
+   "birds",
+   "pet",
+   "animal"
+  ]
+ },
+ "mule": {
+  "word": "mule",
+  "id": "animals.farm.khachar",
+  "urdu": "خچر",
+  "roman_urdu": "khachar",
+  "skin": [],
+  "keywords": [
+   "pack animal",
+   "farm animal",
+   "animal"
+  ]
+ },
+ "markhor": {
+  "word": "markhor",
+  "id": "animals.zoo-and-wild.markhor",
+  "urdu": "مارخور",
+  "roman_urdu": "markhor",
+  "skin": [],
+  "keywords": [
+   "wild goat",
+   "national animal",
+   "horns",
+   "mountains",
+   "animal"
+  ]
+ },
+ "snow-leopard": {
+  "word": "snow leopard",
+  "id": "animals.zoo-and-wild.snow-leopard",
+  "urdu": "برفانی چیتا",
+  "roman_urdu": "barfani cheeta",
+  "skin": [],
+  "keywords": [
+   "big cat",
+   "mountains",
+   "wild animal",
+   "animal"
+  ]
+ },
+ "mongoose": {
+  "word": "mongoose",
+  "id": "animals.zoo-and-wild.mongoose",
+  "urdu": "نیولا",
+  "roman_urdu": "neola",
+  "skin": [],
+  "keywords": [
+   "nevla",
+   "wild animal",
+   "animal"
+  ]
+ },
+ "myna": {
+  "word": "myna",
+  "id": "animals.birds.myna",
+  "urdu": "مینا",
+  "roman_urdu": "maina",
+  "skin": [],
+  "keywords": [
+   "mynah",
+   "bird",
+   "garden bird",
+   "animal"
+  ]
+ },
+ "koel": {
+  "word": "koel",
+  "id": "animals.birds.koel",
+  "urdu": "کوئل",
+  "roman_urdu": "koyal",
+  "skin": [],
+  "keywords": [
+   "cuckoo",
+   "singing bird",
+   "bird",
+   "animal"
+  ]
+ },
+ "chukar": {
+  "word": "chukar",
+  "id": "animals.birds.chakor",
+  "urdu": "چکور",
+  "roman_urdu": "chakor",
+  "skin": [],
+  "keywords": [
+   "partridge",
+   "national bird",
+   "bird",
+   "animal"
+  ]
+ },
+ "bulbul": {
+  "word": "bulbul",
+  "id": "animals.birds.bulbul",
+  "urdu": "بلبل",
+  "roman_urdu": "bulbul",
+  "skin": [],
+  "keywords": [
+   "songbird",
+   "garden bird",
+   "bird",
+   "animal"
+  ]
+ },
+ "kite-bird-cheel": {
+  "word": "kite",
+  "id": "animals.birds.cheel",
+  "urdu": "چیل",
+  "roman_urdu": "cheel",
+  "skin": [],
+  "keywords": [
+   "bird of prey",
+   "hawk",
+   "bird",
+   "animal"
+  ]
+ },
+ "motia-flower": {
+  "word": "motia flower",
+  "id": "nature-and-world.plants.motia",
+  "urdu": "موتیا",
+  "roman_urdu": "motia",
+  "skin": [],
+  "keywords": [
+   "jasmine",
+   "white flower",
+   "flower",
+   "plant"
+  ]
+ },
+ "earth-and-elements": {
+  "word": "Earth & elements",
+  "id": "sub:nature-and-world.earth-and-elements",
+  "urdu": "زمین",
+  "roman_urdu": "zameen",
+  "skin": [],
+  "keywords": [
+   "earth",
+   "elements",
+   "water",
+   "fire",
+   "air",
+   "nature"
+  ]
+ },
+ "countries-and-places": {
+  "word": "Countries & places",
+  "id": "sub:nature-and-world.countries-and-places",
+  "urdu": "ملک اور شہر",
+  "roman_urdu": "mulk aur shehar",
+  "skin": [],
+  "keywords": [
+   "countries",
+   "places",
+   "world",
+   "map",
+   "travel"
+  ]
+ },
+ "dubai": {
+  "word": "Dubai",
+  "id": "nature-and-world.countries-and-places.dubai",
+  "urdu": "دبئی",
+  "roman_urdu": "dubai",
+  "skin": [],
+  "keywords": [
+   "uae",
+   "city",
+   "skyscraper",
+   "travel",
+   "place"
+  ]
+ },
+ "madinah": {
+  "word": "Madinah",
+  "id": "nature-and-world.countries-and-places.madinah",
+  "urdu": "مدینہ",
+  "roman_urdu": "madina",
+  "skin": [],
+  "keywords": [
+   "medina",
+   "saudi arabia",
+   "holy city",
+   "place"
+  ]
+ },
+ "hunza": {
+  "word": "Hunza",
+  "id": "nature-and-world.countries-and-places.hunza",
+  "urdu": "ہنزہ",
+  "roman_urdu": "hunza",
+  "skin": [],
+  "keywords": [
+   "valley",
+   "mountains",
+   "gilgit-baltistan",
+   "place"
+  ]
+ },
+ "swat": {
+  "word": "Swat",
+  "id": "nature-and-world.countries-and-places.swat",
+  "urdu": "سوات",
+  "roman_urdu": "swat",
+  "skin": [],
+  "keywords": [
+   "valley",
+   "river",
+   "mountains",
+   "place"
+  ]
+ },
+ "punjab": {
+  "word": "Punjab",
+  "id": "nature-and-world.countries-and-places.punjab",
+  "urdu": "پنجاب",
+  "roman_urdu": "punjab",
+  "skin": [],
+  "keywords": [
+   "province",
+   "farmland",
+   "rivers",
+   "place"
+  ]
+ },
+ "sindh": {
+  "word": "Sindh",
+  "id": "nature-and-world.countries-and-places.sindh",
+  "urdu": "سندھ",
+  "roman_urdu": "sindh",
+  "skin": [],
+  "keywords": [
+   "province",
+   "ajrak",
+   "place"
+  ]
+ },
+ "khyber-pakhtunkhwa": {
+  "word": "Khyber Pakhtunkhwa",
+  "id": "nature-and-world.countries-and-places.kpk",
+  "urdu": "خیبر پختونخوا",
+  "roman_urdu": "kpk",
+  "skin": [],
+  "keywords": [
+   "kp",
+   "province",
+   "mountains",
+   "place"
+  ]
+ },
+ "balochistan": {
+  "word": "Balochistan",
+  "id": "nature-and-world.countries-and-places.balochistan",
+  "urdu": "بلوچستان",
+  "roman_urdu": "balochistan",
+  "skin": [],
+  "keywords": [
+   "province",
+   "desert",
+   "place"
+  ]
+ },
+ "kashmir": {
+  "word": "Kashmir",
+  "id": "nature-and-world.countries-and-places.kashmir",
+  "urdu": "کشمیر",
+  "roman_urdu": "kashmir",
+  "skin": [],
+  "keywords": [
+   "valley",
+   "lake",
+   "houseboat",
+   "place"
+  ]
+ },
+ "cities-of-pakistan": {
+  "word": "Cities of Pakistan",
+  "id": "sub:nature-and-world.cities-of-pakistan",
+  "urdu": "پاکستان کے شہر",
+  "roman_urdu": "pakistan ke shehar",
+  "skin": [],
+  "keywords": [
+   "cities",
+   "pakistan",
+   "towns",
+   "map pin",
+   "place"
+  ]
+ },
+ "rawalpindi": {
+  "word": "Rawalpindi",
+  "id": "nature-and-world.cities-of-pakistan.rawalpindi",
+  "urdu": "راولپنڈی",
+  "roman_urdu": "rawalpindi",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "faisalabad": {
+  "word": "Faisalabad",
+  "id": "nature-and-world.cities-of-pakistan.faisalabad",
+  "urdu": "فیصل آباد",
+  "roman_urdu": "faisalabad",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "multan": {
+  "word": "Multan",
+  "id": "nature-and-world.cities-of-pakistan.multan",
+  "urdu": "ملتان",
+  "roman_urdu": "multan",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "peshawar": {
+  "word": "Peshawar",
+  "id": "nature-and-world.cities-of-pakistan.peshawar",
+  "urdu": "پشاور",
+  "roman_urdu": "peshawar",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "quetta": {
+  "word": "Quetta",
+  "id": "nature-and-world.cities-of-pakistan.quetta",
+  "urdu": "کوئٹہ",
+  "roman_urdu": "quetta",
+  "skin": [],
+  "keywords": [
+   "balochistan",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "hyderabad-sindh": {
+  "word": "Hyderabad",
+  "id": "nature-and-world.cities-of-pakistan.hyderabad",
+  "urdu": "حیدرآباد",
+  "roman_urdu": "hyderabad",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "gujranwala": {
+  "word": "Gujranwala",
+  "id": "nature-and-world.cities-of-pakistan.gujranwala",
+  "urdu": "گوجرانوالہ",
+  "roman_urdu": "gujranwala",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "sialkot": {
+  "word": "Sialkot",
+  "id": "nature-and-world.cities-of-pakistan.sialkot",
+  "urdu": "سیالکوٹ",
+  "roman_urdu": "sialkot",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "sargodha": {
+  "word": "Sargodha",
+  "id": "nature-and-world.cities-of-pakistan.sargodha",
+  "urdu": "سرگودھا",
+  "roman_urdu": "sargodha",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "bahawalpur": {
+  "word": "Bahawalpur",
+  "id": "nature-and-world.cities-of-pakistan.bahawalpur",
+  "urdu": "بہاولپور",
+  "roman_urdu": "bahawalpur",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "sukkur": {
+  "word": "Sukkur",
+  "id": "nature-and-world.cities-of-pakistan.sukkur",
+  "urdu": "سکھر",
+  "roman_urdu": "sukkur",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "larkana": {
+  "word": "Larkana",
+  "id": "nature-and-world.cities-of-pakistan.larkana",
+  "urdu": "لاڑکانہ",
+  "roman_urdu": "larkana",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "abbottabad": {
+  "word": "Abbottabad",
+  "id": "nature-and-world.cities-of-pakistan.abbottabad",
+  "urdu": "ایبٹ آباد",
+  "roman_urdu": "abbottabad",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "mardan": {
+  "word": "Mardan",
+  "id": "nature-and-world.cities-of-pakistan.mardan",
+  "urdu": "مردان",
+  "roman_urdu": "mardan",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "gujrat": {
+  "word": "Gujrat",
+  "id": "nature-and-world.cities-of-pakistan.gujrat",
+  "urdu": "گجرات",
+  "roman_urdu": "gujrat",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "sheikhupura": {
+  "word": "Sheikhupura",
+  "id": "nature-and-world.cities-of-pakistan.sheikhupura",
+  "urdu": "شیخوپورہ",
+  "roman_urdu": "sheikhupura",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "jhang": {
+  "word": "Jhang",
+  "id": "nature-and-world.cities-of-pakistan.jhang",
+  "urdu": "جھنگ",
+  "roman_urdu": "jhang",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "rahim-yar-khan": {
+  "word": "Rahim Yar Khan",
+  "id": "nature-and-world.cities-of-pakistan.rahim-yar-khan",
+  "urdu": "رحیم یار خان",
+  "roman_urdu": "rahim yar khan",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "dera-ghazi-khan": {
+  "word": "Dera Ghazi Khan",
+  "id": "nature-and-world.cities-of-pakistan.dera-ghazi-khan",
+  "urdu": "ڈیرہ غازی خان",
+  "roman_urdu": "dera ghazi khan",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "dera-ismail-khan": {
+  "word": "Dera Ismail Khan",
+  "id": "nature-and-world.cities-of-pakistan.dera-ismail-khan",
+  "urdu": "ڈیرہ اسماعیل خان",
+  "roman_urdu": "dera ismail khan",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "sahiwal": {
+  "word": "Sahiwal",
+  "id": "nature-and-world.cities-of-pakistan.sahiwal",
+  "urdu": "ساہیوال",
+  "roman_urdu": "sahiwal",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "okara": {
+  "word": "Okara",
+  "id": "nature-and-world.cities-of-pakistan.okara",
+  "urdu": "اوکاڑہ",
+  "roman_urdu": "okara",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "kasur": {
+  "word": "Kasur",
+  "id": "nature-and-world.cities-of-pakistan.kasur",
+  "urdu": "قصور",
+  "roman_urdu": "kasur",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "jhelum": {
+  "word": "Jhelum",
+  "id": "nature-and-world.cities-of-pakistan.jhelum",
+  "urdu": "جہلم",
+  "roman_urdu": "jhelum",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "chiniot": {
+  "word": "Chiniot",
+  "id": "nature-and-world.cities-of-pakistan.chiniot",
+  "urdu": "چنیوٹ",
+  "roman_urdu": "chiniot",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "attock": {
+  "word": "Attock",
+  "id": "nature-and-world.cities-of-pakistan.attock",
+  "urdu": "اٹک",
+  "roman_urdu": "attock",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "murree": {
+  "word": "Murree",
+  "id": "nature-and-world.cities-of-pakistan.murree",
+  "urdu": "مری",
+  "roman_urdu": "murree",
+  "skin": [],
+  "keywords": [
+   "punjab",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "mirpur": {
+  "word": "Mirpur",
+  "id": "nature-and-world.cities-of-pakistan.mirpur",
+  "urdu": "میرپور",
+  "roman_urdu": "mirpur",
+  "skin": [],
+  "keywords": [
+   "azad kashmir",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "muzaffarabad": {
+  "word": "Muzaffarabad",
+  "id": "nature-and-world.cities-of-pakistan.muzaffarabad",
+  "urdu": "مظفرآباد",
+  "roman_urdu": "muzaffarabad",
+  "skin": [],
+  "keywords": [
+   "azad kashmir",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "gilgit": {
+  "word": "Gilgit",
+  "id": "nature-and-world.cities-of-pakistan.gilgit",
+  "urdu": "گلگت",
+  "roman_urdu": "gilgit",
+  "skin": [],
+  "keywords": [
+   "gilgit-baltistan",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "skardu": {
+  "word": "Skardu",
+  "id": "nature-and-world.cities-of-pakistan.skardu",
+  "urdu": "سکردو",
+  "roman_urdu": "skardu",
+  "skin": [],
+  "keywords": [
+   "gilgit-baltistan",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "chitral": {
+  "word": "Chitral",
+  "id": "nature-and-world.cities-of-pakistan.chitral",
+  "urdu": "چترال",
+  "roman_urdu": "chitral",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "mingora": {
+  "word": "Mingora",
+  "id": "nature-and-world.cities-of-pakistan.mingora",
+  "urdu": "مینگورہ",
+  "roman_urdu": "mingora",
+  "skin": [],
+  "keywords": [
+   "swat",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "kohat": {
+  "word": "Kohat",
+  "id": "nature-and-world.cities-of-pakistan.kohat",
+  "urdu": "کوہاٹ",
+  "roman_urdu": "kohat",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "bannu": {
+  "word": "Bannu",
+  "id": "nature-and-world.cities-of-pakistan.bannu",
+  "urdu": "بنوں",
+  "roman_urdu": "bannu",
+  "skin": [],
+  "keywords": [
+   "khyber pakhtunkhwa",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "gwadar": {
+  "word": "Gwadar",
+  "id": "nature-and-world.cities-of-pakistan.gwadar",
+  "urdu": "گوادر",
+  "roman_urdu": "gwadar",
+  "skin": [],
+  "keywords": [
+   "balochistan",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "turbat": {
+  "word": "Turbat",
+  "id": "nature-and-world.cities-of-pakistan.turbat",
+  "urdu": "تربت",
+  "roman_urdu": "turbat",
+  "skin": [],
+  "keywords": [
+   "balochistan",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "khuzdar": {
+  "word": "Khuzdar",
+  "id": "nature-and-world.cities-of-pakistan.khuzdar",
+  "urdu": "خضدار",
+  "roman_urdu": "khuzdar",
+  "skin": [],
+  "keywords": [
+   "balochistan",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "nawabshah": {
+  "word": "Nawabshah",
+  "id": "nature-and-world.cities-of-pakistan.nawabshah",
+  "urdu": "نوابشاہ",
+  "roman_urdu": "nawabshah",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "mirpur-khas": {
+  "word": "Mirpur Khas",
+  "id": "nature-and-world.cities-of-pakistan.mirpur-khas",
+  "urdu": "میرپور خاص",
+  "roman_urdu": "mirpur khas",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "jacobabad": {
+  "word": "Jacobabad",
+  "id": "nature-and-world.cities-of-pakistan.jacobabad",
+  "urdu": "جیکب آباد",
+  "roman_urdu": "jacobabad",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "thatta": {
+  "word": "Thatta",
+  "id": "nature-and-world.cities-of-pakistan.thatta",
+  "urdu": "ٹھٹھہ",
+  "roman_urdu": "thatta",
+  "skin": [],
+  "keywords": [
+   "sindh",
+   "city",
+   "pakistani city",
+   "town",
+   "travel",
+   "place",
+   "pakistan"
+  ]
+ },
+ "read-quran": {
+  "word": "read Quran",
+  "id": "actions.everyday.quran-parhna",
+  "urdu": "قرآن پڑھنا",
+  "roman_urdu": "quran parhna",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "reading",
+   "holy book",
+   "quran",
+   "recite",
+   "rehal",
+   "book stand",
+   "prayer",
+   "religion",
+   "study"
+  ]
+ },
+ "make-roti": {
+  "word": "make roti",
+  "id": "actions.everyday.roti-pakana",
+  "urdu": "روٹی پکانا",
+  "roman_urdu": "roti pakana",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "cooking",
+   "rolling pin",
+   "flatbread",
+   "bread",
+   "kitchen",
+   "chapati",
+   "making food",
+   "cook"
+  ]
+ },
+ "knead-dough": {
+  "word": "knead dough",
+  "id": "actions.everyday.aata-goondhna",
+  "urdu": "آٹا گوندھنا",
+  "roman_urdu": "aata goondhna",
+  "skin": [],
+  "keywords": [
+   "dough",
+   "flour",
+   "hands",
+   "bowl",
+   "cooking",
+   "bread making",
+   "kitchen",
+   "mix"
+  ]
+ },
+ "make-dua": {
+  "word": "make dua",
+  "id": "actions.with-people.dua",
+  "urdu": "دعا کرنا",
+  "roman_urdu": "dua karna",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "prayer",
+   "praying",
+   "hands raised",
+   "asking god",
+   "worship",
+   "religion",
+   "wish"
+  ]
+ },
+ "speed-and-time": {
+  "word": "Speed & time",
+  "id": "sub:describing.speed-and-time",
+  "urdu": "رفتار اور وقت",
+  "roman_urdu": "raftar aur waqt",
+  "skin": [],
+  "keywords": [
+   "fast",
+   "hurry",
+   "quick",
+   "clock",
+   "time",
+   "running",
+   "late",
+   "speed"
+  ]
+ },
+ "rupees": {
+  "word": "rupees",
+  "id": "numbers.money.rupay",
+  "urdu": "روپے",
+  "roman_urdu": "rupay",
+  "skin": [],
+  "keywords": [
+   "money",
+   "cash",
+   "banknotes",
+   "coins",
+   "currency",
+   "pay",
+   "shopping",
+   "price"
+  ]
+ },
+ "ten-rupee-note": {
+  "word": "10 rupees",
+  "id": "numbers.money.das-rupay",
+  "urdu": "دس روپے",
+  "roman_urdu": "das rupay",
+  "skin": [],
+  "keywords": [
+   "money",
+   "banknote",
+   "cash",
+   "ten",
+   "small note",
+   "currency",
+   "pay"
+  ]
+ },
+ "hundred-rupee-note": {
+  "word": "100 rupees",
+  "id": "numbers.money.sau-rupay",
+  "urdu": "سو روپے",
+  "roman_urdu": "sau rupay",
+  "skin": [],
+  "keywords": [
+   "money",
+   "banknote",
+   "cash",
+   "hundred",
+   "currency",
+   "pay",
+   "shopping"
+  ]
+ },
+ "thousand-rupee-note": {
+  "word": "1000 rupees",
+  "id": "numbers.money.hazaar-rupay",
+  "urdu": "ہزار روپے",
+  "roman_urdu": "hazaar rupay",
+  "skin": [],
+  "keywords": [
+   "money",
+   "banknote",
+   "cash",
+   "thousand",
+   "big note",
+   "currency",
+   "pay"
+  ]
+ },
+ "eidi": {
+  "word": "Eid money",
+  "id": "numbers.money.eidi",
+  "urdu": "عیدی",
+  "roman_urdu": "eidi",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "gift",
+   "eid",
+   "celebration",
+   "happy",
+   "cash present",
+   "festival"
+  ]
+ },
+ "mobile-wallet": {
+  "word": "mobile wallet",
+  "id": "numbers.money.jazzcash",
+  "urdu": "ایزی پیسہ",
+  "roman_urdu": "easypaisa",
+  "skin": [],
+  "keywords": [
+   "phone payment",
+   "mobile money",
+   "pay by phone",
+   "send money",
+   "digital money",
+   "phone",
+   "banking"
+  ]
+ },
+ "summer-holidays": {
+  "word": "summer holidays",
+  "id": "time-and-weather.clock-and-calendar.summer-holidays",
+  "urdu": "گرمیوں کی چھٹیاں",
+  "roman_urdu": "garmiyon ki chhuttiyan",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "summer",
+   "holiday",
+   "school break",
+   "rest",
+   "hot weather",
+   "vacation",
+   "relax"
+  ]
+ },
+ "monsoon": {
+  "word": "monsoon",
+  "id": "time-and-weather.clock-and-calendar.monsoon",
+  "urdu": "ساون",
+  "roman_urdu": "saawan",
+  "skin": [],
+  "keywords": [
+   "rain",
+   "rainy season",
+   "clouds",
+   "storm",
+   "wet",
+   "weather",
+   "puddle",
+   "season"
+  ]
+ },
+ "fajr": {
+  "word": "dawn prayer",
+  "id": "time-and-weather.parts-of-the-day.fajr",
+  "urdu": "فجر",
+  "roman_urdu": "fajr",
+  "skin": [],
+  "keywords": [
+   "morning prayer",
+   "prayer time",
+   "sunrise",
+   "early morning",
+   "mosque",
+   "salah"
+  ]
+ },
+ "zuhr": {
+  "word": "midday prayer",
+  "id": "time-and-weather.parts-of-the-day.zuhr",
+  "urdu": "ظہر",
+  "roman_urdu": "zuhr",
+  "skin": [],
+  "keywords": [
+   "noon prayer",
+   "prayer time",
+   "afternoon",
+   "mosque",
+   "salah",
+   "sun high"
+  ]
+ },
+ "asr": {
+  "word": "afternoon prayer",
+  "id": "time-and-weather.parts-of-the-day.asr",
+  "urdu": "عصر",
+  "roman_urdu": "asr",
+  "skin": [],
+  "keywords": [
+   "prayer time",
+   "late afternoon",
+   "mosque",
+   "salah",
+   "evening"
+  ]
+ },
+ "maghrib": {
+  "word": "sunset prayer",
+  "id": "time-and-weather.parts-of-the-day.maghrib",
+  "urdu": "مغرب",
+  "roman_urdu": "maghrib",
+  "skin": [],
+  "keywords": [
+   "prayer time",
+   "sunset",
+   "evening",
+   "mosque",
+   "salah"
+  ]
+ },
+ "isha": {
+  "word": "night prayer",
+  "id": "time-and-weather.parts-of-the-day.isha",
+  "urdu": "عشاء",
+  "roman_urdu": "isha",
+  "skin": [],
+  "keywords": [
+   "prayer time",
+   "night",
+   "stars",
+   "mosque",
+   "salah",
+   "bedtime"
+  ]
+ },
+ "hot-wind-loo": {
+  "word": "hot wind",
+  "id": "time-and-weather.weather.loo",
+  "urdu": "لو",
+  "roman_urdu": "loo",
+  "skin": [],
+  "keywords": [
+   "heat",
+   "summer",
+   "dust",
+   "sun",
+   "hot weather",
+   "weather"
+  ]
+ },
+ "muharram": {
+  "word": "Muharram",
+  "id": "events-and-occasions.calendar.muharram",
+  "urdu": "محرم",
+  "roman_urdu": "muharram",
+  "skin": [],
+  "keywords": [
+   "islamic month",
+   "new year",
+   "month",
+   "mourning",
+   "calendar",
+   "flag"
+  ]
+ },
+ "rajab": {
+  "word": "Rajab",
+  "id": "events-and-occasions.calendar.rajab",
+  "urdu": "رجب",
+  "roman_urdu": "rajab",
+  "skin": [],
+  "keywords": [
+   "islamic month",
+   "month",
+   "calendar",
+   "moon",
+   "holy month"
+  ]
+ },
+ "shaban": {
+  "word": "Shaban",
+  "id": "events-and-occasions.calendar.shaban",
+  "urdu": "شعبان",
+  "roman_urdu": "shaban",
+  "skin": [],
+  "keywords": [
+   "islamic month",
+   "month",
+   "calendar",
+   "moon",
+   "lamp",
+   "night of forgiveness"
+  ]
+ },
+ "ramzan": {
+  "word": "Ramzan",
+  "id": "events-and-occasions.calendar.ramzan-month",
+  "urdu": "رمضان",
+  "roman_urdu": "ramzan",
+  "skin": [],
+  "keywords": [
+   "ramadan",
+   "fasting month",
+   "islamic month",
+   "fasting",
+   "iftar",
+   "lantern",
+   "dates"
+  ]
+ },
+ "shawwal": {
+  "word": "Shawwal",
+  "id": "events-and-occasions.calendar.shawwal",
+  "urdu": "شوال",
+  "roman_urdu": "shawwal",
+  "skin": [],
+  "keywords": [
+   "islamic month",
+   "eid month",
+   "eid",
+   "month",
+   "calendar",
+   "sweet dish"
+  ]
+ },
+ "dhul-hijjah": {
+  "word": "Dhul Hijjah",
+  "id": "events-and-occasions.calendar.zilhaj",
+  "urdu": "ذوالحج",
+  "roman_urdu": "zil hajj",
+  "skin": [],
+  "keywords": [
+   "islamic month",
+   "hajj",
+   "eid ul adha",
+   "sacrifice",
+   "goat",
+   "month",
+   "calendar"
+  ]
+ },
+ "dholki": {
+  "word": "pre-wedding singing",
+  "id": "events-and-occasions.celebrations.dholki",
+  "urdu": "ڈھولکی",
+  "roman_urdu": "dholki",
+  "skin": [],
+  "keywords": [
+   "wedding",
+   "drum",
+   "music",
+   "singing",
+   "celebration",
+   "party",
+   "mehndi"
+  ]
+ },
+ "dawat": {
+  "word": "dinner invitation",
+  "id": "events-and-occasions.celebrations.dawat",
+  "urdu": "دعوت",
+  "roman_urdu": "dawat",
+  "skin": [],
+  "keywords": [
+   "dinner party",
+   "invitation",
+   "guests",
+   "feast",
+   "food",
+   "table",
+   "meal",
+   "visit"
+  ]
+ },
+ "quran-completion": {
+  "word": "Quran completion",
+  "id": "events-and-occasions.celebrations.khatam",
+  "urdu": "ختم قرآن",
+  "roman_urdu": "khatam e quran",
+  "skin": [],
+  "keywords": [
+   "finishing the quran",
+   "celebration",
+   "khatam",
+   "holy book",
+   "garland",
+   "gift",
+   "religion"
+  ]
+ },
+ "first-quran-lesson": {
+  "word": "first Quran lesson",
+  "id": "events-and-occasions.celebrations.bismillah-taqreeb",
+  "urdu": "بسم اللہ کی تقریب",
+  "roman_urdu": "bismillah ki taqreeb",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "starting the quran",
+   "first lesson",
+   "bismillah",
+   "celebration",
+   "holy book",
+   "garland",
+   "religion"
+  ]
+ },
+ "independence-day": {
+  "word": "Independence Day",
+  "id": "events-and-occasions.holidays.14-august",
+  "urdu": "چودہ اگست",
+  "roman_urdu": "14 august",
+  "skin": [],
+  "keywords": [
+   "pakistan",
+   "flag",
+   "celebration",
+   "freedom",
+   "national day",
+   "holiday"
+  ]
  }
 }
