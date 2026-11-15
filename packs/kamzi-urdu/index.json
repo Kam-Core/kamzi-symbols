@@ -2607,5 +2607,414 @@
    "ball",
    "sport"
   ]
+ },
+ "polo": {
+  "word": "polo",
+  "id": "sports-and-activities.sports.polo",
+  "urdu": "پولو",
+  "roman_urdu": "polo",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "horse",
+   "mallet",
+   "horse riding",
+   "sport"
+  ]
+ },
+ "tape-ball-cricket": {
+  "word": "tape-ball cricket",
+  "id": "sports-and-activities.sports.tape-ball",
+  "urdu": "ٹیپ بال",
+  "roman_urdu": "tape ball",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "street cricket",
+   "cricket",
+   "bat",
+   "ball",
+   "sport"
+  ]
+ },
+ "wickets": {
+  "word": "wickets",
+  "id": "sports-and-activities.sports-things.wickets",
+  "urdu": "وکٹ",
+  "roman_urdu": "wicket",
+  "skin": [],
+  "keywords": [
+   "stumps",
+   "bails",
+   "cricket",
+   "sport"
+  ]
+ },
+ "cricket-six": {
+  "word": "six!",
+  "id": "sports-and-activities.playing-sport.six",
+  "urdu": "چھکا",
+  "roman_urdu": "chhakka",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "six",
+   "sixer",
+   "big hit",
+   "cricket",
+   "bat",
+   "sport"
+  ]
+ },
+ "cricket-four": {
+  "word": "four!",
+  "id": "sports-and-activities.playing-sport.four",
+  "urdu": "چوکا",
+  "roman_urdu": "chauka",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "four",
+   "boundary",
+   "cricket",
+   "ball",
+   "sport"
+  ]
+ },
+ "howzat": {
+  "word": "howzat",
+  "id": "sports-and-activities.playing-sport.howzat",
+  "urdu": "آؤٹ ہے؟",
+  "roman_urdu": "out hai",
+  "skin": [
+   "#EAD2AE"
+  ],
+  "keywords": [
+   "appeal",
+   "out",
+   "cricket",
+   "shout",
+   "sport"
+  ]
+ },
+ "shalwar": {
+  "word": "shalwar",
+  "id": "clothes.clothes.shalwar",
+  "urdu": "شلوار",
+  "roman_urdu": "shalwar",
+  "skin": [],
+  "keywords": [
+   "trousers",
+   "baggy pants",
+   "salwar",
+   "clothes"
+  ]
+ },
+ "shawl": {
+  "word": "shawl",
+  "id": "clothes.clothes.chadar",
+  "urdu": "چادر",
+  "roman_urdu": "chaadar",
+  "skin": [],
+  "keywords": [
+   "chadar",
+   "wrap",
+   "warm",
+   "winter",
+   "clothes"
+  ],
+  "also_ids": [
+   "clothes.clothes.shawl"
+  ]
+ },
+ "lehenga": {
+  "word": "lehenga",
+  "id": "clothes.clothes.lehenga",
+  "urdu": "لہنگا",
+  "roman_urdu": "lehnga",
+  "skin": [],
+  "keywords": [
+   "long skirt",
+   "wedding",
+   "festive",
+   "clothes"
+  ]
+ },
+ "kurti": {
+  "word": "kurti",
+  "id": "clothes.clothes.kurti",
+  "urdu": "کرتی",
+  "roman_urdu": "kurti",
+  "skin": [],
+  "keywords": [
+   "short kurta",
+   "top",
+   "tunic",
+   "clothes"
+  ]
+ },
+ "pajama-trousers": {
+  "word": "pajama trousers",
+  "id": "clothes.clothes.pajama",
+  "urdu": "پاجامہ",
+  "roman_urdu": "pajama",
+  "skin": [],
+  "keywords": [
+   "trousers",
+   "cotton pants",
+   "clothes"
+  ]
+ },
+ "gharara": {
+  "word": "gharara",
+  "id": "clothes.clothes.gharara",
+  "urdu": "غرارہ",
+  "roman_urdu": "gharara",
+  "skin": [],
+  "keywords": [
+   "wide trousers",
+   "wedding",
+   "festive",
+   "clothes"
+  ]
+ },
+ "sharara": {
+  "word": "sharara",
+  "id": "clothes.clothes.sharara",
+  "urdu": "شرارہ",
+  "roman_urdu": "sharara",
+  "skin": [],
+  "keywords": [
+   "flared trousers",
+   "wedding",
+   "festive",
+   "clothes"
+  ]
+ },
+ "churidar": {
+  "word": "churidar",
+  "id": "clothes.clothes.churidar",
+  "urdu": "چوڑی دار پاجامہ",
+  "roman_urdu": "churidar",
+  "skin": [],
+  "keywords": [
+   "fitted trousers",
+   "leggings",
+   "clothes"
+  ]
+ },
+ "burqa": {
+  "word": "burqa",
+  "id": "clothes.clothes.burqa",
+  "urdu": "برقع",
+  "roman_urdu": "burqa",
+  "skin": [],
+  "keywords": [
+   "abaya",
+   "robe",
+   "covering",
+   "clothes"
+  ]
+ },
+ "ajrak": {
+  "word": "ajrak",
+  "id": "clothes.clothes.ajrak",
+  "urdu": "اجرک",
+  "roman_urdu": "ajrak",
+  "skin": [],
+  "keywords": [
+   "sindhi shawl",
+   "block print",
+   "sindh",
+   "shawl",
+   "clothes"
+  ]
+ },
+ "pagri-turban": {
+  "word": "turban",
+  "id": "clothes.clothes.pagri",
+  "urdu": "پگڑی",
+  "roman_urdu": "pagri",
+  "skin": [],
+  "keywords": [
+   "headwear",
+   "wrap",
+   "clothes"
+  ]
+ },
+ "tehmand": {
+  "word": "tehmand",
+  "id": "clothes.clothes.tehmand",
+  "urdu": "تہبند",
+  "roman_urdu": "tehmand",
+  "skin": [],
+  "keywords": [
+   "lungi",
+   "sarong",
+   "wrap",
+   "clothes"
+  ]
+ },
+ "dhoti": {
+  "word": "dhoti",
+  "id": "clothes.clothes.dhoti",
+  "urdu": "دھوتی",
+  "roman_urdu": "dhoti",
+  "skin": [],
+  "keywords": [
+   "wrap",
+   "cloth",
+   "clothes"
+  ]
+ },
+ "kurta-pajama": {
+  "word": "kurta pajama",
+  "id": "clothes.clothes.kurta-pajama",
+  "urdu": "کرتا پاجامہ",
+  "roman_urdu": "kurta pajama",
+  "skin": [],
+  "keywords": [
+   "kurta",
+   "pajama",
+   "outfit",
+   "eid clothes",
+   "clothes"
+  ]
+ },
+ "lawn-suit": {
+  "word": "lawn suit",
+  "id": "clothes.clothes.lawn-suit",
+  "urdu": "لان کا سوٹ",
+  "roman_urdu": "lawn ka suit",
+  "skin": [],
+  "keywords": [
+   "lawn",
+   "suit",
+   "printed suit",
+   "summer clothes",
+   "outfit",
+   "clothes"
+  ]
+ },
+ "angarkha": {
+  "word": "angarkha",
+  "id": "clothes.clothes.angarkha",
+  "urdu": "انگرکھا",
+  "roman_urdu": "angarkha",
+  "skin": [],
+  "keywords": [
+   "traditional dress",
+   "wrap top",
+   "clothes"
+  ]
+ },
+ "frock-pajama": {
+  "word": "frock and pajama",
+  "id": "clothes.clothes.frock-pajama",
+  "urdu": "فراک پاجامہ",
+  "roman_urdu": "frock pajama",
+  "skin": [],
+  "keywords": [
+   "frock",
+   "dress",
+   "pajama",
+   "outfit",
+   "clothes"
+  ]
+ },
+ "peshawari-chappal": {
+  "word": "Peshawari chappal",
+  "id": "clothes.shoes.peshawari",
+  "urdu": "پشاوری چپل",
+  "roman_urdu": "peshawari chappal",
+  "skin": [],
+  "keywords": [
+   "chappal",
+   "sandals",
+   "peshawari",
+   "shoes",
+   "footwear"
+  ]
+ },
+ "bangles": {
+  "word": "bangles",
+  "id": "clothes.hats-and-extras.choorian",
+  "urdu": "چوڑیاں",
+  "roman_urdu": "choorian",
+  "skin": [],
+  "keywords": [
+   "chooriyan",
+   "glass bangles",
+   "bracelets",
+   "jewellery"
+  ]
+ },
+ "parandi": {
+  "word": "hair tassel",
+  "id": "clothes.hats-and-extras.parandi",
+  "urdu": "پراندہ",
+  "roman_urdu": "paranda",
+  "skin": [],
+  "keywords": [
+   "hair accessory",
+   "braid",
+   "tassel"
+  ]
+ },
+ "jinnah-cap": {
+  "word": "Jinnah cap",
+  "id": "clothes.hats-and-extras.jinnah-cap",
+  "urdu": "جناح کیپ",
+  "roman_urdu": "jinnah cap",
+  "skin": [],
+  "keywords": [
+   "karakul",
+   "cap",
+   "hat",
+   "headwear"
+  ]
+ },
+ "sindhi-topi": {
+  "word": "Sindhi cap",
+  "id": "clothes.hats-and-extras.sindhi-topi",
+  "urdu": "سندھی ٹوپی",
+  "roman_urdu": "sindhi topi",
+  "skin": [],
+  "keywords": [
+   "cap",
+   "mirror work",
+   "sindh",
+   "hat"
+  ]
+ },
+ "pakol": {
+  "word": "pakol",
+  "id": "clothes.hats-and-extras.pakol",
+  "urdu": "پکول",
+  "roman_urdu": "pakol",
+  "skin": [],
+  "keywords": [
+   "chitrali cap",
+   "wool cap",
+   "hat",
+   "headwear"
+  ]
+ },
+ "jhumka-earrings": {
+  "word": "jhumka earrings",
+  "id": "clothes.hats-and-extras.jhumkay",
+  "urdu": "جھمکے",
+  "roman_urdu": "jhumkay",
+  "skin": [],
+  "keywords": [
+   "jhumka",
+   "earrings",
+   "gold",
+   "jewellery"
+  ]
  }
 }
