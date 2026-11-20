@@ -10,7 +10,7 @@ These packs are built by `scripts/symbols/` in the Kamzi Talk repo. Do not edit 
 
 ## Kamzi pictures for Kamzi Boards
 
-`packs/kamzi-boards/` holds Kamzi Talk's own drawings made for the Kamzi Boards templates (November 2026): 178 new words and 40 clearer redraws. `index.json` maps each SVG to its word and Kamzi Talk word ID. They are © Kam Core Pty Ltd and are built into the app (`assets/kamzi-art`); this copy keeps all Kamzi pictures in one repo. Not a download library, so it is not listed in `packs/index.json`.
+`packs/kamzi-boards/` holds Kamzi Talk's own drawings made for the Kamzi Boards templates (November 2026): 178 new words and 40 clearer redraws. On 20 Nov 2026 Kam approved a bigger set of 258 drawings (safety posters, doctor and health, food needs, sun and beach, 80 redraws); they replace the older drawing of the same name. `index.json` maps each SVG to its word and Kamzi Talk word ID. They are © Kam Core Pty Ltd and are built into the app (`assets/kamzi-art`); this copy keeps all Kamzi pictures in one repo. Not a download library, so it is not listed in `packs/index.json`.
 
 ## Kamzi pictures for Kamzi Talk Urdu
 
